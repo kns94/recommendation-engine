@@ -1,0 +1,2006 @@
+@relation TempFiles/temp1.csv
+@attribute ID numeric
+@attribute Tweet string
+@attribute classlabel {opinion,call_for_action,emotional_feeling,fact_reporting,evidential_images_and_videos,harmful_action,metaphor,query} 
+
+@data
+"418171178436419584","rt black wom talk rap whit men ppl seem think just hold pain slavery",?
+"418172865955909632","kansa city hottest club horr rap jok _url_",?
+"418182216871841792","downplay situ re slut sham endors sex assault",?
+"418211771011186689","rap est comendo viv",?
+"418264878504083456","keep thego stop rap tonight",?
+"418265430294155264","omgg know bitch aint rap maggy walkingdead",?
+"418280276544872448","bad rap",?
+"418281972101038080","fil complaint twit bm post photo incapacit bw threat rap now gonn contact buddy sourc",?
+"418282369775591424","keep thego stop rap tonight _url_",?
+"418288638032506880","don rap trav pleas ll cry",?
+"418292917396983808","cavem first inv rap hot head bitch wak pregn fuck",?
+"418310872658747392","hahahah kony wel mah rap ka sakn buka",?
+"418318307901448193","end rap now",?
+"418360631436124160","follow wil rap",?
+"418368774878674944","lik phon rap",?
+"418399064015663106","holdap na gwapo girl rap rap rap holdap anong rap holdap lang girl bakit masam bang mag suggest ang land",?
+"418401222329393152","rt not job coddl educ young black men com viol wom wann teach",?
+"418408717814874112","many wom believ must beat partn hetero homo rel alik",?
+"418410013607346176","rt sex assault not sex desir viol control humy",?
+"418421707347460097","sery sex attack edinburgh year old wom victim sery sex assault edin",?
+"418441771584987136","cha seung won son cha no ah acquit sex assault charg _url_",?
+"418443712390131712","cha seung won son cha no ah acquit sex assault charg back august pro gam cha _url_",?
+"418445075170201600","rt wom nee protect men urg rap men nee protect urg kil th",?
+"418447257755996161","welcom diehardforgirl fierc book fierc wom men attack kindl _url_",?
+"418448440524173312","rap disgust crim",?
+"418462372974854144","don agr fan giv play shit re least week can rap much money safc",?
+"418463833032646656","pol investig ga man tweet going rap pass girl _url_",?
+"418465017982623744","rt estoy pensando de hac algo del estilo si consigo lik en un dejo que rap pero no tengo pelot",?
+"418467048012775424","real dud think wit lik rap ath on black guy pick girl flo drag",?
+"418470405356388352","rt rap dumb rap innoc person hoe fuck fre",?
+"418479262362894336","whit chick com bang door no sho no pant talk can let black dud tryn rap",?
+"418481220113035264","carl stop pleas eastend omg no rap",?
+"418513762555920385","_url_ avery import blog rap stop min skirt blam",?
+"418513965941919744","mal duck rap fem duck help",?
+"418519545490718721","devil rap dat fool dat brought world aint cheap bloody hoe smh wast tweet fuck ment freak",?
+"418523898334806016","talk rap lead first point abstin key",?
+"418524867651059712","cob co pd investig man tweet pict morn say going rap girl http",?
+"418527341602545664","rt yard penal unnecess rap _url_",?
+"418535150046048256","rap",?
+"418542358104264704","girl mmmm show gonn beat pu baby _url_",?
+"418544729568325634","tl us rais aw eveslaw evesmark domesticviol osc childabus rap stalk abus not",?
+"418547569887694848","pizz won ev cal nam che beat lie fak rap girl dat",?
+"418551894387064832","callmeoldfash think marry com childr",?
+"418553383474450432","peopl fuck idiot rap alway rap fault someon",?
+"418555527954989057","baltim city pol nee help loc sex assault suspect _url_ _url_",?
+"418594266647392256","m rap",?
+"418597143197536256","isn rap",?
+"418606891359404032","dust assocy ug stak could rap profess dawdl tmetmo",?
+"418609269429125120","good see bal report imply viol men wom",?
+"418610224208285697","world com re dat year old rap whol level re dat child",?
+"418614978443096065","geeekin retweet stalk ass girl",?
+"418665850481434624","congress support aap delh saf mla not arrest fals wom not arrest rap http",?
+"418668953893105664","hi terr decid includ rap charg avoid jul assang today jok",?
+"418678847169511424","rap can nev blam victim wis man build glass hous near ston quarry",?
+"418684100967284736","urg rap _url_",?
+"418712592144924672","not giv man accus rap airtim nor extrem unless real new sham bbc",?
+"418718114743074816","rt rap dumbest crim ev rap innoc person many hoe day",?
+"418726398312738816","attn wom fastest way los weight burn fat stop fat produc _url_",?
+"418726450242416642","attn wom fastest way los weight burn fat stop fat produc _url_",?
+"419231838838996992","rap mee worldstagenirvan",?
+"419234985011597312","dud rap drunk fee cat food tel snack mix gon learn today",?
+"419236798762459137","rap whistl anoth sec wil fal tonight big osu mizz cottonbowl okst",?
+"419242277618204672","nirvan rap solo acoust _url_",?
+"419268988120887297","rt facebookproblemsnight lik respect justin bieb ign want sat rap",?
+"419274196229697536","sex assault milit control rul suicid out _url_ htt",?
+"419283441893396480","rt campaign s cit victim predomin found sex traffick und victim oft runaway troubl hom",?
+"419288119121158144","chant viol rap diplo fac miss lif",?
+"419293908712316928","rt first girl attack movy jaw screaming real pain har brok hip drag",?
+"419300092575617025","mom got rap girl can rap wil lik man dream",?
+"419303226971009024","rt rap dumbest crim ev rap innoc person hoe throwing pussy around",?
+"419304327866769408","rt first girl attack movy jaw screaming real pain har brok hip drag",?
+"419316999995789313","rt worcest stat common chos maj sex assault smack",?
+"419323733539442688","apafrom blowhol rap weirdest thing seen aggro badg gallery tmituesd",?
+"419330274086748160","best friend say gonn rap shouldibeworry freak",?
+"419333658843955200","rt worst thing said wom abort rap _url_",?
+"419348152626737152","cheek rap",?
+"419349839046914048","wrong cthulhu tentac rap anyway wait backlash cthulhu tentac rap victim",?
+"419354893594263552","worst thing said wom abort rap _url_ short mem",?
+"419356433608474624","puch wag niyong rap si vhong",?
+"419406201324318720","caus rap _url_",?
+"419447159566921728","kind rap isn crim correct rap us cur lesb",?
+"419450939360038912","imagin dj holdap rap rap tulung nyo ko dj holdap di rap ed wag nag suggest lang ee",?
+"419457369702035456","il rap littl pretty foxy know",?
+"419471333337362432","want oomf rap la want ro sex abus lik no on busy",?
+"419477596133679104","seen newspap ind country on highest rat rap sex abus",?
+"419481255261253632","rt seen newspap ind country on highest rat rap sex abus _url_",?
+"419500404687130625","caus rap _url_",?
+"419521475146973184","rt artil shel airstrik kidnap rap gang rap murd kachin wom attack civil continu",?
+"419523240164610048","rt just loss whit girl guess rap lyr turn rac card get kick popey chick",?
+"419530340257239040","sbs com crim watch nev look gang whit peopl connect rap",?
+"419532626748133376","accus someon rap didn arrest sint don fam person internet fin",?
+"419542305872158722","nigg rap",?
+"419543761970929664","lsugs hard bc as jer s rap snd screaming bc cant breath bc ph",?
+"419548987872391168","rt morrissey sil sil bitch eat anim just paedophil rap murd _url_",?
+"419553466617704448","wil cent halv around kent expery rap mat",?
+"419566683792375808","rt rap doesn ex duba consid cas sex crim pun law world new _url_",?
+"419575774384259072","nou felicit kont pou izol ki ranpot tit rap pou an ki sot pas ya nou fye deskel te kolab avec nou na",?
+"419591904183857152","beng rap victim famy meet presid ind express ind _url_",?
+"419604534319521792","rt morrissey sil sil bitch eat anim just paedophil rap murd _url_",?
+"419606318790348800","bethenny frankel new musc man accus rap colleg no charg fil thoug _url_",?
+"419630713697488896","no mil story zion rap world just watch _url_ disarmisrael _url_",?
+"419645240640020480","rt award win docu sex traffick now avail streaming onlin _url_",?
+"419675154294120448","rt la sheriff depart misconduc includ rap drug smuggl kidnap report _url_",?
+"419678256950833153","know fac look lik rap idk lik emoj idk cant find",?
+"419678773911371776","msi radio no discuss gangst child marry drug mul scam illeg cat dog bree fact",?
+"419685265922207744","oh god no eat wil rap insid",?
+"419689683329638400","ah believ wom respons stop rap huh",?
+"419695042266017793","damn girl gonn nee fly antarct find enough ic burn",?
+"419698449366646784","long night gossip girl facebook stalk",?
+"419704704768417792","girrrll fin fuck rap put troph cas rap",?
+"419715904079794176","go ahead rap fac win win",?
+"419716637755850753","m just going list song min second lat process rap replay button",?
+"419720071309950976","oh ign girl stalk",?
+"419728043234435072","just rap phon dea xd",?
+"419744165678022656","tryn get lil girl beat lik",?
+"419751955582685184","swear littl girl stalk ugh im block ass cant deal aggrav kid",?
+"419773154991816704","rt bro dark art wel develop comedy gre sublimin though unintend just rap not",?
+"419798318445637632","gue disuruh ij ke rap cent semalem gue di rumah lu di temp prostitus jad gue gak bak bajak",?
+"419803473744781312","rt on can point endors rap pleas ind tak tim ll wait",?
+"419825355017695232","quot com resurrect old jok just rap nincompoop word",?
+"419827442317262848","rt man fit cas rac transact rel misogyny pro rap agend on jok tal",?
+"419849077975576576","rt neith rap nor molest stil asaram bapuj jail fak charg paidmed judg bailon thjan http",?
+"419850226552541184","just part tri rap girl lov sex laugh smal god",?
+"419866997921697792","hop swanse absolv rap man",?
+"419875719792295937","rap not fuck jok piec hors shit",?
+"419876594337845248","respond someon say could rap could",?
+"419917623304794112","com basketmou apolog rap jok enr peopl lash demand glo dump _url_",?
+"419921728899657728","hat slutty girl hop burn hel shit publ",?
+"419931793950015488","new post opin basketmou rap jok not funny _url_",?
+"419939341126098944","toronto tax driv charg sex assault _url_ brown guy rap tingz ay",?
+"419941248904867840","stat try rap missour cri missour misery",?
+"419958284942966784","xdddd hahahah omg rap uhhh jaaa sie ist halbnackt naj sie hat nur ein sschen",?
+"419965679505506304","rt thing nev ev glamo eat disord depress ment il rap paedophil rac",?
+"419980582089940992","rt last week liverpool fan attack bus ful hul fan wom childr stab oldham",?
+"419999942170902528","rt last week liverpool fan attack bus ful hul fan wom childr stab oldham",?
+"420006330246520832","yep ess blowhol rap",?
+"420014010352664576","ihatewhenpeopl think rap okay ask no mat slutty someon look doesn mean re ask",?
+"420021998778331136","alleg rap girl ws playin next day ashram wid kid pos girl bhav norm aft",?
+"420037202215591936","steubenvil rap upd ma lik richmond releas _url_ wtf",?
+"420037222499229697","rap lyk now cult ind",?
+"420044583494762496","rt convers bet son ear poss _url_ sexualharass rap st",?
+"420046651399888896","rt no court settl rap cas say high court _url_",?
+"420049445720309761","m surpr lib hav tri introduc ide rap dog instead rap whistl",?
+"420058178882007040","shut ur min not mak rap jok",?
+"420073770095628288","rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj bailon thjan",?
+"420078733144231936","omfg lmao fun gam but fuck auburn tim might act consid rap bitch",?
+"420086293280718848","someon sang mat bieb id rap",?
+"420114442542542848","rt nee talk abort sex tampon fem genit mutil rap domest viol muc",?
+"420131835826696193","rt id raichel israel world mus star endors tort rap arab prison _url_",?
+"420139141582422016","said wann rap chancho lmfa",?
+"420144432755646464","say rap ev heard statut rap googl unbeliev",?
+"420154582811951104","year old saint accus sex assault kid bailon thjan _url_",?
+"420162420410441728","rt friend look d dat rap friend nee work comply",?
+"420166132990234624","rt someon today planet ear someon wil slut sham rap victim",?
+"420179172628369408","thing virt rap",?
+"420182719549538305","tis not rap ask",?
+"420189754748317696","smh not rap mak orgasm el sarcasm m not agr",?
+"420199472363487232","lmao stretch the may just saf say prob nig produc rap almost kai",?
+"420202391066406912","rt nat migr week pray childr undocu refug hum traffick victim _url_",?
+"420203193453133824","law eq every arrest rah gandh inquir hap rap cas",?
+"420205652691009536","judg ind rail im premarit sex rap tri ind judg decl premarit _url_",?
+"420207591080607744","imply enco rap peopl arm idiot follow lead self appoint",?
+"420209282911862784","trag thing hap beat mob just lucky enough beat kind wom",?
+"420216074781466625","stil don understand issu rap marry tho bibl say husband wiv not deny sex na",?
+"420225886043258880","sign least every nig men rap thk shd us word appropry",?
+"420229367722045440","rt can preach celib turn thousand you liv bet sex harass girl she fals bailon",?
+"420232672422535168","let pray idiot tf wish rap anybody pur sad tbfh",?
+"420249555222142976","want rap someon eu",?
+"420250000677818368","titanjoyofgift ur child birthday fest occas marry annivers just complet",?
+"420253580176551936","twittbo ching chang chong rap cas jap koer pop jap mil kore fifty millio koer crazy",?
+"420258115821395968","mt basketmou regret rap jok _url_",?
+"420264799139008512","ohio high school rap convict releas us today _url_",?
+"420269150318366720","il rap auss",?
+"420289553954373632","lmfaooo block year ago fuck pussy want retail sel rap fuckhim",?
+"420299061305286656","rt notyourrescueproject talk sel body commod objectfy pay rap etc express attitud masquerad",?
+"420320764290932736","newjersey plan comb sex traffick next month _url_ sb",?
+"420321839660142592","us mad disrespect high school idk nev got beat lml girl boyfriend ev che",?
+"420349366545555456","mgs get sex viol rat describ",?
+"420354278226919424","norm just root good gam bowl gam tonight m root sex assault go tig",?
+"420361258039136256","kor rap hist _url_",?
+"420363241554837505","jam on rap commit auburn",?
+"420365755171864577","o judg nam can tel enjoy kil beauty wom just lik gettin ass kick",?
+"420369918702284801","gun chos girl kick hous",?
+"420376519567884288","tim interest play backst fsu qb jam winston commit rap got away won heism hero",?
+"420378181544067073","cant rap whit girl los gam smh choos struggle",?
+"420379783638564864","wel winston fail rap sob defens",?
+"420381120920711168","cool plac dat tbh _url_ nobody can hear screams rap",?
+"420381855368499200","med report prov no rap investig off said no sec rap cas bapuj want bailon thjan",?
+"420382546707226624","hardc ufosbuzard dread crowstract rap chain on hardest onetwothr punch mus bee thous",?
+"420385799063212032","beat rap charg can beat auburn",?
+"420389433519513600","jamy just forgot get dai rap",?
+"420389497184866304","rt guy next say can win hesim beat rap cas win natty gott los least on",?
+"420390363497365504","jam winston accus rap get no suspend carlo hyd get hit girl doesn swing back suspend gam class",?
+"420390386658738177","rt guy next say can win hesim beat rap cas win natty gott los least on",?
+"420391060003495936","off bu rap whistl don blow unless act hap",?
+"420401325994967040","everyon keep mak winston rap jok wasn ev charg",?
+"420405979843674113","rt just don f king rap peopl didn think d writ on ya god perspect bo burnham",?
+"420412736082681857","ve old bul now want young calf rap",?
+"420416641889886208","jam not lik sid rap wareagl sec",?
+"420417253394219008","cmon jam rap auburn just lik on girl cold",?
+"420418993388662784","ref giv on fsu otherw winston wil rap bcschampionship",?
+"420420186957557760","plot twist winston rap cas tru fsu forfeit win season",?
+"420420803042082816","rt nigg beat rap cas won heism nat champ man deserv med",?
+"420421045082808320","now peopl wann us rap card gtfoh yal ass can nev let mfka win just stfu real mad ass",?
+"420421054025056256","jam winston rap victim glad giv wil tonight",?
+"420421436126535681","bitch claim rap must feelin sal af tho lmaoo",?
+"420421540627238912","m gonn rap bitch can win nat champ",?
+"420421545253949440","rt jam winston first rap girl rap def famousjam",?
+"420421704658059264","rt won heism beat rap cas nat champ bday fam jam lady gentlem",?
+"420422035211554817","rt jam winston won heism beat rap cas won nat champ nobody bet",?
+"420422068773982208","rt won heism beat rap cas nat champ bday fam jam lady gentlem",?
+"420422069986541569","yeah rap someth hard af go get away espec without los money fac consequ",?
+"420422086281416704","winston finn go rap many peopl bruh wardamneagl",?
+"420422126001070080","rap rap ra ri rin ring",?
+"420422192753430528","book gonn titl get away rap lead success",?
+"420422299851165696","didn rap nobody",?
+"420422542306709504","someon dumb act think can success pul rap",?
+"420422810943504385","rt year old win nat champ heism get away rap real ass nigg",?
+"420422846167277568","fsu jam winston com behind win no dat rap pil nee tim",?
+"420423025004011520","jam get away rap twic",?
+"420423282416836609","rt year old win nat champ heism get away rap real ass nigg",?
+"420423406350123008","hear jam winston interview guil rap not abl read",?
+"420423590647828482","jam winston gonn rap many girl tonight",?
+"420423623250161664","rt year old win nat champ heism get away rap real ass nigg",?
+"420423858320322560","rt guess can win heism troph bcschampionship rap tri season winston",?
+"420423904050438144","rap dat whit gurl",?
+"420424235031744512","rt nigg jam winston beat rap charg won heism nat champ",?
+"420424450027573248","real not going thank lawy got innoc rap",?
+"420424470609035264","yo rap jok jam got lik _url_",?
+"420424550866616320","know guy got away rap know on fals accus",?
+"420424932313419776","rt year old win nat champ heism get away rap real ass nigg",?
+"420425179186335744","winston innoc rap sandusky bcschampionship tiitletalk",?
+"420425396946231296","soo bas re pretty good sport okay rap girl",?
+"420425471621599232","don think funny peopl mak jam winston rap jok",?
+"420425759266988032","jam winston won heism freshm beat rap charg won bcs titl gam luckiest nigg wo",?
+"420427147678072832","bet try lynch folk au tonight just got beat byv black qb beat rap charg whit girl",?
+"420428205129228288","rt year old win nat champ heism get away rap real ass nigg",?
+"420428373920600064","try find girl rap",?
+"420429633704579072","rt guess can win heism troph bcschampionship rap tri season winston",?
+"420431107709239296","everybody wann knock jam winston rap cas ev hap peopl mak mistak judg",?
+"420431246544879616","wann mak jam winston rap jok just tak adv situ",?
+"420432110323642368","rt jam winston first rap girl rap def",?
+"420434102974545920","pleas not rom rap",?
+"420434202153078784","jam winston season highlight win loss bcs nat champ rap fail engl exam",?
+"420434494949044224","peopl hat winston brin rap charg no reason smh kid just someth non wil ev",?
+"420434540109131777","rt jam winston won heism nat champ went undef beat rap cas best year ev",?
+"420435933553381376","sex assault cas court ord tarun tejp bail ple today _url_",?
+"420436315612528640","wom scream rap men want rap wom fact",?
+"420437928008228864","com rap jok hatersgonnah",?
+"420438533057552384","kob rap won ring big ben rap won ring jam winston rap won ring rap da way go guess",?
+"420439861284192256","rt guess can win heism troph bcschampionship rap tri season winston",?
+"420447048723595264","rt jam winston luckiest black man americ beat rap charg win heism champ freshm",?
+"420457103711830016","good re get sick americ wor sem lit you rap sheet sex assault charg",?
+"420467462870544385","or drop kick girl tonight",?
+"420473300519616512","hat break guy rap sex assault jok ar funny disgust",?
+"420479970918428672","gang rap strictly prohibit _url_ gang rap whatt",?
+"420485606565625856","steubenvil rap cas on convict teen releas juvenil prison on form high school fo _url_",?
+"420501721530372097","readingnow new steubenvil rap cas on convict teen releas _url_ _url_ socialmed",?
+"420504964989845504","rt first girl attack movy jaw screaming real pain har brok hip drag",?
+"420505955025973248","click stop viol wom _url_",?
+"420520647005990912","teen girl left sery hand injury attack cannock yesterday ev _url_",?
+"420541081818656769","m talk wed necess mom nev know could get kidnap forc marry import",?
+"420543084410044416","sisigaw talag ako ng rap",?
+"420548539194675200","jam winston won heism freshm beat rap charg won bcs titl gam luckiest nigg wo",?
+"420553191449567233","rt jam winston best mon ev won heism nat champ avoid rap charg",?
+"420559043980058626","form neighb ariel castro plead guil rap murd _url_",?
+"420562787157303297","re advoc revolt story sex assault noth exploit titil stopviolenceagainstwom",?
+"420565837926248448","que yo sep un mej no se pued qued calv meno se rap el pelo",?
+"420576052818501632","tak rap cult amaz _url_",?
+"420580549045256192","steubenvil rap releas not wel receiv many circ noapologybutihadittough _url_",?
+"420580794495959040","rt moralmonday ga school prison pipelin upd steubenvil rap cas wom ar welcom internet htt",?
+"420592186053632001","rul law leg marry childr us fath surnam let agap watch _url_ via ptvph",?
+"420603915475095552","rev serv pol off accus crim includ rap abduc rac _url_",?
+"420604616062271488","rt wow amand ll rap feel wom ar welcom internet _url_ mustread",?
+"420612843965530112","cincinnat montan judg crit teach stud rap cas step _url_",?
+"420628537679556608","burn girl mak hot lik room fir",?
+"420631668127301632","rt perc rap can tak minut hap affect victim decad wheth victim mal fem lifet",?
+"420633521187590145","act slog shud join hand rap fut ind",?
+"420634899100758018","tak rap cult amaz _url_ lov whoev mad",?
+"420640299103166464","said mil nah gon try beat fuck girl seen mil",?
+"420647330103439360","jam winston season highlight win loss bcs nat champ rap fail engl exam",?
+"420648166153654272","jam winston season highlight win loss bcs nat champ rap fail engl exam",?
+"420649448180817920","jam winston season highlight win loss bcs nat champ rap fail engl exam",?
+"420656952696659968","bello molto fash piacciono le rap per non le mangio mai hg discorso woow",?
+"420673023386337280","fuck lik moy daught land now wil rap just",?
+"420674770879787008","ll rap _url_",?
+"420687063831564288","learn back whit hobo whor lied rap get rap black men avoid jail hist today",?
+"420690317067575296","bul teen girl maryvil rap cas hospit app suicid attempt raw story _url_ smh",?
+"420696940679290880","ye victim complex fem friend twit ve stalk year threatened rap",?
+"420707981916127232","rteg rap",?
+"420709371484467201","men commit rap tot fault doesn mat wom wear",?
+"420713000220508160","can josy m not mad let girl tak beat",?
+"420717683236036608","tak rap cult amaz _url_",?
+"420722653356244992","rap not plot dev shitty gam",?
+"420726514812874752","im rap rap",?
+"420733025630945280","may richmond on charg rap though evid recov knight sec suggest otherw",?
+"420739269204770816","wom vancouv get attack maj intersect council cit going",?
+"420746078234099712","rt map star rat strong disturb viol sex cont graph nud langu",?
+"420757608203821056","innoc hum wil forev alleg rap alleg pin nam bbecaus someon play gam no",?
+"420773392883527680","don rap whistl sebr pretty much thing qotn",?
+"420774119928393728","child rap blackmail scum stat _url_",?
+"420776180837412866","na littl es going wak littl girl going get ass beat wak",?
+"420794216613036032","rt jam winston beat rap charg won heism becam nat champ just lik kob real nig",?
+"420808485774049280","rt coupl bed girl sad bc mom dead can mak feel bet yeah boy light camel gonn burn just b",?
+"420832335563464704","dnt see paul tryn rap oh nah ok fuck lolthey can continu wtf book",?
+"420834023120728064","nat un journ clear guidelin report sex viol _url_",?
+"420853173042302976","pop mol wok guy unbutton pant woo rap",?
+"420855122621902848","rap definit compass way show lov someon els sent johny rap dian dant",?
+"420864046166839296","can rap act",?
+"420867415765815296","princess molest third sex assault _url_",?
+"420877308115685377","dis wom kidnap beat walk mil bar feet help loc hom _url_",?
+"420888775783247872","yeah right ston pelt delh gang rap protest nsu aap want teach",?
+"420889844265791488","dat difrnt btw rap seduc",?
+"420923962017583104","man stop put support wom vs mal viol domin bc angry word no support",?
+"420944877636292608","tak rap cult amaz _url_",?
+"420952999218135040","propos law californ prev colleg sweep rap rug _url_",?
+"420954599462141953","lot tbb princes or rap glady _url_ teen porn video xxx pussy sex fre",?
+"420956513797025792","rap not plot dev shitty gam",?
+"420958017429860352","gonn rap timelin click list latest track nofucksg",?
+"420959708888174592","fatou queen rap rap phon",?
+"420979111054417920","aaaaaand don rap girl _url_",?
+"420980008270983168","compel rap victim imprison protect peopl tak streets libertadparayak _url_",?
+"420987090340691968","rt although wom lik stalk men anyon can victim stalk learn _url_",?
+"421000690006495232","fin just rap john paul heeeeeel hollyoak",?
+"421021713158004736","nee know rap accus bright ey frontm con oberst _url_",?
+"421029321399353344","rap nigg ain rough sex assault _url_",?
+"421034486663745536","girl scar rap feel prid guy risk lif jail just fuck",?
+"421065796560117760","_url_ kinky sex posit miss port teach get prison sex assault stnt crazysexposit",?
+"421067736316653569","year old girl cry step dad kick fac",?
+"421079693627252736","clamp greg an rap mom",?
+"421083655054708736","got drag m just not asham not want mrs degr typ wom cool",?
+"421091482112507904","st on say principl bas nd highlight galloway rap defens defy principl",?
+"421105820634710016","rt rap dumbest crim ev rap innoc person hoe throwing pussy around",?
+"421121280826294272","cyb bul drov maryvil rap victim attempt suicid glob grind _url_",?
+"421125929893519361","stephany sinclair tremend work child marry _url_ via",?
+"421126508485554176","man giv girl not report rap",?
+"421130162529259520","incred resourc child marry infoguid _url_ via",?
+"421131840163155968","sociopa want cop rap didnt commit benson go away lif benson didn want embarrass real",?
+"421140177822945280","rt jam winston luckiest black man americ beat rap charg win heism champ freshm",?
+"421150210685825024","girl stalk",?
+"421159275960889344","wb govt must ord pol protect famy rap victim sham mamat baners god giv wisdom",?
+"421162644666851328","rt ask hadn attack first girl said man walk besid",?
+"421173903608643584","spec prosecut expect rev wheth ll charg maryvil rap cas spec prosecut _url_",?
+"421207790888448000","fight aleppo seem wors story rap kil becom common pleas shar thought dearsyr",?
+"421225764734771200","adv wom can us men hostil also hard say real rap sint many men",?
+"421235879806795776","car rap victim forc govt rol pol model prov work sign _url_ via",?
+"421242853159743488","rt no rap fir no rap med report yet asaram bapuj could not ev get bail demand bail bapuj",?
+"421248906475737088","rt nev seen rap victim laugh play incid dr mal ingl mbbs md want bail bapuj _url_",?
+"421251213871415296","rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj want bail bapuj",?
+"421252327098818560","rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj want bail",?
+"421254017386151936","sanghpariv jagrut mahil vedik stag hug protest condemn deralakat rap incid _url_",?
+"421254335696498688","por fav necesitamo ayud par que se rap la cabez horizont rts rts rts _url_",?
+"421258803699412992","omfg lit shout right now nigg freak bby yesh bby freak cut must rap",?
+"421259588303081472","disgust fug direct kid daught rap jail mr dreamz mag _url_ rt",?
+"421263762008444928","rt sharp ris viol wom afgh _url_ defend right say _url_",?
+"421283140984795136","sex prostitut without permit rap shoplift",?
+"421293300717322240","guy girl somebody stalk thr watch",?
+"421312063785676800","rt sen extend unemploy benefit rap cult ind west scot halt marry eq utah http",?
+"421313029536776192","maj lawmak commit don know rap stophr",?
+"421315751950438401","yesterday del first forc marry prev train sess year nhs staff _url_",?
+"421319430849560576","ref tackl much wors prob consid rap ahref",?
+"421332461495525377","molest chief m sur real angry fiv vandy footbal play indict rap year",?
+"421338808186314752","jam franklin pen rap won gam vandy two year runnin hmm smellprob sec dollarhandshak bigtenscandalcomin",?
+"421340173759021056","por eso rehuso rap valentin apart se ven como loquito no la rap yo no rap mar y tien un pelo divino",?
+"421357368866504704","fin rap john paul just hit",?
+"421360574300422144","first girl attack movy jaw screaming real pain har brok hip bon drag",?
+"421372311636176896","aint rap throwin bacc cuh",?
+"421378808894472192","rt rap cult tel daught not get rap instead teach son tre wom",?
+"421382044086583296","soldy dismiss leav duty post rap prostitut abuj _url_ via ja_olofofo",?
+"421385722495770624","sketch sex assault suspect ottaw _url_",?
+"421385931862462464","no rap charg suspect daisy colem cas _url_ ekogid",?
+"421385938888306688","vez_ just daisy daisy colem suspect not charg sex assault _url_",?
+"421387979438166016","twit rap",?
+"421389563471200256","rt loool girl own dress not burn _url_ can wear",?
+"421391823807188992","jam winston season highlight win loss bcs nat champ rap fail engl exam go",?
+"421392426410844160","sam try rap sing black veil brid",?
+"421395242223288320","irony abbot us daught mak point re viol forget bul wom un",?
+"421405166043021312","sign petit urg stop viol wom reform artic ripamin morocco _url_",?
+"421405496172507136","rap good",?
+"421422835689467904","charleen want go sleep can rap",?
+"421433118638473216","rap scen not allow film",?
+"421436971513151488","just want rap much ask",?
+"421443376538333184","look lik bad tan valley girl light icepack cheek burn tbh",?
+"421444284953284608","burn fir girl",?
+"421447464139640832","rap sery damn issu effect alot hug desensit internet cuz lot just desp want funny",?
+"421447921356525568","sex assault sery issu nee address enough taboo tim chang",?
+"421464732713762817","saud strained al west _url_ via iraq fail stat us rap country cit",?
+"421465675581112320","spongebob mak an rap jok _url_",?
+"421472737098760192","throwback thursday middl school ballin ballisl gametomorrow whatdatmoufdodo rap _url_",?
+"421486602725376000","mo man accus rap plead less charg _url_",?
+"421501638994456576","told wann kidnap rap weirdo",?
+"421513057035362304","megynkel pleas tel us wil investig tot mom yr old rap victim com",?
+"421525884416163840","suspect palmd sex assault may riversid county _url_",?
+"421529019809824768","yo rap ask fm dear _url_",?
+"421535811364847616","pol releas sketch man attack wom oakland new year day _url_ _url_",?
+"421540013524787200","not rap sinjin",?
+"421557845591474176","polit want cre rap audit sign petit stop _url_ stophr",?
+"421566392572194816","ve lot gre feedback wom artic wrot viol d lov men see http",?
+"421583398503591936","rt mak fest poem rap beat innoc yet stil turn blind ey brush asham",?
+"421605750675222528","ee rap cedr don want rap brandon yeo",?
+"421607434701262848","bul see told charg domest viol now look lik girl market definit now",?
+"421730024434438144","rt steubenvil rap hack droht mehr strafe al den tern _url_",?
+"421738549848064000","pentagon us milit academy cadet nee sex assault prev train _url_",?
+"421746520925274112","blog post redesign sanit pad prompt victim sex traffick seek help _url_",?
+"421750015770370048","rt wom report rap sex abus form viol ask _url_",?
+"421756281280806912","got girl stalk whol last year school us peep corrid stuff hop year diff",?
+"421761803090411520","also say sint rap hap murd put rap book wish hyperbol simpl",?
+"421770121154396160","jessicasuarez no cal rap",?
+"421778295663771648","nirvan rap _url_ ogg cos",?
+"421784606502060032","delh train fem unit comb rap _url_",?
+"421801558762741761","rt anyon want harass form razorback basketbal coach john pelphrey hang chancel xoxo gossip girl",?
+"421815048626253824","afgh viol wom hit record high _url_",?
+"421824846142525440","bad girl club char war past involv rap alleg plu trashy audit tap real tea _url_",?
+"421858647245717505","wi extrem voc rap apolog middl school teach",?
+"421868959605198848","nev mind girl mak track ll beat pussy hook right thur",?
+"421871972008476672","guess wom slash car burn cloth",?
+"421879365253623808","rt seen newspap ind country on highest rat rap sex abus _url_",?
+"421882532133879809","mean rap",?
+"421889461425684480","gam min ey rap",?
+"421891470988410880","boy every play wil ev beat girl play gam bet",?
+"421891565947076608","ut fan us gang rap vandy also idiot",?
+"421905423260585984","break new lak fil rap charg los angel clip",?
+"421985240635437056","pol commun support off kab yousaf charg rap _url_ newham london crim",?
+"421992229654122496","jaolofof jok no limit basketmou rap jok controversy _url_",?
+"422006187123425280","sex assault charg drop annapol _url_ mji",?
+"422011737186263040","rap nirvan _url_ nowplay",?
+"422011763970691073","je sui le rat ki fai du rap rap rap fromaageuuuh",?
+"422013203455815681","baza fut partn marry baek lov childr thought marry busy work",?
+"422015364415762432","rt gang rap photo stephany rap _url_",?
+"422017365610889216","rt man attack help wom harass men train _url_ saw incid recogn th",?
+"422024331326009344","quot said sex assault surv famy memb _url_ via",?
+"422032995382755328","rap prev tip _url_",?
+"422035156585959424","rt kab yousaf pol commun support off pcso bas london charg rap blackmail miscond",?
+"422051845020725248","froz m gen ok film know fak sex assault rap can trig anxy",?
+"422079032600326144","just saw fat ging girl buy rap whistl gott admir optim",?
+"422080137929056256","way ve seen react story onlin intens say least sydney rap thing re person knew",?
+"422090744925814784","rap evil demon girl otherw wil che us wil forc kil necess everyon",?
+"422098205044903936","know humantraffick aw day stalk awr mon disproport affect wom jo",?
+"422100450716835840","rt rap crim ter poverty now ant saint strategies welcom congress world bail bapuj _url_",?
+"422102379711176704","wil rap refresh button tomorrow",?
+"422104385565388801","nagesh kukuno next lakshm harsh tru hum traffick child prostitut ind _url_",?
+"422110799268962305","press act believ everyth fan mean littl year old girl probobl rap",?
+"422120264634097665","mad rap molest okay urgh relig nee stop thing",?
+"422145010474442752","si un japona rap cst clair que mm eminem pourr pas test dej qu il parl tre vit imaginez en rap",?
+"422152772272668672","rap cas extramarit affair fuck abbot greedy lying tyr auspol",?
+"422157885448417280","rt month ago wel wor read gend impact syr war inc system rap child marry _url_",?
+"422158369080619008","ugliest nigga rap somebody mean pussy easy quick get right",?
+"422178808431927297","rt leav hous dark show cons on lawy told rap victim _url_",?
+"422182411766882304","maguir kick littl girl fac",?
+"422182756253069313","rt hum traffick aw day pleas shar docu sad stat child sex traffick s _url_",?
+"422185463118454784","on on work end sex slavery child soldy hum traffick lra kitgumugand achol",?
+"422244274848407552","d say com d prob cal rap",?
+"422247256797245440","rt man attack help wom harass men train _url_ saw incid recogn th",?
+"422270511134310400","liv stream sex gend bas viol learn lac reg _url_",?
+"422287583968628736","just lik deep throated chapstick gia no deep throated chap stick stop right no stop rap",?
+"422291980983341058","_fruit_loop fuck want skat murd drug rap kil shank feee lick kick swag",?
+"422307693580152833","rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj bail bapuj",?
+"422320335485030401","prev prostitut sex traffick also bring quest uk mal cult many men pay sex",?
+"422324681757036544","liveleak acquaint rap year old pakistan fact work kidnap assault rap _url_",?
+"422363461453357056","khal ask study shariah nikah tallaaq sex qat forn rap rib interest s",?
+"422369032679858176","see first la dey don think wann rap",?
+"422371670708723712","ambon info baru gar gar mengkonsums minum kera atau mira daeng rap pelaku red teg membacok mustamin _url_",?
+"422382779993554944","cons nev defens statut rap",?
+"422389463084720128","proud john paul report rap aw bless hollyoak",?
+"422392943631028224","vomit hack expos steubenvil rap video fac jail tim rap _url_",?
+"422396138613133312","demo rap kurt cobain daught cry bet",?
+"422431685385285632","julforschool midterm gonn rap",?
+"422445696134815744","rt spit rap throw cent cal dirty whor _url_",?
+"422446450178416640","assault d want gun not law mak cal rap whistl wtf real saf jok",?
+"422452164343394306","teach men control not wom cov rap not excus _url_",?
+"422465297203752960","think slavery wif beat hat murd disbeliev paedophil mutil theft rap beauty",?
+"422479245571801088","carry rap alarm just cas",?
+"422509051759452160","hav seen sint cam definit rememb big black dick rap",?
+"422518579087433728","rt jam gonn rap ha get _url_",?
+"422537008330727424","okay old friend going around say going rap kid pleas par ar hom",?
+"422550875496648706","school now loooo end going hom rap comput",?
+"422551615258624000","lov sex traffick wow jen mess",?
+"422563128870989824","disturb rap nigg ain rough sex assault _url_",?
+"422569307592073217","cet rap scump est un connecto ptdddddddddddddr",?
+"422576104717553664","talk rap rap jok mock sil victim also giv perpet ide sex viol funny",?
+"422579366392913920","fak sex assault cas sant shri asaram bapuj preplan paidmed govt must demand strongly bail bapuj",?
+"422593887270481920","watch _url_ teen shav tit pussy pic rap bond sex",?
+"422595174045200384","gangrap victim forc reloc hindu priest ramdev lead gang peopl hous hdl rap vaw _url_",?
+"422595570776440832","sign point rap _url_",?
+"422628383583776768","rt tel don look lik imm rap emoj _url_",?
+"422682330893795329","no rap fir no rap med report yet asaram bapuj could not ev get bail demand bail bapuj",?
+"422694168184356865","rt no act rap cas bab nag rah gandh no bail bog cas asaram bapuj enough now wan",?
+"422722877276708864","rap rap rap nirvan",?
+"422730271478534144","seek help regard sex assault sophom doesn think gw admin feel hum _url_",?
+"422732025037344769","snap adamw rememb wil definit stalk mayb rap",?
+"422749578408906752","rap",?
+"422800668059906049","rap",?
+"422807367026094080","swindon play back striker rang _url_ yeah accus rap tot idiot can play bit fuck hel",?
+"422811848665489408","video facebook girl beat disgust many peopl walk past didn think stop",?
+"422815164061061120","oh no yess hhahaha wil rap team nominas akt terbaik hahha",?
+"422824665636421632","wom displac ethn polit viol southsud wash child jub camp nuer peopl _url_",?
+"422837250771410944","nig lead tak break ste ban gay child marry ok act born plac lik http",?
+"422849584034217984","rt may rap year old re not allow surf vimeo youtub turkey",?
+"422851115781484544","m jut gonn rap someon innoc depress",?
+"422851391221022721","screams run across tl help tri rap dms",?
+"422852978174099456","lov ars win lit rap tl piss everyon",?
+"422853260522041344","new jersey work curb sex traffick superbowl via _url_ _url_",?
+"422899279314026496","overachiev earn highest gpa tul law hist fight attempt child rap charg _url_",?
+"422904666469724160","oh yeah almost forgot rap scen not lik kit run scar already",?
+"422911561926475778","m pleas see property tax fin put us now rent cop hs driv jeep not rap van",?
+"422912010679222272","nigg rich just rap kiss eric front camera look scar first tim",?
+"422913138980573185","tri rap kiss girl high school told stay away school property week salut",?
+"422920527137624066","ir bureaucr pok around med record sex viol victim tel hous stophr _url_",?
+"422923457505292288","consid rap dont tak adv sorry think otherw _url_",?
+"422936401026359296","yal rememb last tim seen ol girl fight hap right got drag lik mop",?
+"422950498904592384","rap nah",?
+"422953444698095616","rap cas victim pol indiff _url_ via absolv hor",?
+"422986128791461888","commend strong campaign protect rap victim somal unacceiv crim _url_",?
+"422990304032342017","rt lmaoooo someon rap maheed already stop show thing head stil correct smal",?
+"422997898507190272","chines corsair rap britain richard cley london correspond rec report say thousand mo _url_",?
+"423015593588326400","rt caught camer cop thrashed kick wom protest _url_ video _url_ _url_",?
+"423015967527297025","m sorry cam sub dear real wasn sometim just wond just look child marry",?
+"423053058588020736","paul weston islam rap epidem whit wom _url_",?
+"423059262357532673","rt girl didnt wrot rap fir yet paidmed put rap charg asharamj asaram bapuj knowthetru ris",?
+"423068289469009920","nic rolemodel commit adultery ov off desk sex assault multipl infidel kidsandsport",?
+"423068914189213697","nurs arrest sel baby expos chin child traffick problem beid reut chines cou _url_",?
+"423073148582780928","rap dress muslim wom niqab get rap",?
+"423086316608163840","just imagin perfect mom _url_ mayb going rap",?
+"423102615094706176","rt bih on eleph kund singh dread gangst head aap rap murd kidnap cas",?
+"423107121916686336","rt scand downton abbey rap scen problem not reason might think _url_",?
+"423109545854910465","god man arvind kejriw tak sec cov cop no sec wom cop beat kalyug",?
+"423113478677598208","fnding bitch lik can hard gott resort rap",?
+"423128602054787072","let rap get ticket",?
+"423134405981642752","lord rap tim",?
+"423158179992580096","rt pol search justin bieb hous eg tak tim said every rap murd",?
+"423174927772946432","rt pol search justin bieb hous eg tak tim said every rap murd",?
+"423181183006961664","rt pol search justin bieb hous eg tak tim said every rap murd",?
+"423186284660539393","pol rakhin loot rap kil rohingy arrest _url_",?
+"423208996783546368","rt pol search justin bieb hous eg tak tim said every rap murd",?
+"423211800222785536","photo nefep sniffl caseyanthonyoff amaz stop whin rap cult doesn _url_",?
+"423219007517249536","vs maradon vs elv anoth gre exampl song rap cold beer cigaret good",?
+"423222042755084288","girl stalk twit writ stat wann forget gay can block numb",?
+"423225789228658689","get valu skil marry nev want childr grandkid depend spous",?
+"423233970289913856","not know seem priv rap wom molest forum myredbook invit particip",?
+"423267184576438274","rt wom attack twin fal grandm screen door handl get wallet pol say _url_",?
+"423276010189389825","rap tak drew bed lik now",?
+"423295832423534592","group say myanm army us rap weapon war group say myanm army us rap weapon war",?
+"423303626526711808","marsoc auth year competit on voic rais triumph rap nytim amazon _url_",?
+"423309747404951552","rap eg hol",?
+"423317483949260800","rt pol search justin bieb hous eg tak tim said every rap murd",?
+"423320808191426560","rap van",?
+"423323325775900672","rt luh lik pleas dont rap unless re sehun _url_",?
+"423327271139549184","keep see old lady bus stop gunn rap bro",?
+"423336056306425856","sex assault nev ok oth perpet hap migr noth help eith",?
+"423340412191772672","girl don wann best friend bc prob think im rap",?
+"423343382295887872","rap constitu last tim simil incid ask resign shile dixit now don resignkejriw",?
+"423362517155717120","aaptard sad m sad regard gang rap new delh wom sec forc com forc asap",?
+"423407212443082752","tru delh rap cas ppl cam know delh pol no stat control weird law enforc",?
+"423416406474895360","dan report gang rap ind dan wom fil pol complaint say gang rap _url_",?
+"423454453908668416","gop congress candid spous rap shouldn crim _url_",?
+"423456867881193472","detenido un hombr por poses de droga en la mans de justin bieb an velencoso video atla el rap _url_",?
+"423458889883869185","us rap someth isn complet belittl undermin rap victim gon",?
+"423462241183498240","rt cal girl beauty doesn mak thirsty stalk nev leav alon mak thirsty",?
+"423472359967031296","sharm rap",?
+"423476701331329024","amrit prajapat acceiv fram asaram bapuj fak rap cas us wif knowthetru ris just",?
+"423485876098723840","delh pol cent not stat aap lead com dan gang rap expos _url_",?
+"423502833900875776","consid m gonn tour afric sum expl min exploit sex traffick get marry chil",?
+"423517387795599363","desp republ gop congress candid spous rap shouldn crim _url_ via",?
+"423518468743634944","m disgust lik dar ask nee rid on don know two know re going rap",?
+"423526197864431616","rap",?
+"423526761414938624","ind pol arrest two men rap cas _url_",?
+"423543058693500928","gop congress candid spous rap shouldn crim nighty _url_",?
+"423546093532487681","dan wom rap cas delh kum bakwa say ask un hom min kukku",?
+"423559804657750016","rt sex assault alert rosco road lionhead trail composit sketch rlsd on susp _url_",?
+"423569352307539969","cli charg sex assault sex interf sex exploit just discharg request crown finch",?
+"423569828306489345","uk wom kil mal viol wom kil day on wom dead every day http",?
+"423576587368271872","wom now accus delton firefight sex assault rap pol say terry freem woo attack fox",?
+"423637464339591168","steubenvil rap cas just ment crimin mind excit capston aw vicitmblam",?
+"423637756095758336","rt eu vou beij sua ferida aberta nirvan rap",?
+"423642294969847808","real bigfoot fem teach attack ny stat _url_ plz rt",?
+"423649387651149824","arrest rap dan wom _url_",?
+"423666034805968897","med report rap not found paidmed rap rap rap knowthetru ris just rat",?
+"423671634541957120","rt am wom wil rap lifetim wil attack rap",?
+"423674567769333760","see oomf mak rap fac",?
+"423677715296681984","rt pol search justin bieb hous eg tak tim said every rap murd",?
+"423693895776493569","med report rap not found paidmed rap rap rap knowthetru ris just",?
+"423727495695704064","rt sir aap respons dan wom rap delh pol not control want cm _url_",?
+"423738179305226240","holdap na gwapo girl rap rap rap holdap anong rap holdap lang girl bakit masam bang magsuggest landi",?
+"423758849934254080","opin grown ass person nerv rap espec young child brut tort kil",?
+"423764205972365312","arvind kejriw incid rap delh _url_",?
+"423777464725553152","rt don want polit rap cas kejriw say ll look next week hypocrit ar",?
+"423781591945850880","rt pol search justin bieb hous eg tak tim said every rap murd",?
+"423782460544262144","kind join today pm fightrapethursday disc rap effect victim",?
+"423793877775294464","don get beat sist rath div cheerlead honey ghetto black girl vc",?
+"423798060704366592","judg defend day sent girl rap wear",?
+"423807400383356929","no on sent rap fac snapch oh someth wrong",?
+"423810457468952576","vanguardngrnew delh pol hunt suspect dan gang rap _url_",?
+"423813162589110272","jacob engin eng pedophil child pornograph best orchest rap push us syr drug",?
+"423815252149428225","not rap murd",?
+"423823562126798848","mom anthony tel know aint rap guy does orgas ctfu lmfaoo d cx",?
+"423827708561608704","now vind wom charg mak fals rap report win settl abajourn _url_",?
+"423828507911667712","rt cong ingenu protest stat govt gang rap not word hom min shind control",?
+"423838793225883649","rap boo",?
+"423848395808067584","obes easiest way avoid rap",?
+"423855835677085696","virgin legisl run congress say spous rap leg _url_ via",?
+"423866298808803328","rt anticho protest ar gentl harass scar wom read account _url_",?
+"423884755797819393","sa rap bient y aur un mort dan av",?
+"423889229887049730","rt uk wom kil thro mal viol join us pleas sign demand gvt _url_",?
+"423890910464991232","rt mormon dram teach told lesb girl going burn hel fchs",?
+"423900280271302656","new wildwood pol charg man sex assault two juvenil _url_ _url_",?
+"423905536384720896","s bureau just stat estim s rap victim fem mal fightr",?
+"423906356706701312","rap isn sex kink ign fuck wast oxyg rantjuststart",?
+"423917226094104576","yo lo dij ib rap rap",?
+"423923904714113024","rt democr now okinaw revolt decad rap environ harm s milit spur resid ris http",?
+"423936308403535872","peopl ask hat tri get skyp could talk rap not lik pedophil creepy",?
+"423938063812030464","unacceiv pol florid discov near rap kit sat untest sint _url_",?
+"423945263250944002","okinaw revolt decad rap environ harm s milit spur resid ris _url_",?
+"423966203887890432","ris cas rap _url_",?
+"423975152830140416","cunt rap victim feel someon rap seen post",?
+"423979576671232000","good know congress candid dick black doesn problem spous rap _url_ via",?
+"423991157153349633","thing lik hap fals accus rap pandoradeloest casey lawr _url_",?
+"423998500347850752","oh thing nonviol rap",?
+"424006062870921217","on feath delh hat rap capit con rul now also becom rac capit aap rul http",?
+"424010160131280896","kerek rap cas defer _url_ _url_",?
+"424017959959285760","somna bhart can disclos rap victim nam not nirbhay rap mohamad afroz quitaap",?
+"424018389896798208","delh rap uk rev ind travel adv hindust tim _url_ uk travel",?
+"424020956504662017","com alway last know latest juicy syracus top lik rap",?
+"424022613778632704","rt conveny saud men agr wom caus sex assault wom liberty al _url_ via",?
+"424026950341238784","opin rap jok think can ev funny appropry",?
+"424027696495362048","wil kejriw dan wom rap delkh cartoon _url_",?
+"424031810402525184","rap tub _url_",?
+"424040586417422337","yay park chanyeol can sem rap jongin intro dubstep",?
+"424043136885587968","rt congbjpquitind ant congress wav start ann mov delh rap protest vary scam expos rti",?
+"424043638260121600","rt lov rap childr men wom",?
+"424046764304633856","rap period abus abort pregn harass breast cant walk che fem",?
+"424060905970999296","whiteppl us dog get vin fam get charg rap _url_ hahahhahahahahahahhah",?
+"424067671705931777","ifw ll singl af _url_ look lik girl tryn get rap",?
+"424078944799703040","rt man prob believ pay rap wom don char rap awesom http",?
+"424082617172897793","rt bizar ind introduc first handgun wom nam rap victim _url_ expend",?
+"424085931692683264","know rap gam lik sex offend",?
+"424094072194600961","fak sex assault cas sant shri asaram bapuj preplan paidmed govern knowthetru _url_",?
+"424124550788706304","alleg rap victim cross examin",?
+"424163132714807296","rt britain frant warn rap threat ind _url_",?
+"424189255909654528","statut rap _url_",?
+"424205284521693184","interact viol wom mexico _url_ feminicidio asesinada justic narcot fico",?
+"424209515685617664","rt respons day fuck sak dad didn rap kid paddy coomb",?
+"424223106270773248","act post yet anoth wom sue tsa sex assault _url_",?
+"424223250638336000","interact viol wom mexico _url_ feminicidio asesinada justic narc",?
+"424239012388564992","rt off d lik report crim see whit girl lit dead attack puppy omg help",?
+"424243610377125888","pol three arrest ind gang rap cas six now accus attack dan tour new delh _url_",?
+"424246753291165696","mom just cal tel hi don drug don go party don sex whit girl due dat rap accus",?
+"424249859667791872","reason onlin shop giv bet pric rap ship fee",?
+"424249991998480384","temasperfecto rap nirvan",?
+"424254102101843968","rt dear aap arvind kejriw rap origin drug prostitut amsterdam rap capit",?
+"424256520772419584","look cas mess stuff rap murd avg",?
+"424262113990017024","rt party found peopl fuck bed kick dud fuck girl oleswitcharoo purdu",?
+"424288308126941186","hous republ push bil forc ir audit rap victim thinkprogress _url_",?
+"424291935499866113","poor harry drag kayl ayesh gossip girl convo",?
+"424318834560864256","fem get fing beach hop get kick twat every fing fuckin nasty",?
+"424335834679369728","_url_ girl",?
+"424345487001403393","rt papu new guine viol can seem lik norm wom _url_",?
+"424366102148562944","can protect rohingy wom girl persecut genocid rap murd burm",?
+"424374483449675776","nowplay video help sex traffick victim _url_ _url_ socialmed",?
+"424377006289997824","lov bathroom sing bath tub pleas wait lat wil rap die max",?
+"424382223702560768","ok wel next tim mayb daddy won rap someon real think twic next tim oh can",?
+"424391200586878977","rap whistl ve blown rn fath watch candl",?
+"424394479248736257","ret army maj slam upcom camp ray movy kstew charact befriend detain also tort sex assault _url_",?
+"424407552961425408","saw littl girl sel girl scout cooky d rap twistin nippl",?
+"424421205446123520","quot said sex assault surv famy memb _url_ via",?
+"424421468169330688","rt writ out wom kil writ puzzl eulog sick viol oblivy _url_",?
+"424425826218967040","form vet admin pol chief plead guil plot kidnap rap murd _url_",?
+"424428018618998784","word rap illeg wom say just us get away anyth real hor day",?
+"424466296533942273","exact wil nev dark doorstep church past arrest girl rap",?
+"424471202057715712","leg rap child brid not just among poor also much gre problem _url_",?
+"424508298340335616","hear hop part reason tough sent try forc giv rap pal although lik",?
+"424538087092666368","rt spous abus milit sex assault abort republ stand rap right democr standwithwom wher",?
+"424540632221515776","report ex saint dar sharp arrest rap charg _url_ new orl _url_ say ain",?
+"424546306678616064","welp break ex saint dar sharp arrest rap charg _url_",?
+"424565560572383233","form nfl play cur nfl network analyst dar sharp arrest susp rap _url_",?
+"424568254762598401","chin rap rapecult ind chines mou peac glob tim democr tradit thwart law ind _url_",?
+"424574520339361793","form nfl db dar sharp arrest rap rog goodel respond fin jam harrison",?
+"424579462513295360","curt lep jess smil see vin mad alleg rap read _url_ via hollywoodl",?
+"424580609139163136","wow aw damn break ex saint dar sharp arrest rap charg _url_",?
+"424583641566814209","acc turk court attack wom tear apart cloth grop breast show no sex int rad",?
+"424585012017889280","aw stat frm laur bat tedxeastend wom planet wil rap beat lif",?
+"424589138877116416","ev heard anyon spend month jail charg sex assault forg on knowthetru togeth ris just",?
+"424589922272813056","warn viol sex viol non con blood threat cannib",?
+"424592917299470336","no nee rap not cool enough earn need kil",?
+"424602289094279168","ok rap",?
+"424605662417395713","latest upd sb two kid jump flo now sportin black ey sex assault cas morn",?
+"424609519818121216","sex without cons rap _url_ _url_",?
+"424619127127302144","form nfl saf dar sharp arrest yesterday los angel susp rap alot nfl new",?
+"424633035972034560","oh must say aahh attempt rap o_o j_marselle see cont _url_",?
+"424637308571115520","know on accus rap kick colleg footbal yet cas dismiss wom prov liar",?
+"424641804307550209","think dar sharp guil rap many wom accus rap",?
+"424643704649838592","rt form nfl star fac rap charg pol say _url_ _url_",?
+"424649113745891328","dar sharp charg rap hardest hittin saftey leagu doe",?
+"424650941019607040","ex nfl star fac rap alleg form nfl star dar sharp fac two rap charg los angel pol _url_",?
+"424668100399603712","dar sharp arrest alleg sex assault oneofthemosthardesthittingsafetiesintheleagu",?
+"424670566335787008","mean peopl myredbook priv molest forum rap wom forum prob cre escortguid",?
+"424676619056599040","right group myanm milit us rap weapon war _url_",?
+"424677544647204864","lml aint gon lik gon lik il get girl beat fuck aint nothin",?
+"424690103554805760","hap want rap",?
+"424692970911039488","lattoorepubl form nfl star dar sharp arrest two rap charg tmz _url_ theirf",?
+"424695584633937920","rap mean strangers benefit",?
+"424699734146969600","fright acc tw assault rap thing socy wil try teach year old daught _url_",?
+"424710467668307968","rap strong word pref snuggl struggle",?
+"424713710188240896","omg amount sex rap scen movy unr good luck",?
+"424718634955845632","rap first sight mimguez",?
+"424729519787089920","fact peopl mak ant rap cloth wom not get rap show fuck socy",?
+"424735427270963200","urg us congress pass intern viol wom act now ris just end glob vaw",?
+"424754329304592384","rt _url_ rap whistl yeah ve got loud on tcot ccot cwot standyourground gunright _url_",?
+"424759642179530752","rt rap dumbest crim ev rap innoc person hoe throwing pussy around",?
+"424765439189594112","rt rap dumbest crim ev rap innoc person hoe throwing pussy around",?
+"424785492501348353","rap nat",?
+"424787823150252032","rt profess fan girl just got kick profess buuuurrrrrnnn",?
+"424801323897204736","uh oh uh oh red alert tentac rap immin swordartonlin toonam",?
+"424802848191172610","rt tyleroakleyjustgotslay profess fan girl just got profess kick fandom liam",?
+"424827219270467584","rap",?
+"424858832381034497","dar sharp ex nfl star arrest rap charg _url_ new _url_",?
+"424863058822184960","thank m glad not just fum stal rap storylin act eff",?
+"424887523564085248","rap isnt cool weath boy girl leav scar iam",?
+"424901441615327232","ll rap chris brown",?
+"424902496989876224","rt child divorc par ve learn tre marry lov not fear david den _url_",?
+"424930958530191362","jess smil receiv dea threats curt lep rap accus _url_",?
+"424946635190587392","texa stat troop fing rap wom sid road bew",?
+"424949590345793536","rat new onlin girl rap fiv men walk hom pol essex start rap investig _url_ rat fancyr",?
+"424951542329122817","no bbc interact guid sir jimmy savil rap sex abus childr bbc prem",?
+"424968497534230528","girl rap fiv men walk hom pol essex start rap investig teen girl rep",?
+"424971376697430016","origin green green attack rap ethniccleans religionofpeac kpexod kpholocaustday hdl _url_",?
+"424978825449971712","ask relig tre rap ethniccleans religionofpeac kpexod kpholocaustday hdl http",?
+"424980419193237504","go rap anoth nonno littl creep",?
+"424990141409918976","just see omegl try pul rap fac",?
+"425028800779284480","seahawk bet rap er",?
+"425034081013727233","rt party found peopl fuck bed kick dud fuck girl oleswitcharoo purdu",?
+"425059614963810304","essex rap year old attack fiv men _url_",?
+"425060757450272768","kik nee go away stop try rap thank",?
+"425069195198349312","cam across mess board suppos didn cens tentac rap scen sword art onlin",?
+"425079755084668928","damn right shit rap bank account gon sink ev",?
+"425099223713869824","lazy websit man ye m sorry rap thing doesn hold wat sound lik sotry pil",?
+"425113013134589952","cam behind lik rap",?
+"425122107790733313","rt guess domest viol act isn jok along rap anim abus degrad wom bye",?
+"425128902814887936","photo no reason rap wom unless want fuck won let _url_",?
+"425131043126272000","kind fuckig bitch slut decid mak thin fuck whor wil find rap fuck http",?
+"425137889589358592","hr sev restrict abort forc rap victim report assault ir fem procho _url_",?
+"425139501355130880","girl leav dram facebook twit don got tim cousin jaunito beat someon harkin",?
+"425158681433350144","rt rap pol claim prob investig stil noth don kejriw",?
+"425159159948902401","cousin girl stalk went hous everyth cal said gang m bring crew",?
+"425161695418257409","rt instead apolog afr wom grop label prostitut mak urin publ re",?
+"425176821068349441","let ugand miss sex traffick prov cas arvind kejriw _url_",?
+"425191715285127168","wom ory act enact govt protect wom domest viol act prohibit child marry act int wom",?
+"425192299002601472","new jersey crack sex traffick ahead superbowl _url_ vaw fem",?
+"425194140955983872","want rap childr",?
+"425247909060571136","rt californ gang rap vin video goe vir th vin graph _url_",?
+"425254650355261440","teen girl kick flo riversid attempt robbery norwich teen girl kick _url_ norfolk",?
+"425265925525229568","ye ser ki rap oo tent hai",?
+"425275004188512256","rt kaur rap capit delh due shind delh pol krantikariaapgovt",?
+"425307887544844289","gonn rap ya now",?
+"425309947086532608","balad com ear rap de sangr intestino",?
+"425324122097582080","many ppe gradu cow foreign embassy try avoid fac rap charg comp self styl freedomwank",?
+"425325191263043584","jej rap back ll help mass",?
+"425338183816314880","rt sou afr react aggress real issu lik rap corrupt etc bafan",?
+"425340300752478209","men heart beg burn wom not sex object friend dign",?
+"425359393861808129","rt californ gang rap vin video goe vir th vin graph _url_",?
+"425359411025309696","rt californ gang rap vin video goe vir th vin graph _url_",?
+"425359565127827456","rt californ gang rap vin video goe vir th vin graph _url_",?
+"425373334717464576","shinhy tie wil rap",?
+"425377689563045888","rap afr ar angry peopl not cult nelsonmandelavib",?
+"425383752668553216","rt essex pol investig terr gang rap year old girl _url_ lbcnews",?
+"425385440657821697","wil not let topshop rap account wil not let topshop rap account wil not let topshop rap account",?
+"425387470922870786","rt year old wom beat dea front crosby sant an ca jan th _url_",?
+"425391158165262337","vnaturr_ m not say girl fault m just say not cas rap",?
+"425400084776243200","arrest alleg rap ucsb stud isl vist santabarbar _url_",?
+"425426562255577088","look pleas don sad sorry il let rap just pleas don sad",?
+"425434476798554112","davison two guest lect univers week most mal stud gang rap",?
+"425437912713277442","rap _url_",?
+"425439907293589505","wor read forgav rap _url_ _url_",?
+"425443813549932544","mummy biggest deb car jred kml stupid peopl think girl can rap boy",?
+"425446987173859329","rich look lik ready rap eric ass lls",?
+"425453001117937664","isn girl beat cal thefost",?
+"425453321634459648","girl beat cal juvy group hom shit",?
+"425460316408147968","gon rap now aint got no man",?
+"425470119666806784","krantikariaapgovt dram med mak panel discuss post rap also trp dram",?
+"425474866553176064","snip zxx dream col boy can rap whit wom not judg colo",?
+"425479640845930496","arian new alb going brut rap everyon ear",?
+"425479845121101824","wil pay colleg footbal team gang rap ya ass",?
+"425480608911859712","cal rap get guy hang",?
+"425481869149229056","smh rap seg new sad",?
+"425493159817142272","pol com delh govt rap stop pol mamt akhlesh doesn control crim just",?
+"425495783698608129","met laundry room ask dat tri rap shitemilysay freshmanyearmem",?
+"425496755451351040","demain soir je te met un rap gro",?
+"425501759076052993","almost beat girl not get dant",?
+"425504252459745280","rt rap men wom look help run men also rap recovery op botch htt",?
+"425512485748490240","folk nee book tel not rap doesn consist ath",?
+"425513413381341184","girl beat juvy gav look cal run now",?
+"425519973906132992","nee mak nd season orang new black hell wann see hap girl get beat hahah",?
+"425552062969954304","rt rap year not singl suspend window mir hm brok pol men got suspend krantikariaapgovt",?
+"425590069613703168","chanyeol rap fac _url_",?
+"425595790845685760","chanyeol rap fac _url_",?
+"425606720987987968","rt import dat collect sex abus viol ind mad avail web _url_",?
+"425611627128291328","disturb forc marry al wel us via _url_",?
+"425612028678373376","corrupt rap not anarchy aapdram consid wrong ind",?
+"425623922365956096","rt rap men wom look help run men also rap recovery op botch htt",?
+"425627704755372033","kejriw just condemn rap incid mov caus lik polit repres ou",?
+"425630385662205952","no on real say pay rap go cop kick ass",?
+"425630852886720513","u touch yeol heh chanyeol rap fac _url_",?
+"425650854390030336","root hum traffick low self esteem wom us ev",?
+"425665795448778752","rt party found peopl fuck bed kick dud fuck girl oleswitcharoo purdu",?
+"425673332168884224","rt wom lik lit candl pretty look don respect wil burn hous",?
+"425700327187165184","la develop guid respond us prev sex viol follow disast _url_",?
+"425717210871779328","don rap",?
+"425721239949565952","m stronger ve beat torn apart thank ve becom strong independ wom today",?
+"425724460352565248","real los los situ get ya shit fuck wom cal pol pussy beat pussy",?
+"425731646684667904","oh la la can wait m gonn rap don want",?
+"425734679178657792","wed moth widow child brid tel tal _url_ pervert tcot marry ccot",?
+"425745845628051456","honest just believ quin deserv guy wasn wom didn rap say didn car beth",?
+"425751558803189762","ten un melrnaz guapisim luego rap xdd",?
+"425766261541175296","cho syr regim prison dea continu destruct rap murd syr delay",?
+"425772047566766080","log men shouldn sav get hair cut shouldn wear polyest rap okay",?
+"425783108412006401","rt rap cult tel daught not get rap instead teach son tre wom",?
+"425783643378696192","til dea us part forgot us victim forc marry via _url_",?
+"425788158685741056","rap nah _url_",?
+"425791865070579712","rap nah _url_",?
+"425791897433419776","rap nah _url_",?
+"425796740890255361","going rap straw",?
+"425816308572114944","word prol someth rick ross alleg rap outlin song shot fir",?
+"425823558019719168","nigga wear kob can evad rap charg",?
+"425834476590362624","rap",?
+"425837342528917504","kid lhs prob mrs martinez period went tri rap someon",?
+"425844089200734208","rt someon ev tri rap daught jump window electrocut",?
+"425845594897133568","rt not rap struggle snuggl",?
+"425851116346019841","rt somna bhart led peopl attack say ugand wom _url_ _url_",?
+"425862752716873728","god plan not includ forc someon get pregn rap nobody deserv",?
+"425879871714103296","rt can anyth shind fir good rap wom fre drug sex rack chalao dand",?
+"425881769594716160","rap",?
+"425938358569684992","cusu cusuwom wom rap not want jul assang extradit",?
+"425953817893830656","useless invalid real nigga rap sist",?
+"425968863348400128","attack mob led somna bhart ugand wom _url_",?
+"425969345731104768","ap haqooq child marry restraint act mutabiq saal say kaam um lark ki shad karn qanoonun jurm hai",?
+"425970691373301760","aff get di pussy mi nah rap",?
+"425998081104965632","fem asyl seek alleg sex assault anoth christmas island detain _url_",?
+"426003014550560768","mi da ig que se rap",?
+"426009369881640960","et voil que rap d s que ai le dos tourn",?
+"426011289958105088","can nev tol rap cas espec involv und victim",?
+"426038563793149952","unveil in comb sex assault colleg campus _url_",?
+"426057258196557824","can help pol trac peopl may info alleg rap basildon ny day photo htt",?
+"426059158493089792","rt cbsradionews whit hous new in comb sex assault colleg campus list _url_",?
+"426065489425485824","not rap lightskin foo",?
+"426069950957359104","rt obam young wom drop school attack not just terr loss loss",?
+"426071414290907136","now watch presid obam bid talk sex assault _url_",?
+"426071478778355713","obam target sex assault problem _url_ via",?
+"426071906790285312","rt obam today ll sign presid memorand cre task forc protect stud sex assault",?
+"426072096851390464","ve nev heard presid speak lik sex assault espec men hop start talk becom norm",?
+"426077904691146752","ev heard rebecc kiessl conceiv rap man nat stand wom _url_",?
+"426105859954212867","rt don understand rap brothel re nic",?
+"426107094215839744","tel goe jail lik cruc thing hap lik boy jail rap",?
+"426107768475766784","just hear rap mak angry",?
+"426107942023462912","rap act lowest low know stupid hoe decid traum someon",?
+"426110888635269120","obam target colleg sex assault epidem affront bas dec _url_ _url_",?
+"426116461317586944","rap account less abort excus",?
+"426128107829862400","obam est task forc sex assault say fath teach son respect wom _url_ tcot",?
+"426133615207284736","rt jes ir start audit rap victim want abort just lik rep trent frank want",?
+"426135217468743681","morocco amend controvers rap law _url_",?
+"426139278499131392","und sex traffick ring target runaway barb bet ask right quest jerseybreakdown _url_",?
+"426143363424059392","real ur sel sho real rap ur knock boy huh smh wild",?
+"426144812501188608","girl beat man find explicit photo phon deputy say _url_",?
+"426146745178144768","stalk rap",?
+"426160071265906688","rt rap cult portray sex act yr old talk show slut instead wond fuck sex wit",?
+"426166410860298240","got no gam might wel buy whit econolin van liv reput pedophil hahah id rath rap prostitut tbh",?
+"426178454795845632","shar act duba rap victim fac jail sex outsid marry _url_",?
+"426193616588263424","not rap enjoy",?
+"426196433398538240","on day childr wil leav nest kid lif marry wil empty worthless o kid",?
+"426199110685691904","trafficknom crazy tak loc sex traffick inform fox",?
+"426201437400731649","can not rap thank",?
+"426238615841013760","wb gang rap ord kangaroo court shock self proclaim court dang khap aap somna bhart",?
+"426244346099167232","wtf ind vil council ord gang rap wom pun pol _url_",?
+"426245153511051265","widespread viol wom problem somal new them brief show six pag http",?
+"426250510090268672","wil say anyth rap ord west beng",?
+"426266753736671232","mean say rap rar mean rap fulfil sex nee just humy control ugh",?
+"426286127038087168","rt skul tattoo man want pol rap girl _url_ _url_",?
+"426289816972824576","birmingham rap jihad pol releas cctv man sex attack boy _url_",?
+"426298305153220608","ind vil council ord gang rap wom pun alleg affair _url_",?
+"426332167027687424","hor oth rap foc extrem cas contribut refus look within",?
+"426339947214151680","ind wom rap court ord pol west beng arrest men gang rap wom",?
+"426340826688389121","naxalit mt panchay wb sent wom gang rap wom right cant left commun mohall durb",?
+"426354191141842945","help rw di mak om limit gk rw rap no",?
+"426356333752102912","seemz just want tip rap men",?
+"426363204948606978","eh marky mark arrest multipl tim rob low sex assault charg chris brown alway com back",?
+"426369072855400448","wom traffick niger demand investig _url_",?
+"426371217386242048","vil court ord men gang rap ind wom judg _url_",?
+"426391524272652289","video wom guil friend acid attack wom found guil throwing acid fac friend wh _url_",?
+"426396607006117888","cop search suspect attempt east harlem rap new york pix wpix tv _url_",?
+"426398942587527168","mon man uho seen dat nigg justin bieb jail d mak em bitch rap lil pretty ass no homo noth doe",?
+"426401454854008832","m pray gang rap hop split littl nont",?
+"426401779870601216","rt rap mee rap friend rap mee rap agaaaain",?
+"426403304550051841","fuck selen not rap pur pleas",?
+"426405647450517505","sham justin bed wil occupy muscul crimin lik rap littl boy",?
+"426407723144454144","word rap mat discuss now on ontario today _url_",?
+"426418025852461058","anoth brut rap ind men victim tied tre ord vil lead",?
+"426419783027150848","gonn rap mut block unfollow button today",?
+"426429074840764416","hat domest viol class mak wann beat shit wom ok packy",?
+"426430386517065728","thepeoplesvo tv bir new ear rev kevin annet discuss vat crim child rap _url_",?
+"426433176337387520","rap just say big no rap can nev just fightrapethursday",?
+"426434688085807104","rap much rap wow _url_",?
+"426435894745108480","m sorry ve volunt shelt bat wom rap victim noth funny",?
+"426436144767565824","wel bieb jail now just nee bubb rap murd lik show oz",?
+"426436230537281536","ind wom sentec gang rap affair _url_",?
+"426449301716230144","controvers morocco rap law ax excel new _url_",?
+"426461465663774726","quot day abort doesn un rap wom _url_ via",?
+"426467484447686656","real someon act said abort doesn un rap wom _url_",?
+"426468074091741184","murd rap ord way don struggle",?
+"426468326886617089","rap cult ind",?
+"426474011586228224","right ok justin bieb said rap hap reason complet thrashed skyd cent let fre",?
+"426474942444494848","rt us ens victim sex viol not left fac tri alon presid obam http",?
+"426477113114251264","video wom guil friend acid attack wom found guil throwing acid fac fri",?
+"426484256320552961","cam sit corn pretend noth wrong can speak evil murd rap wrong",?
+"426490807768862720","hor new ind loc council ord gang rap wom shar lov man anoth relig _url_",?
+"426504474404737024","freedomprogram zeebleb frothydragon ye misogyn med nev fail bemo app fals accus rap",?
+"426515373530181633","girl fak rap jam winston thot",?
+"426516550317645824","glad find sery soc issu larg rap hum pts",?
+"426527410973343744","don car much hat bieb not mak cissex jok wish rap upon",?
+"426531581902475265","rt benton ar pol off arrest charg rap _url_",?
+"426534461153370112","august year old rap victim attend big red high school volleybal gam",?
+"426535586342907904","rt keyword mut bieb bc prison rap jok think prison rap ev funny don want read",?
+"426549594537730049","talk son mak fuck terr rap terr put foot wrong m fed sc",?
+"426553104868192256","rt bapuj caseno evid rap fir med report c ajay lamb knowthetru pic twit com soxmgscdg",?
+"426553423194882049","pat littl girl head bless trp hungry express rap chot damin await arrestchoras http",?
+"426556633502605312","justin bieb child smil mugshot smh rap wil just",?
+"426564139087962112","rt ind gang rap victim may rap platform vil see bbc delh correspond rah tandon",?
+"426569648591470592","form bayl footbal play tevin elliot sent year charg sex assault",?
+"426570186012237824","onlin rap van octop want driv",?
+"426586563883974656","gro rap",?
+"426599090554552320","ind vil eld accus ord gang rap sery hor cas focus intern",?
+"426600101474500608","rt west beng gang rap allegedy ord vil council stun suprem court _url_",?
+"426623794719911936","court ord prob trib rap ind suprem court ord judg investig gang rap",?
+"426653441260150784","ev quest backward ass cunt rt gang rap ord kangaroo court just",?
+"426653884602261504","mt gang rap trib girl ord kangaroo court just shar view",?
+"426664118162968576","ind court ord prob gang rap new delh ap ind suprem court ord investig",?
+"426675195060166656","hat wom brut tort burn beat yr old son dea flyheight _url_ _url_",?
+"426680157370187776","research found educ wom expery less viol educ girl less lik undergo fem genit mutil",?
+"426688891010428928","rt rap jok ain funny unless re justin bieb jail bul isn acceiv unless jus",?
+"426724796076785664","holdin day drag stupid girl shouldn know shouldn know",?
+"426739037764739074","ceasefir southsud agr int refrain sexualviol _url_ bo un rap tort",?
+"426739079364227072","hang boy charg attempt murd rap _url_",?
+"426746982770548737","wann rap bed hahahahahahahahah",?
+"426747408219791360","rt justin bieb could rap someon fan stil say leav alon mak mistak",?
+"426749989092466688","justin could rap someon yal pra lik yaaaa gag yaaaa",?
+"426762579755560960","myth sex traffick sup bowl hurt effort stoptraffick must read _url_",?
+"426770107550150656","nooooo lmfao uho pol dont find enough evid da rap charg drop _url_",?
+"426771038634926081","rt get beat regul girl giv amaz slow blow okay blu mountain stat univers",?
+"426775874898120705","band label lik don someth auct re run rap cris lov hear",?
+"426781848505569280","isang grupo pal bak chics yun ni rap si vhong tss grab",?
+"426788732272799744","caleb say rap said rav com",?
+"426799559797264384","rap incest",?
+"426807561497886720","rt justin bieb can sum par rap littl sist guy wil stil support",?
+"426816419079401472","rt rap threats rit pass wom someth say internet _url_",?
+"426827342132957184","rt unfound dang accus mizzou fail alleg rap victim kil _url_",?
+"426839705716420608","joangelsola mass boy fac nd rap charg teach kil mass boy indict second rap charg _url_",?
+"426855989237649409","report mizzou didn investig alleg rap footbal play fem swim lat commit suicid _url_",?
+"426857358619189248","rememb wear nighty not rap word com gop",?
+"426865824620507136","ahah renam group rap apolog",?
+"426884757168070656","wom beat dea outsid nightclub suppos photobomb pict _url_",?
+"426887202543382528","whor obvy no cons no cho whor mess man want wom god say rap",?
+"426888934007009280","already not rap lik",?
+"426891682186264576","wait guy rap don believ man don get rap rap rath man wom",?
+"426895912569675776","ll rap nigg tweet lik bitch",?
+"426905229234143232","stat mad handgun nam delh rap victim day brent bambury cbc radio _url_",?
+"426920093092556800","dad gay marry guil child porn wil keep san fran city pend _url_ comput didn pol sex",?
+"426934015179104256","thiscouldbeusbutyouplayin _url_ omg can breath lmaoo fac rap don",?
+"426939367479730176","sea ot known rap drown baby seal",?
+"426942807140347904","sea ot known rap drown baby seal world crush",?
+"426947182944477184","cal rap",?
+"426951658082295808","rap city also said pol work investig fin kejriw",?
+"426952407374127104","keep mindset everyon fuck coz wil giv opportun fuck rap",?
+"426962840692744192","littl childr stil symbol etern marry lov duty georg eliot",?
+"426962981495525376","littl childr stil symbol etern marry lov duty georg eliot",?
+"426963913155289088","littl childr stil symbol etern marry lov duty georg eliot",?
+"427003144074059776","sea ot known rap drown baby seal orvil",?
+"427003879717220352","sec guard arrest rap mumba hindu topnew _url_",?
+"427006009203097600","rap jok pedophil imagery on tweet hop someon arrest peddl child porn",?
+"427018691805708288","heh awkward mom try rap someon ok",?
+"427024603098386432","sicko tri rap year old girl found car stol queen _url_",?
+"427031208845795328","rt rap cas pend delh court act tak dcw past many year keen fast rack cas somna",?
+"427032619625107456","rt prayforvhongnavarro attempt rap helpless wom world liv mess kam",?
+"427042064040087552","nakablot daw si vhong navarro dahil sa rap",?
+"427058416373465088","ant rap ag can convint til prosecut raf nad concern rog fed",?
+"427070868523470848","fuk doon ll rap ur mum",?
+"427086132237451264","pol search arm suspect behind sex assault rap west baltim _url_",?
+"427096750407819264","rt educ car marry childr ord",?
+"427103849602908160","cdmb look lik bom gonn rap cl _url_",?
+"427117218258620416","ev dat chop pervy shirahosh tel want rap dx",?
+"427123481394675712","gang rap pun not watch _url_ via",?
+"427126484223156224","know don rap old lady walk",?
+"427129771831488512","can rap murd famy belieb wil stil support",?
+"427129897908453376","can rap murd famy belieb wil stil support",?
+"427145513104707584","keep mind also bilbao beat unit back rap cur squad",?
+"427180739906772993","imagin justin tiny fright pen look quiv beg rap bottom",?
+"427188347468251136","rt sex assault affront bas dec hum presid obam _url_",?
+"427190092340686848","rt sex assault affront bas dec hum presid obam _url_",?
+"427190843569889280","can rap murd famy belieb wil stil support",?
+"427209664884137984","katy perry tweet thank speak sav am liv gun viol rock girl lov _url_",?
+"427212097059975170","deputy man wom arrest hum traffick _url_ loc",?
+"427214386713731072","rt deputy man wom arrest hum traffick _url_ loc",?
+"427231803527942144","m us thinkin dat rap quoteyourroom okmadmad",?
+"427233141237882880","look lik say bro rap bottom right",?
+"427234171652947968","rt piss mountain dew bottl mad girl drink got kick che almost charg felony",?
+"427252983622303744","nig whit hous alrrady rap rap us am stopobam _url_",?
+"427256598411870208","lov rap",?
+"427257145374289920","rt august illeg aly arrest alabam rap sex abus year old girl sotu",?
+"427288774901383169","rt shock peopl comfy us word rap mund verb verb re sport est domin let go",?
+"427291171312771072","sad don littl address far gre incid domest viol wom deserv bet",?
+"427309394804494337","demand end ind rap epidem forcechang _url_",?
+"427335392216760321","episod rap ashlyn ashlyn curo loveit pancak teach sat _url_",?
+"427343566478643201","abl wear whatev fuck want o fear someon might rap",?
+"427355178267082752","eh eh ban rap leg soweto",?
+"427355524955267072","ay won rap giv cons",?
+"427367950165635072","text unl rap send direct gma",?
+"427368713159847936","ako si vhong navarro ni rap ko kaibig ko o_o",?
+"427370517939503104","rt buzz ng bay vhong navarro nam year old wom accus attempt rap den millet cornejo",?
+"427380767346274304","rap nee money den millet cornejo",?
+"427387945122017280","gang rap wom found marry man subalp way don go pol _url_",?
+"427389320102965248","gang rap wom found marry man subalp way don go pol _url_",?
+"427389512428158976","dar sharp form nfl pro arrest rap dar sharp form _url_ darrensharp greenbaypack",?
+"427395085610004480","gang rap wom found marry man subalp way don go pol _url_",?
+"427396892557709314","rt kung attempt rap yung nangyar kay den millet cornejo ab choosy pa siy vhong navarro na eh",?
+"427401363514220544","bbc revel tru gaddaf sex bas us rap young girl sick _url_",?
+"427411006818484224","rac tan car ll prob rap",?
+"427412837435064321","rt argentin group stray dog sav year old girl man try rap",?
+"427413412470349824","rt argentin group stray dog sav year old girl man try rap",?
+"427422704279359489","ind rap victim pol protect wom said rap ord vil eld _url_",?
+"427423408784416769","scor hel rap",?
+"427425690841935872","worry vhong navarro fiasco affect publ perceiv rap cult enough victim blam",?
+"427431062415736832","_url_ hi can rap omg",?
+"427432809691500544","aiyu noon stalk m tak bath rap",?
+"427438161338195968","rap tangin ginusto mo din yun ul",?
+"427446663821529089","bak nam nakakalimut ng gma yung issu ni vic sotto na din sa rap gmaphilippinesworstnetwork",?
+"427454417638416384","rt year old brav reject abort rap now rap attend school _url_ _url_",?
+"427456101026500609","rt year old brav reject abort rap now rap attend school _url_ _url_",?
+"427456116852015104","forc arrang marry bestsel jo beverley kindl rom reg ebook _url_",?
+"427480919688380416","min rap",?
+"427488280393682944","otl missour inform pol alleg rap univers missour releas stat sunday say univers pol tu",?
+"427489452374495232","rip year old girl subdivid illino attack pitbul",?
+"427495961494298624","smok mind rap _url_",?
+"427509981156741120","not rap enjoy",?
+"427510621840875520","eleph kil peopl every year known also rap kil grown rhino holy shit",?
+"427512107492737024","otl missour inform pol alleg rap univers missour releas stat sunday say un _url_",?
+"427512537995677696","feel lik diff caretak story dis person second rap fantasy read ident",?
+"427517800924860416","who eleph kil peopl every year known also rap kil gro",?
+"427517896500076544","peopl laugh rap khs sery not cool",?
+"427523345098481664","rap card soldy",?
+"427525259978223616","eleph kil peopl every year known also rap kil grown rhino",?
+"427534951009906688","sup bowl sex traffick hyster latest fem victim myth gre debunk _url_",?
+"427540688507789312","year otl missour inform pol alleg rap _url_",?
+"427542187002191872","rt rap jok prosp can say d nev real rap girl bc rap rip cloth us weapo",?
+"427542618307067905","rul tight jean rap set ang ita new york tim _url_ see",?
+"427543978268176384","rt report spam rap just sex sham attach",?
+"427546328776704000","fals story rap mad med despit med report deny rap attempt jayhindu _url_",?
+"427549402568605696","kendrick lam don win grammy pay rap win",?
+"427554259916578816","questionsforamnesty dont think bet us yr platform condemn men pay rap wom girl",?
+"427555182717976576","peopl wor tupac lik wasn convict rap",?
+"427562777704558592","femin say redefin definit rap wel re on say sex rap redefin",?
+"427566900080812032","nigga stil tryn rap fem now _url_ nigg",?
+"427571094006927360","deniss d say rap nt gmaphilippinesworstnetwork gma told us vhong blot nt commit rap _url_",?
+"427578194829377536","rt study com show black wom fac highest rat domest viol say",?
+"427593297113014275","midterm gonn complet rap grad",?
+"427607729952145408","although see sid ar two sid anyway harass ant gay girl not",?
+"427618645074665472","robin thick not art releas misogyn mus perpetu sex rap cult just hat",?
+"427618913086488578","robin thick perform song rap wow cut",?
+"427619470887378945","robin thick perform song rap wow cut",?
+"427619863792984064","dat rap anthem sum blurredlin yuck",?
+"427620980865785856","dat rap anthem wait",?
+"427622831149441025","john legend could shit chest yank hair cal nam rap bung hol stil voic everygirl",?
+"427632043460411393","dat rap anthem sum blurredlin yuck",?
+"427633513739718657","dat rap anthem sum blurredlin yuck",?
+"427640233606119424","robin thick perform song rap wow cut",?
+"427652625316986880","want carry robin thick baby jk wouldn cho bc rap writ song abt",?
+"427672141010456576","hellooo hat blur lin think rap lov hear thought _url_",?
+"427673606462509056","lord lookin lik abouut rap someon",?
+"427685154392272896","rt dear gma porket com na pog rap agad wow hiyang hiy nam ako kay wal bayol na mas masahol pa sa ibinibint",?
+"427699885693865984","dan tour gang rap ind anoth tour alleg rap highlight ind problem",?
+"427708341725298688","rt yf lik real imm rap broom stick hop notification",?
+"427714325940158464","part snoop dog tri rap yvet lik noooo",?
+"427721225285025792","ndi lang po pathet desperad din rap daw si deniec nam mismo ang nagtex kay vhong par pmunt sya sa condo nya",?
+"427728212689317888","lee insist vhong want rap fem friend businessm cedr lee tag act _url_",?
+"427746590183288832","just agr na disregard nalang un attempt rap can just disregard accus person beg hmm",?
+"427747503795343360","_url_ potato mad fin rap",?
+"427763459087163392","rap cult univers nee urg act _url_",?
+"427763679556141056","sinab po ni deniec na ni rap daw ni vhong si deniec pero hind po totoo ang sinasab niy naniniwal po ako na hind rap si vhong",?
+"427765285722918912","rap satir wak peopl _url_",?
+"427767674995634176","bakit di tinuloy ang blot dahil ayaw nil lumak ang gulo jusko rap yun kung totoo nga na nirap ka dapit itulo",?
+"427768476451627008","ni rap daw pero putok na putok ang blush conto sa bab",?
+"427770535951351808","kung vhong ma rap skon ok lg ah hahahahahahahahha",?
+"427774359445323776","pag na rap ka pal sa batanga pwed ka mag fil na cas sa spd hmmm salam sa makabagong kaalam cedr lee gal",?
+"427777035549691905","ang assumer nitong si deniec ni rap daw ni vhong",?
+"427778577669447680","kung umiyak si deniec sa mga interview na maaw ako sa kany pero hind eh grab ni rap daw pero ang say shemayyy wtf",?
+"427781360942841856","vofnimo year old teen nab charm year old wom beat pulp hoodlum storm ibad _url_",?
+"427787282176016384","rt m tak beat no cho rap",?
+"427798010152505344","nev hist delh rap occur republ day yet anoth feat _url_",?
+"427809711434371072","read marry deathlok deadpool wond child fac ev moth could lov",?
+"427839943713751041","rt almost post rap jok got scar someon might tak invit rap hard express urself day",?
+"427841929984749568","honest believ wom invit man plac lat night cred claim rap tv",?
+"427847110441324544","no fut se or buskens un muj que sea buen te rap bien no tim wast bs _url_",?
+"427847154518859776","re sil greatest asset tak stand domest viol sex assault don sil long",?
+"427851559717044224","rt rap lmfbbao rap thiscouldbeusbutyouplayin _url_",?
+"427854218826117120","read dissert sask van barneveldt develop rap genocid cas uv",?
+"427863701463384064","dear underclassm tak ap gov econ re stupid fuck bc shit gonn rap soc lif gpa le",?
+"427874804612751361","rt rap dumbest crim ev rap innoc person hoe throwing pussy around",?
+"427877478095663104","rap tweet land uk coupl jail europ new ind today _url_",?
+"427879886720475136","know got beat _url_ fuck going see lat",?
+"427888690786889728","ind gang rap ord eld video sec pol ind pol video foot photogr _url_",?
+"427891725588131840","pol op cas alleg missour rap _url_",?
+"427893248518926336","can rap murd famy belieb wil stil support",?
+"427900233356693505","can rap murd famy belieb wil stil support",?
+"427902824752898049","questionsforamnesty advoc leg shown increas sex traffick _url_",?
+"427919415607189505","year old transgend fem isl nettl died sav beat dea attack _url_",?
+"427924426332831745","wasnt dat rap ref dent clearificationtweet",?
+"427941416028110848","rt agu ferrocarril alimentac son los pil de est integrac rap",?
+"427966949315067904","rt not hezbollah saa wait permit syr giv soldy religy permit rap syr _url_",?
+"427971579105263616","wait let rap someon first",?
+"427980466495688704","filipino lov team deniec cornejo say attempt rap vhong navarro cedr lee upd _url_",?
+"427992710889209856","rt consid extrem not allow rap incest exceiv abort now txl",?
+"427994004437757952","bluestarmom ex girlfriend accus rap long gon nsa can help",?
+"427995337861898240","rap _url_",?
+"428004804153995264","ahahahah rememb girl said boyfriend us beat ass rob ask squ",?
+"428011741864157185","war wom continu gop candid txltgov oppos rap incest exceiv abort _url_",?
+"428017801001832448","rt zayn girl react say girl bas kick harry americ keep away kendal",?
+"428022752453206017","help mak hap destinyjon short filmnoir address rap crowdfund indiegogo _url_",?
+"428072857180983296","bul shit army jaw book rap mon old baby _url_",?
+"428080151394390016","rt girl screams rap men hap hear ent unlock door beat guy tak pic pol blot no charg fil nor",?
+"428081068227301377","ano iyon pakan lang rt girl screams rap men hap hear ent unlock door cont _url_",?
+"428085343594614784","riot process in rap accus _url_ outlook wir",?
+"428088787886170113","rt not lik creepy going rap way m going murd way",?
+"428088987631099905","richard sherm bout rap bronco com fast superbowl",?
+"428090492073816065","rick ross arrest morn rap und miam girl artic _url_",?
+"428090503973056512","rick ross arrest morn rap und miam girl artic _url_",?
+"428090510205804544","rick ross arrest morn rap und miam girl artic _url_",?
+"428090516551794688","rick ross arrest morn rap und miam girl artic _url_",?
+"428091847475728384","rick ross arrest morn rap und miam girl artic _url_",?
+"428112974365335552","real rap victim cry suff traum deniec rap victim wel mak feelin fresh no emot justiceforvhongnavarro",?
+"428115047240318978","lie cedr lee min interv tas rap oh com",?
+"428119646139473921","attempt rap hhahahahahahah",?
+"428132729264148480","pls look read shar retweet link _url_ mess vhong navarro rap issu",?
+"428138233340628992","obam prom veto republ bil forc ir investig rap victim _url_ via",?
+"428144861414301696","rap not someth mov idiot kahit year ago pa yan",?
+"428154503783645184","form nfl play dar sharp arrest susp rap _url_",?
+"428155627798814720","dis peopl rap wil alway funny thing hap someon clos tru",?
+"428159360234455040","rt rap rick ross arrest morn rap und miam girl us drug cal mol pag http",?
+"428159428794535936","rt rap rick ross arrest morn rap und miam girl us drug cal mol pag http",?
+"428159912766476288","bakit mag iinvit ng lalak ang isang baba sa pm ng gab na pumunt sa kanyang condo mag aakus ng rap bitch ple",?
+"428160427227635712","rt rap rick ross arrest morn rap und miam girl us drug cal mol pag _url_",?
+"428160916643782656","rt rap rick ross arrest morn rap und miam girl us drug cal mol pag _url_",?
+"428165216182870016","kadir nam rap agad hahah",?
+"428180240670928896","rt bclinton escap accus rap broaddrick assault willey jon harass jon lady malign ei",?
+"428200378992427008","rt real men dont rap real wom dont expos body right",?
+"428201374229082112","duck tap but rap stick nigg",?
+"428208799971692544","both swear look lik rap kid creeeep feel sorry baby _url_",?
+"428219998331363328","yeah stop stalk wom handsoff",?
+"428222490695835648","pen stat fed investig sex assault report _url_ ekogid",?
+"428236299384791040","guy stfu don ev know cal rap",?
+"428248346353221632","hero wil show no pain get beat wil show pain wom try clear wound",?
+"428256589678526464","bas o bor dea wom victim multipl rap guy act develop",?
+"428264879439765504","want unputdown child traffick pag turn torn today headlin _url_",?
+"428282278695825408","yorkrey nypd conduc pre sup bowl crackdown sex traffick _url_",?
+"428287910799241216","rt rap rap friend rap rap",?
+"428288555333734400","rt rap god wil homosex cho talk mak shit go along",?
+"428296889880936448","guy try mak jok rap fuck wrong",?
+"428308140564955136","watch abc fugit want count rap norristown _url_ _url_",?
+"428317909770047488","rap cult colleg campus must end _url_",?
+"428324427042803712","rt harry qu signific rap vi lam ok pero const que lo ped no no qu hac llat qu ta",?
+"428338773697392640","rt rap god wil homosex cho talk mak shit go along",?
+"428349185214386176","rap period abus abort pregn harass breast cant walk che fem",?
+"428350976215359488","monst gany ba itsur ng na rap di baleng bisay wag lang mag katulad mo etchoser ka eh ano ngayon kung bisay",?
+"428356330357657600","_url_ pot vpot nail talk sex assault wom",?
+"428357408759771137","rt rap kany west arrest morn rap und miam girl us drug cal mol pag http",?
+"428357807663222784","rt rap kany west arrest morn rap und miam girl us drug cal mol pag _url_",?
+"428357862038200320","rt rap kany west arrest morn rap und miam girl us drug cal mol pag _url_",?
+"428357882623836160","rt rap kany west arrest morn rap und miam girl us drug cal mol pag _url_",?
+"428358455146336256","rt rap kany arrest morn rap und miam girl us drug cal mol pag _url_",?
+"428363115307085825","rt sho men wom childr fle viol southsud tel us much via _url_",?
+"428366755342585856","big no ment rap milit sotu",?
+"428371356728983552","rt cathy mcmorris rodg m inspir year old forc wom carry baby rap incest sotu gopr",?
+"428372062642507776","rt ant rom men found guil rap testic crush two ston",?
+"428372079462055936","rememb um fan held hi lizzy seeberg sign gameday taunt nd re sex assault alleg wel _url_",?
+"428374718681337858","lmao rap on",?
+"428376162759614464","dont wann rap ya just want pap",?
+"428376534286893056","abc fugit want count rap norristown _url_ _url_ ass fuckin",?
+"428379654605389824","rap whistl mean background mus",?
+"428383728025362432","real rap got boob com now",?
+"428386115200901120","brady hok cov rap alleg lied protect rap must fir _url_",?
+"428386146708516864","nev rap sex wil alway consens vert pillow talk rom word iv ev ut",?
+"428392933814173696","destiel superwholock babyyoureacrimin chosenpr punch guy bc mak rap jok _url_",?
+"428399033615273984","rt don know say see lif destroy asyl seek crit respons rap claim _url_",?
+"428415224509526017","not rap surpr sex",?
+"428419489412030464","rt muntik ka na palang ma rap teh pero yung re rap sa yo nas kwarto mo ikaw nas lobby san nakip phon sex ka na la",?
+"428434835166986241","didn kil rap molest kid no shit just drug black dud near rap ass",?
+"428438257894846464","ncp lead doesn know rap hap due pervert mindset abt unreport rap hap min toddl",?
+"428440180081434624","rt lady group pul kapil sharm jok pregn wom feel rap wom fault",?
+"428444468463669248","en rout gle high forc marry pret wherea brum ixecmv",?
+"428447484201824256","burgl return rap victim awesom cour sav _url_",?
+"428458468907810816","ncp wom lead say dec victim blam rap _url_",?
+"428461147248160768","rt real rap victim cry suff traum uncomfort deniec rap victim mak feel fresh",?
+"428475916402970624","chapt clos wann knw height femin man fals accus gf rap acquit",?
+"428481237120860160","tvpatrol paano kay isisingit ni cornejo ang rap sa min hirap na nga yung attempt rap eh",?
+"428487229330423808","sex girlfriend day kept yel guy nam hel rap",?
+"428487476605239296","rt pag na rap nanlab yan us sug pas bal sa kataw pero tek sino ba mas mukhang na rap si vhong si",?
+"428488927561793536","rt pag na rap nanlab yan us sug pas bal sa kataw pero tek sino ba mas mukhang na rap si vhong si",?
+"428488954816368640","dum si vhong lumaba si deniec dum si cedr less min ni rap agad ano minut win",?
+"428489373999316992","rt rap min ano pagkapasok laba agad",?
+"428491044322156544","may kausap pa si deniec sa laba ng condo paano yong rap woooow justiceforvhongnavarro",?
+"428492037097140225","don know insist rap attempt rap thing pretty obvy huh abscbn tvpatrol",?
+"428492528631812096","ang pang ra rap ni vhong ay prang minut win sya pumasok tapo sya binugbog ni cedr",?
+"428492757317869568","rt real rap victim suff traum uncomfort deniec rap victim wel feel fresh no emot",?
+"428501507164495872","fem polit suggest ind wom invit rap new delh reut ind fem polit",?
+"428504172556595200","dum si vhong dum si deniec dum si cendr ano yun rap minut ano",?
+"428509679509979137","girl beat unconscy classm md el scho dc new fox dc wttg _url_ smdh",?
+"428510290666201088","rt dum si vhong lumaba si deniec dum si cedr less min ni rap agad ano",?
+"428524673450512384","not surpr remind old blog post _url_ ncp wom polit suggest nirbhay invit rap",?
+"428525231318110208","wolverin kick brend gibbon expel michig amid sex assault investig _url_",?
+"428539775205646336","rt lady group pul kapil sharm jok pregn wom feel rap wom fault",?
+"428548405552373760","ye re op every cas start hitl genocid delh rap idiot reop",?
+"428549859579527168","id consid rap",?
+"428554031573659648","river sad child welf ag virt sil child sex traffick dmst",?
+"428559672891543552","pick stick ground knock fat girl nev spok anoth word beat",?
+"428561206580764672","rt dum si vhong lumaba si deniec dum si cedr less min ni rap agad ano",?
+"428562128795336704","av rap fest pract sist friend basedmuz rap sibl tradit",?
+"428563038409461761","child rap blackmail scum stat _url_",?
+"428564909497274368","wel rap failedthatfin",?
+"428570911802142721","court remand man alleg rap niger _url_",?
+"428571654243889152","rt blah blah abort rap genocid homicid suicid pedophil midget unicorn shit piss fuck bukakk rac slu",?
+"428591827571474432","rt first scen jaw girl attack screaming real pain har brok hip drag",?
+"428592397115617280","rt first scen jaw girl attack screaming real pain har brok hip drag",?
+"428592715664588800","chang new delh year old rap boyfriend pretext marry _url_ crim rap vaw ind via",?
+"428595044870651904","rt first scen jaw girl attack screaming real pain har brok hip drag",?
+"428598163268579328","deniececornejo ayaw mo paaw ano yan minut ro rap _url_",?
+"428601101039194112","think can don rap problem colleg campus wil help _url_",?
+"428604985798959104","rt wom fir burn wak replac pint whiskey cigaret out spac",?
+"428610191873957889","buy cuz m girl burn girl",?
+"428615664513728512","rt ant rom men found guil rap testic crush two ston",?
+"428631576927166464","inspir dumb thing peopl said sex rap ind _url_ us _url_",?
+"428649305290076160","fem cop sued allg arrest scold wom rap _url_",?
+"428652586271404032","m int talk wased univers facul guy attack argu said comfort wom system wrong",?
+"428661464417583104","pol arrest robbery rap ogun _url_",?
+"428661631397404673","rt hom wann rap battl say bruh rap battl hom rap battl",?
+"428663409656094721","isn non consens sex pc way say rap tak on occur vers two",?
+"428663750175252480","isanggun kay attorney sa isyu ng rap panggagahas kasam si atty emmanuel joseph cer leg _url_",?
+"428669892410093569","eleph kil peopl every year known also rap kil grown rhino",?
+"428682250318643200","fuckkk finn get attack oprah twit ain rap moan",?
+"428685700964184064","lifewir mak diff domest viol lead caus homeless wom childr _url_",?
+"428686920822968321","bibl speak talk serp donkey ear flat condon slavery allow rap etc book wrong",?
+"428689511334547456","girl shak booty beat soulj boy thang com hang wit throwback",?
+"428690253495283712","two rap ll record",?
+"428691895431471104","minut rap hahahahahagag _url_",?
+"428693411109928960","nung un attempt rap pangalaw ni rap na pangatlo ano nambugbog si vhong ng anim na lalak",?
+"428695924831830016","nigga stil tryn rap fem now _url_",?
+"428695981748940800","rt pleas don allow viol hatemong us ap harass exploit margin wom _url_",?
+"428750901588033536","hoe scar touch em gon yel rap",?
+"428763073906606081","m stil marry childr though lmaoo nunn",?
+"428769876799262721","m sur get ass whoop court many wom basketbal play alltalk way burn nat",?
+"428785737685676032","tim although phys rap just fil hol also isn someth els _url_",?
+"428797240304353280","stockm cal viol wom act tru bad bil benefit men dress wom _url_",?
+"428800237491068928","myredbook doctor_t can rap pay paid heel room outfit writ libel internet",?
+"428802383536480256","an od ni se sis hop don mean rap sha off lost c",?
+"428830146989420544","can rap andy sos un desmadr",?
+"428839791954644992","oa mo na den pavictim ipagang rap na yan si gag hahah",?
+"428841420460285952","di ka kailang rap ni vhong deniec kas sinong baba tutuwad diy am hahahaahh",?
+"428843125935595520","rap deniec cornejo rap hahahah _url_",?
+"428847215524585472","less minut rap agad minut win ahahah",?
+"428850399085600768","soch work tel brut rap newslock _url_",?
+"428865137496576000","man serv prison sent year rap murd lat found wrong convict dik ting",?
+"428876401039929344","ask week talk ask hand marry god forc outt feel lov ide",?
+"428888349584424960","sup bowl sex traffick _url_",?
+"428894146598690817","exceiv kil hum rap wom",?
+"428895696281169920","pleas rt follow help support stop domest sex viol itsnotalwaysphys",?
+"428896572466683904","beltway insid obam prep stat un us russ talk olymp sec wh sex assault task forc _url_",?
+"428905491226312704","just los just rap just gon",?
+"428911614033551361","rap bail offens",?
+"428913376048074753","civ test clark gonn rap sideway easy peasy can",?
+"428924810131808256","transgend wom col almost tim lik expery pol viol gen tran pop",?
+"428944210658885632","rt rap wom hat wom think tim kil wom tim heal wom rea",?
+"428961359133691904","tickl just rap slight ey contact necess",?
+"428968792602206208","sup bowl sex traffick myth _url_",?
+"428970931403231232","wom alleg abduc sex assault lapd video sid video _url_ via",?
+"428985856292962306","dream last night forc marry didn want ran forest jap",?
+"429000036652171264","strange turn story beat gay journ kick wom pri incid complaint say ny _url_",?
+"429004844427657216","just fb stalk wom fak baby sev freak now bitchesbecrazy",?
+"429021699430809600","girl got beat dea photo bomb",?
+"429026056264101889","ev pet omg going rap wear leath body suit _url_ harry styl",?
+"429028173385179137","absolv appal rap surv drc pun rap pleas read _url_",?
+"429031429624700928","kind cult msnbc allow hat rac cal viol wom occ cult cult cult",?
+"429037613543358464","hipst girl burn mou pizz want eat cool",?
+"429045481256128512","pol cult disbeliev rap claim alarm off monit group new fig rev pol _url_",?
+"429048625637773312","rt rap colleg camp espec among black stud stil not giv prop at nee",?
+"429063481044660224","rt whit ppl get away wear singl lay weath murd rap dui drug charg slavery clear",?
+"429067630603796480","said rap hap reason no",?
+"429067816470593536","ss rap boo rt ready fa anoth day _url_",?
+"429073655105355776","rt s rpt viol indig wom canad publ year ago nee act now _url_",?
+"429075093294440449","rap jojojo xd ah re pap nuel lo dud band pero mi cu ayudo termin de decidirm",?
+"429087880988729345","wil rap",?
+"429095028032434176","grow want son first daught son beat boy mak littl girl cry",?
+"429103575613325313","spongebob mak an rap jok _url_",?
+"429103809189527552","hat rap sex assault apart peopl liv espec child mak angry sad",?
+"429110911152840705","lik rap ton dem shit principl ye",?
+"429114431495086080","girl carpet burn should bru everywh",?
+"429149577338699776","newcom op rap moth suff song wrot _url_",?
+"429168861158461440","rt ex ask could visit bring pizz pwed kay akong sumigaw ng rap cho",?
+"429169200624828416","ye real men don rap stoprapenow",?
+"429204147280150528","may bago daw gam show ngayon minut rap join na sa condo daw ang audit",?
+"429224967679787008","rt many mus institut rap art nam provid platform",?
+"429230863381852161","try rap pancho bathroom isn",?
+"429231321143967745","wahhh many hous today dont guil just rap ask",?
+"429238179405651968","regard uk hom off stat rap rap crim judg attrit rat",?
+"429247711939141632","cours young asain men think viol wom disagr men acceiv look bring par",?
+"429250408461373440","ll rap dat op plac not sur wheth re rap nah bring along friend",?
+"429263323943948288","tweet think reconsid sel book seem enco rap _url_",?
+"429278914129567744","dr michel ward inspir wom ev stalk ain no jok peopl think funny",?
+"429281249392590848","glad det tday bc waitin outsid room idk girl punch anoth girl ey kick",?
+"429287422367903744","mean phenomenon surv bootstrap the rap without research",?
+"429288416086208512","rt aid just yel word someon tri rap re welcom",?
+"429291923745304577","rt dat rap alleg class no crim pol forc england wal _url_ _url_",?
+"429293559015956481","man tri rap refus wear condom sex _url_",?
+"429303036825968640","rt child marry dowry sat part tradit aap spokesperson tim now",?
+"429304888212733952","sorc granddaught work viol toward wom mumtaz sorc daught pc sorc jr gra _url_",?
+"429323445466574848","melvin al found not guil friday count rap count gross sex imposit burgl _url_",?
+"429332221132955648","melvin al found not guil friday count rap count gross sex imposit burgl _url_",?
+"429337869010743297","sup bowl sex traffick real just rumo _url_",?
+"429337944042651648","re lucky didn rap",?
+"429349367066411009","study just don just lesb rap reason wom choos nev man",?
+"429378576371425280","look bit bright par day ibiz august ev mean tim bout rap ass fif",?
+"429388755531608065","guess on way rap prev _url_",?
+"429391074751037440","kirst gillibrand slam sex assault panel decid command rol sen quest sex",?
+"429427674776227840","end epidem rap milit fix brok just system _url_",?
+"429429921962672128","spongebob mak an rap jok _url_",?
+"429435687075454976","rt questionsforamnesty cal pimp traffick slavery viol abus wom kid http",?
+"429436648435097600","newcom op rap moth suff song wrot _url_",?
+"429456347072319488","reasonsineedfemin rap stat _url_",?
+"429478687612747776","due process get child marry way boy maj",?
+"429481159601311744","cut grass no pun rap hold rap pol account keny can set exampl world justiceforl",?
+"429484916863012866","rt aap now khap just win haryan aap want support khap aap reply wom empow rap",?
+"429507406629208064","rt fran oi xavy nsanzuwer stresses import giv voic victim prosecut sex viol crim",?
+"429513145359429632","court remand yr old man rap year old girl _url_",?
+"429555007197679616","end epidem rap milit fix brok just system _url_",?
+"429555388451921922","colleg accus mishandl sex assault cas _url_",?
+"429565022390718464","last week someon threatened rap story obvy someth els found strange wak",?
+"429595536241348609","phon suppos com doesn im hunt delivery man rap kil",?
+"429605351457976320","rt indones wom fal victim hum traffick us opin _url_ _url_",?
+"429613810035736576","almost yr lat noth chang ant rap protest delh _url_",?
+"429643239348379648","rt mak child marry bind adult marry min wil cruel mor pol de",?
+"429650344407482368","rt ll rap rt stokec yamasimb friendsofstokec",?
+"429650397826142208","rt imam say non hijab wear wom ask rap tri rap on worldhijabday allaboutrap _url_",?
+"429655591758618624","retweet think sould pun rap _url_",?
+"429655809316765697","rt av fem prostitut begin turn trick year ag docu rap profit",?
+"429662898437095424","form whit hous lawy now work bikram yog guru accus rap _url_",?
+"429664313255542784","traffick humantraffick isn just kid isn just wom isn just sex _url_",?
+"429665220856795136","rt dark end street black wom rap resist _url_ blackfemst",?
+"429682115672678400","fuck whit girl gon eat yo ass don get mad hol rap nigg hat dad",?
+"429685504116662272","join sup bowl pray party not pray team soul sex traffick hom church _url_",?
+"429710008306388992","aust wom rap duba told opt marry attack jail _url_ rap",?
+"429713929691213826","report week suggest trend disturb postcod lottery rap victim emerg _url_",?
+"429714439797870592","jean pasc jean pasc box champ jean pasc contact investig alleg sex assault _url_",?
+"429727836434604032","_url_ alsof het iemand and rap butnotrea likingit",?
+"429734512273022977","rt dyl farrow woody al liv testa way socy fail surv sex assault _url_",?
+"429736710037966848","wond sometim accus guy rap ruin lif screed just next way sil victim",?
+"429760579423580160","rt trig warn incest sex assault ab dyl farrow survivng sex assault fath woody al htt",?
+"429764337302241280","tw sex assault child mt dyl farrow writ sex abus woody al _url_",?
+"429770527662964736","watch ppl support ur abus someth surv expery farrow let condemn rap cult",?
+"429782567672610816","don tak sery rap accus re prob asshol mean no reason not thatisal",?
+"429789778310332418","rt woody al liv testa way socy fail surv sex assault abus _url_",?
+"429804330292879362","think _url_ board rap",?
+"429805708851572738","want giv shout suxc al kyl hea fac tim birthday girl could watch cus beat dook tcb",?
+"429811728717971456","rt patriarchy sex viol can not sep pres extract industry man",?
+"429815317699653632","unfortun cur incarn due process sa surv rap kit re traum mass backlog",?
+"429849121231343616","isn no dat act support not increas sex traffick accompany sup bowl _url_",?
+"429863219113762816","rap littl girl peopl stop want movy peopl also stop pay see",?
+"429866823341723648","rt typ evid peopl demand lik sex viol crim ridic c oft doesn ex bely",?
+"429902391631048705","limousin subleas sydney outh hap rely forc marry buggy furth self oegm",?
+"429903646785294336","rt imam say non hijab wear wom ask rap tri rap on worldhijabday allaboutrap _url_",?
+"429907290490011648","minut win pal ang pagkak rap ka deniec slow clap",?
+"429910172610207744","rap ins di san natrom ka na mat ka nang umiyak sa tv nic",?
+"429917301253492736","rt deniec na rap ako sa isang minuto",?
+"429958170732425216","lawmak nfl must comb sex traffick _url_",?
+"429958701139910656","rap _url_",?
+"429974765890437120","rt first girl attack movy jaw screaming real pain har brok hip drag",?
+"429975990186831872","rt first girl attack movy jaw screaming real pain har brok hip drag",?
+"429982370863661057","sup bowl sunday wom victim domest viol record numb dark sid men chang day stop",?
+"429989677069008896","sex prostitut without permit rap shoplift",?
+"429995334560133120","rt first girl attack movy jaw screaming real pain har brok hip drag",?
+"430008415138893824","esport kay girl wasnt on got kick",?
+"430019009216790529","rememb precy girl lour sex traffick sup bowl year ago _url_",?
+"430020404514521089","sound blam rap victim _url_",?
+"430022173106110464","rt ibelievedylanfarrow fals alleg astronom rar fals den sex viol terr",?
+"430039232267440128","new black mob viol rap not sur on got _url_",?
+"430055009309315072","body beat fuck domin mutil strangulate rap bug kil eat right kil",?
+"430055353083256832","whoev blow rap whistl nee go lik now",?
+"430097150375366656","piec excr unprofess journ incap object rap deny apolog",?
+"430101127481135104","crmbl anoth on crazy depart saud cler cal baby wear burqa prev rap _url_",?
+"430103363792154624","mt superbowl sextraffick playground _url_ traffick wom just htchallenge not sal",?
+"430104301814706177","stalk nightm rap dream",?
+"430111326145236992","mean peopl myredbook priv molest rap wom forum prob cre forum erosescort dot tumblr",?
+"430120876953321472","mcdonald imit rap hotlin ad sel big mac notbuyingit _url_",?
+"430125909019222016","stil hap lik chevrolet much lik mech rap now lookitup factoryfarm",?
+"430126050098839552","rt wait awkward rap commerc sery notbuyingit",?
+"430131501989367808","m eith broth men wil rap bet run bitch run bitch run _url_",?
+"430133718108221440","rt sex traffick hap every day right commun tim go offend _url_ notsosup",?
+"430139558655578113","pretty sur every fem americ hormon just kick overdr david beckham",?
+"430148272230260736","rt just think could perform sup bowl halftim hadn kick girl",?
+"430151056807309313","rt chris brown nee perform next yearh might just beat fem dant",?
+"430153278186221568","wil rap bruno mar",?
+"430154961096175616","rap bruh",?
+"430155604955791360","don try upload gam pornhub don allow rap",?
+"430155615257001985","don try upload gam pornhub don allow rap",?
+"430156004668735488","don try upload gam pornhub don allow rap oh shit",?
+"430156363436929025","nee air christ don try upload gam pornhub don allow rap",?
+"430156389764177920","rd_ x______x don try upload gam pornhub don allow rap",?
+"430156422337540096","rap _url_",?
+"430156551920173056","don try upload gam pornhub don allow rap",?
+"430156726772699136","wild flagr don try upload gam pornhub don allow rap",?
+"430157363509612544","don try upload gam pornhub don allow rap",?
+"430157793325105152","don try upload gam pornhub don allow rap",?
+"430157922799079426","don try upload gam pornhub don allow rap",?
+"430158805088108544","don try upload gam pornhub don allow rap",?
+"430159480978808832","rap sess right now",?
+"430159535840694272","don try upload gam pornhub don allow rap",?
+"430159725037387777","rap embarrass",?
+"430159773242126336","just becam rap cas",?
+"430159848152371204","don try upload gam pornhub don allow rap",?
+"430159882940334080","don try upload gam pornhub don allow rap",?
+"430159972174163968","not not ev gam rap",?
+"430159983032795136","rt hey fuck don try upload gam pornhub don allow rap",?
+"430160088255692800","don try upload gam pornhub don allow rap",?
+"430160179930214400","loool don try upload gam pornhub don allow rap",?
+"430160213648637953","don try upload gam pornhub don allow rap",?
+"430160219386023937","childr ag clos ey statut rap superbowl",?
+"430160444452773888","don try upload gam pornhub don allow rap",?
+"430160623914074112","fcc reg chang didn know could broadcast rap without penal superbowl gohawk",?
+"430160839820447745","don try upload gam pornhub don allow rap",?
+"430160864725827586","don try upload gam pornhub don allow rap",?
+"430160869809344513","rt break new jersey pol fil murd assault rap charg seahawk re",?
+"430160889942007808","rt isn footbal rap",?
+"430161089977143296","don try upload gam pornhub don allow rap m",?
+"430161180691537920","don try upload gam pornhub don allow rap",?
+"430161212241113088","don try upload gam pornhub don allow rap",?
+"430161336022994944","don try upload gam pornhub don allow rap",?
+"430161413341208576","don try upload gam pornhub don allow rap",?
+"430161685064585219","rt break new jersey pol fil murd assault rap charg seahawk re",?
+"430161737032007681","don try upload gam pornhub don allow rap",?
+"430161752362205184","don try upload gam pornhub don allow rap",?
+"430161827637780480","don try upload gam pornhub don allow rap",?
+"430161870851690496","don try upload gam pornhub don allow rap",?
+"430162178906542080","don try upload gam pornhub don allow rap",?
+"430162329221611521","don try upload gam pornhub don allow rap",?
+"430162458850779136","don try upload gam pornhub don allow rap lmao",?
+"430163082074411008","rap no vasalin",?
+"430163808381046784","rt break new jersey pol fil murd assault rap charg seahawk re",?
+"430164102573723648","jajajajaj don try upload gam pornhub don allow rap",?
+"430164450822205440","dont ev watch footbal rap somebody got paid yeah def don watch",?
+"430164714715234304","don try upload gam pornhub don allow rap el tweet del sup bowl",?
+"430165233106444288","don try upload gam pornhub don allow rap",?
+"430165383035621377","don try upload gam pornhub don allow rap",?
+"430165440497598464","don try upload gam pornhub don allow rap",?
+"430166484040425472","don try upload gam pornhub don allow rap",?
+"430167204429316096","don try upload gam pornhub don allow rap",?
+"430167695896498176","don try upload gam pornhub don allow rap",?
+"430168212756762624","don try upload gam pornhub don allow rap",?
+"430168833622835200","don try upload gam pornhub don allow rap",?
+"430169519882264576","rp break new entir rost arrest charg rap st degr",?
+"430170388241207296","don try upload gam pornhub don allow rap",?
+"430170882548727809","don try upload gam pornhub don allow rap",?
+"430171001914023936","don try upload gam pornhub don allow rap",?
+"430173993656537089","delh manip wom assault beat men arrest _url_",?
+"430174652019666944","don try upload gam pornhub don allow rap",?
+"430178814589546496","don try upload gam pornhub don allow rap",?
+"430180787296555008","go ahead admit faggot shit tight but rap",?
+"430182057507958784","don try upload gam pornhub don allow rap no chil",?
+"430183916041822209","blog just lik say jwinston didn rap girl wasn charg",?
+"430184719850819584","rap dumb rap innoc person hoe fuck fre",?
+"430185334689640448","lat fault gang rap say ind polit ash mirs _url_ rapecult rap waronwom",?
+"430201035550777344","girl left baby dol lying middl yard noodl get dress drag along toss car favorit guy",?
+"430202648009003008","mean gon get beat fucc trynn defend fem weird nigg",?
+"430217882572947456","slavery afric ghan domesticviol abus _url_ not gang rap illeg _url_",?
+"430245153123880960","don try upload gam pornhub don allow rap",?
+"430254946211360768","liv day son attempt rap moth jes com back soon",?
+"430291901015916544","don try upload gam pornhub don allow rap",?
+"430303680521187328","rt prison rap includ rap stat men rap wom unit stat",?
+"430319512332681216","rap rap friend xd jajaj que mon por dio",?
+"430332596388495361","bakit ba pinagpipilit nitong deniec na na rap sya push mo yang minut rap sayo pwe",?
+"430343363217592320","girl said way rap justin pict ummmmm can not rap jb thx",?
+"430344849104318464","myth viol wom ris sup bowl",?
+"430362392447709184","rt wom hum right org rap cas reg islamabad last fiv year not on convict _url_",?
+"430373794834677761","left lyr blur lin right rap victim quot rap said htt",?
+"430378870593032193","rap jok not jok wom hat jok not jok guy tel _url_",?
+"430380892242980864","calm everyon wasn legitim rap",?
+"430381405332598784","report sex assault ros across largest campus around boston _url_",?
+"430382648733626368","on fact overlook us rap weapon syr",?
+"430383005870211072","may kinakatakut kas tyak tinakot yan ni cedr na panindig ang rap kuno na pangyayar napasubo na sil tycctv",?
+"430388403696570368","rt ben chang destiny thwarted rap instig murd foresight blak curs thriller rom _url_",?
+"430389218645270528","hat wast rap friend",?
+"430397525385052160","rap _url_",?
+"430401398958993408","rt horr import shar fact viol wom afgh endvaw http",?
+"430404673267191808","don try upload gam pornhub don allow rap",?
+"430406572540305408","nowplay am lab rat relig rap tun _url_",?
+"430420967425589248","municip la campagn virtuel rap bast scotch le direct de off hlm _url_",?
+"430422451516764160","got explain dud cop night want tel viol wom spec",?
+"430449417217245184","not rap high meth",?
+"430452174728855552","cut grass no pun rap hold rap pol account keny can set exampl world justiceforl",?
+"430455377558528002","rt se hag tatuas se rap med cabez se pong pierc se hag lo que se hag siempr ser carlo",?
+"430463381913358336","manchest city going rap chelse",?
+"430467771282259968","don try upload gam pornhub don allow rap",?
+"430470716903788544","teamdyl woody al liv testa way socy fail surv sex assault abus _url_",?
+"430472623664156672","wom alleg abduc sex assault lapd video sid video _url_ via",?
+"430477906746150912","rt estim cost viol perpet wom dis wil reach mil doll j",?
+"430486318112468992","rt big tim bollywood act direct accus child rap us elit backward brown ppl",?
+"430494367225503745","beyond on bil ris rest just approach sex assault _url_",?
+"430504941711409152","on three wom may suff abus viol lifetim real sad real man job protect",?
+"430506375047692288","mt lib vs conserv ant rap act on _url_ _url_",?
+"430509540061487104","re unaw going keep keep busy sunday nfl fan anyth els want rap twit yesterday",?
+"430517420923420673","pop frant nam form argentin junt insid prim mov child traffick _url_ via",?
+"430520379551907840","rt eun la man arrest charg forc rap year old _url_ _url_",?
+"430526338571980800","min blu tea angel wbu _url_ blu four loko island grey peps rap",?
+"430530387249360896","thank mult country study shown incid fals report rap",?
+"430533897642721280","avoid dang situ rain rap abus incest nat network _url_",?
+"430542203833049088","rap _url_",?
+"430551142666207233","gay won rap sick ppl wtf m sorry first thought cam mind mucho gayo",?
+"430553007567036416","rap gonn rap",?
+"430560782485831680","man accus rap kidnap oak cliff park _url_",?
+"430574767863648256","city sandiego track sex assault victim _url_",?
+"430580435069202432","dear cop belieb wont hurt ok belieb rap taxidermy could say swag",?
+"430593607461257216","ind army troop involv worst crim tort rap kashmir indiaquitkashmir nojust",?
+"430595967427944449","whoev amazon wish list gift ass wel say wann rap fac cle _url_",?
+"430611109981462528","rt rt sign stop child traffick us estim childr forc prostitut every year http",?
+"430613507860463616","heh smh avoid rap _url_",?
+"430624560682373120","quest day law protect rap victim wil god",?
+"430640137291038720","pleaseand help build hom victim child traffick _url_",?
+"430657717603434496","rt ath thesepeoplearefuckingcrazy _url_",?
+"430660450725134337","rap sodom lect tak dark turn",?
+"430692344145666048","can imagin report rap domest viol gard kevin corby shud think unfit job _url_",?
+"430704393131155456","rap en ingl es violac",?
+"430710045161304064","rap noth ste",?
+"430712045474816000","rt want real fath teach son not rap teach daught avoid get rap sta",?
+"430716899802877952","btw rap hindu wom fem infanticid smhw missd period ind hist wn hindu wmn oppressd us",?
+"430718782819291136","alask highest rap rat s cnn investig _url_ changethel _url_",?
+"430722695613800448","sex assault tri aberdeen pol off collaps tri pol off accus sex _url_",?
+"430723085512089600","belgrad new escap rap suspect stil lam _url_ bdcnews",?
+"430734643529138176","no problem triv sex assault",?
+"430735121654628352","think lizbe benacquisto exploit past rap choos rev campaign ad _url_",?
+"430752269144170496","gre see childr sav sex traffick enditmov",?
+"430754295084900352","rap fac",?
+"430757569544458240","est sol work end viol wom year hear say mov _url_",?
+"430766594521067520","lock broth everyon chels wil prob rap",?
+"430779868960137216","aap now rap cas aap detery quick ev ic melt sahar _url_ via",?
+"430782218235957248","dai remind lik anim mean fet rap",?
+"430786477958520832","us teen young rescu sup bowl sex traffick abc new new york dai newsteen youn _url_",?
+"430788612683493376","men lik struck lightn fals accus rap wom chant rap th",?
+"430789110547357696","sd near top rap victim approxim nat wom sex assault unacceiv http",?
+"430794031778762752","rt inspir let tweet aspect rap cult consid palpabledouchery ll go first coddl",?
+"430797598178701312","think thing howev thing rap sex rac etc discuss mov beyond point",?
+"430800977474498560","cal review rap complain tre wom dea _url_",?
+"430802067154690048","rt almost post rap jok got scar someon might tak invit rap hard express urself day",?
+"430802067699924992","rt many wom end sex work econom last resort can cho not rap quest",?
+"430811831133691904","girl bathroom ask want burn lik bet burn shit",?
+"430812607478775808","wouldn gre hear muslim say wrong rap hold sleep yr old wiv hypocrisy larg",?
+"430858413396873216","justin bieb got arrest rap video _url_",?
+"430858811461885953","rap next door fantast report cnn stat highest rat report rap _url_",?
+"430860740056993792","utah stat attorney argu childr risk gay marry _url_",?
+"430863421618126849","traffick victim not und sex work",?
+"430881040706863104","can rap wif kind agree upon marry sex part deal espec god marry no",?
+"430894243637637120","beat girl school",?
+"430903385332543490","rt tradit marry best plac rear childr ap say _url_ via",?
+"430905996433977344","l_zaay quicc anoth girl beat girlfriend publ im turn ass box instru",?
+"430915409106042880","nye worldview dre depress hopeless bit on feel read rap murd genocid bibl",?
+"430917295456919552","arrest sex traffick ring ny post superbowl _url_",?
+"430931476658417668","ev hap girl attack kil mess photo bomb",?
+"430933684594962432","modifiedmummytob instead explain don lik rap jok explain _url_",?
+"430933877964550145","caus rap _url_ via unslut noh",?
+"430944507807277056","don want us stalk gott look thru ur girl favorit see che low",?
+"430946983604269056","way help end rap alask _url_",?
+"430948688932777984","rt th feb pregn wom beat ey conspir carry atroc on mdp want",?
+"430967942495625216","girl fir good let burn",?
+"430971926010277888","nin year old battl lif brut rap new delh yet anoth seem unend display _url_",?
+"430973263938744320","rt dat rap mean gam weak man dud",?
+"430992783571435520","rt form nfl star fac rap charg pol say _url_ _url_",?
+"430997069885489152","docu report viol wom ind support lend us voic end vaw dt chang",?
+"431007744942821376","rt rap rap friend npvalentines",?
+"431013328127676416","un accus vat adopt policy allow priest rap childr",?
+"431026062727065600","dmdeevent bring aw chang ppl preconceiv sex viol conflict london summit timetoact _url_",?
+"431026112656060416","rt un denount vat system allow priest rap thousand childr _url_",?
+"431029081241432065","wom seen soft target abud trol wom viol twit ind _url_ vaw abus",?
+"431049897153167360","rt un denount vat system allow priest rap thousand childr _url_",?
+"431055854817665026","rt first girl attack movy jaw screaming real pain har brok hip drag thro",?
+"431078869794164736","ind girl murd broth law attempt rap get thrown jail hmmm miss someth",?
+"431088126363463680","new afgh law sil victim viol wom _url_",?
+"431091185034485760","nev end traum drc rap surv pun rap _url_ sex viol",?
+"431091862678405120","leav cal today whaaa best luck pretty girl burn tre _url_",?
+"431092501118599168","islam cler suggest baby wear burqa prev rap via atla shrugs beyond deprav _url_",?
+"431110751156465664","thank gre convers stop camp sex viol look forward continu work tog",?
+"431116218637225984","report today show assad troop abus childr rap tort _url_",?
+"431124403305611264","old artic stil relev canad sex assault law viol rap victim _url_",?
+"431150267380559872","rt brandon middlebrook man pol say shot ut long crimin record includ assault ag rap _url_",?
+"431151108938285056","best peopl wom prophet mohammad islam also allow men rap war victim _url_",?
+"431154970512347136","esurancesav look sketchy ad mix girl fir bet not twerk burn mil _url_",?
+"431156389218484224","also pleas stop say sex traffick sup bowl myth _url_",?
+"431169460276572160","watch helpless commun rap grow scourg land rep attitud entrench corrupt",?
+"431175074511466497","say capit requir govern lik say lov requir rap offend",?
+"431187688818245632","rt real wil no mak canad happy giroux dea st lou rap famy neal",?
+"431188080867819520","tampon pad feminin hygy produc man mad inv intend inadvert rap wom period",?
+"431192159291580416","men rap hoe just throwing pussy round lik nothin",?
+"431196786624303104","rap parody sick",?
+"431197244029960192","sex assault think whatev hap just random grab girl kiss",?
+"431198251992092673","sex assault damn forest tim victim bit guy badass",?
+"431207525225349120","not surpr emoj put lmfao rap fac can funny sometim re qt guess",?
+"431228498485600256","denv pol look kidnap sex assault suspect denv law enforc look k _url_ auror",?
+"431228781882511360","rt cathol secret child rap docu self admit rap hid church fin expos la _url_",?
+"431230776609636352","rt cathol secret child rap docu self admit rap hid church fin expos la _url_",?
+"431238800904167425","rt car try kil rap min ll shoot don re good easy cri",?
+"431241322834702337","ev read artic post on just retweet on best ve read break rap cult",?
+"431241323023052800","pow artic lack at paid sex assault colleg campus sagrad sach _url_",?
+"431241849357881346","rap cult _url_ via",?
+"431266420278951938","nn nm ja know juss tryn mak dis rap gam",?
+"431269570159329280","rap cult look cult fact behind viol _url_",?
+"431289414359478272","rememb young lik ew sex now re lik omfg giv sex rap someon",?
+"431295898501804033","rt xoxo want rap band memb no stop",?
+"431296849022955520","fm aust annount new support png comb famy sex viol nd largest city lae _url_",?
+"431298812519677952","scen homicid rap addit sadtoy",?
+"431306351566802944","on tim curv girl real bad verg stalk",?
+"431353177066467328","rap crim hum marchagainstrap",?
+"431354983314112512","ain rap wear watch knew tim _url_",?
+"431378188481359872","new vat policy allow priest rap childr say damn un report _url_ new",?
+"431381078813573120","med sil grac hom cas sil rap chruch hat nev trust med work",?
+"431384039455748096","rt pol lebanon refus respond cal wom beat dea husband say famy affair _url_",?
+"431388432494231552","coron street william roach found not guil preston crown court two count rap four count indec",?
+"431388851194822656","coron street william roach found not guil preston crown court two count rap four count indec",?
+"431390365938368512","viol wom ign voic patron cal victim refus right enforc ur mor",?
+"431398089505505280","amand knox justin bieb get med at sex assault gitmo rac deathpenal _url_",?
+"431410037857452032","now speak situ london cal day wom london domest viol _url_",?
+"431412794609893376","four court rap _url_",?
+"431419352886550529","just wit conjoin duck gang rap kid not",?
+"431420101678866433","wom drag coron blok thru court now get away scot fre not right",?
+"431421725235224576","uk folk wil understand coron street william roach found not guil two count rap four count",?
+"431439874236096512","rap whistl peopl won quit talk",?
+"431439904384352256","burn lik noooooo room disappear wom gav samsun galaxy sooo weird",?
+"431458613606240257","rt pregn period breast cant walk rap harass abus fem go lot wom strong",?
+"431497166851289088","thank talk rapecult let increas cult recognit rap sexualviol traum crim",?
+"431501175444496384","mil keep look lik gonn rap",?
+"431510101988741120","femin want educ peopl rap mayb get educ act rap stat _url_",?
+"431512874754650113","k heal min shabir khan also cong mla rajour lik fac arrest cas sex assault _url_",?
+"431524019695656960","wom wouldn cry rap just men stil get away hard prov get wom get maul",?
+"431528662827945985","forc marry now crimin off scotland _url_",?
+"431530699074846720","maf mak money drug wom traffick _url_",?
+"431536817460895744","rt tus break interview fox entir claim affluenz way excus rap am middl class",?
+"431538103661375488","now writ slash fic cdi link break school rap schoolhouse son but",?
+"431553112021929985","southafric correct rap rap gay men lesb cur sex ory _url_",?
+"431560900739203072","rap mean m sorry bbcqt",?
+"431562279780237312","self right bastard think complex rap mak sick no mean no simpl",?
+"431575477711417345","lov rap",?
+"431599355661791232","know ye see guy smok wil stick damn blunt an girl wil burn damn uter blunt",?
+"431621224901255169","rap not victim fault wil peopl understand",?
+"431626158204272641","priest rap young boy",?
+"431626214445297664","hingham wom attack bed rabid raccoon hingham wom attack wednesday morn rabid",?
+"431630071733174273","rt grow want son first daught son beat boy mak littl girl cry",?
+"431638320108429312","dtn world new rap alleg two mackay cop disappoint brisb tim sky new australi _url_",?
+"431665965202677760","new queensland pol charg rap fac court _url_",?
+"431680042674814976","aust tycoon rap tirad chines firm _url_",?
+"431680060899069952","rt biky drink pub charg vlad no bail pol charg count rap get bail qld just _url_",?
+"431683828802158592","_url_ vat accus un distort fact rap report glob mail",?
+"431684712893935616","aust tycoon rap tirad chines firm outspok resourc tycoon cliv palm condemn _url_",?
+"431693068564045825","rap",?
+"431710307766267904","photoset escapedosmil projectunbreak nin photograph portray quot said sex assault _url_",?
+"431790679971213312","balangaraw daniel padill com condo rap pois feel",?
+"431795464443162624","footbal got convict rap vic last year ban footbal",?
+"431822882524901376","rap cult _url_",?
+"431826499667501057","lov rap",?
+"431831756975902720","can tel colleg doesn know off sex assault policy _url_",?
+"431833450895511552","rap apolog not good look celebr espec fac fact re publ court find",?
+"431839642829090816","combat rap milit duty lik _url_",?
+"431853769182035968","rt cramp worst pain girl can feel rap",?
+"431860403220803584","ion trust thirsty ass nigga ov thirsty nigga mk think wil rap pussy can ev commun",?
+"431867463467544576","rt first girl attack movy jaw screaming real pain har brok hip drag thr",?
+"431870002183303168","la frant qui rap est pas cel qu nou mont du doigt _url_ dieudon rt _url_",?
+"431883090802515968","rap cult _url_",?
+"431887582968807425","stud ris get camp ris toolkit join mov revamp sex assault policy campus _url_",?
+"431888458722729984","fun fact libtard gun cotrol asshol effect ant rap kit _url_",?
+"431904825585176576","rt black hist gwendolyn smi rap resist _url_ can pleas read",?
+"431909439394697216","hel non whit monst brut rap murd year old whit niec dai storm brut _url_",?
+"431909783143071745","rac us black fac tim us homophob slur mak rap jok say load sex shit no",?
+"431927009803923457","landmark agr curb sex viol afr country sign un afr un week detail _url_",?
+"431933595762966528","person believ cult virt imposs wom sex harass man",?
+"431936222752415744","dartmou annount cre new cent prev sex assault viol dartmou _url_",?
+"431941317619617792","florid girl attack wear hijab school _url_ islam antimuslim islamophob loonviol",?
+"431942727362949120","wish sf good conf slaught innoc rap _url_ won go away sfaf _url_",?
+"431947209458733056","us dant cre mov end viol wom op ed kimberl william crenshaw _url_",?
+"431949196649050112","post coury man arrest grop wom indian man charg assault battery wo _url_",?
+"431969723337940993","ll rap doubl doubl anim styl fri _url_",?
+"431978495661441025","don understand robin thick sing rap can turn video cal porn art mus video smh",?
+"431979642598465537","prev rap _url_",?
+"431997013178068992","tool gay porn perform charg statut rap year old charg _url_",?
+"432001934594437120","alright fin wil got point harass almost every girl follow",?
+"432014356880949249","leg dat rap drug",?
+"432020002775252992","coach child withstand relentless deposit cross examin expect rap victim intimid",?
+"432041814103977984","rt every wom girl viol attack reduc hum nelsonmandel livingtheleg endgenderviol",?
+"432042630579384320","fash show protest viol wom _url_ via",?
+"432076575454941185","protest outsid vas vih pol stat delh rap min girl _url_",?
+"432077715756580864","rt every wom girl viol attack reduc hum nelsonmandel livingtheleg endgenderviol",?
+"432086151277449216","high school teach accus sex assault colorado springs teach arrest accus sex _url_",?
+"432088123859025920","increas rap cas report unreport gut wrench",?
+"432096574043217922","delh scuffl pol protest min girl rap vas vih pol stat _url_",?
+"432099560693829633","rt tim now cal protest rap manipur girl high dram sery wrong",?
+"432100139524567040","gma reg pol arrest fugit ex may traffick child abus _url_",?
+"432138808017293312","rap anfield wtf hap ars today",?
+"432139355428519937","loooooool daylight rap giv",?
+"432143571022381056","rt act pleas don rap",?
+"432143585581228033","lmao absolv rap rap clear",?
+"432153376860962817","can help ye want report cas rap liv lfcvafc dead",?
+"432156492649988096","gan fawehinmin wil ars lawy liverpool shud charg rap",?
+"432163496957321216","wif govern min wom affair pass gend bas viol jkfeedbacks",?
+"432188667843842048","tri upload ars gam pornhub told dnt acceiv rap video",?
+"432195312883867648","act peopl tak end viol wom girl check photo essay _url_",?
+"432199486845485056","rt right lint smal chines man try rap last night",?
+"432206243831103488","loc act gun viol reduc stat assembl wom sal lieberm may tony spitaler gunsens gunsaf",?
+"432216042556129280","rap hard mak mistak",?
+"432217788644478976","intrud attack know bet way stop rap occur also right not nee know diff",?
+"432222447161847808","mi herman se pas dos semana cantando lo de rap mun ahor se pon en plan nooo no pued ser tat",?
+"432227166655635457","support educ childr cambod help end poverty sex traffick _url_",?
+"432246049193725952","ioc ok lgbt kick chok threatened sex viol _url_ _url_ celebratewithabit",?
+"432246723222589440","stud kick texa high school publ lewd report rap _url_ saturdaysch",?
+"432262084856786944","rap",?
+"432262621770035200","bibl rap law _url_",?
+"432273190132264960","consid bad luck rap baby wed day yet anoth reason wed gay",?
+"432275775715573760","rap friend",?
+"432280919899377665","viol wom wil not end address cor issu many men learn pervert definit",?
+"432282917453058049","yeah ayato wil cal pancak raito wil rap kanato wil mak puppet reij wil mak expery shuu",?
+"432309843085766656","rt emmet til yr old beat shot thrown tallahatchy riv whistl whit wom _url_",?
+"432313333451333633","dont rap",?
+"432358455463383040","rt ioc ok lgbt kick chock threatened sex viol cheerstosoch _url_ ht",?
+"432376194122518528","ain rap say surpr",?
+"432377490883891200","imagin meet l tour jc invit back bus blow rap whistl get arrest",?
+"432383530832629760","hmm yeah hasn hap yet uhh ok mus wil mak wann rap baby racoon booty fuck",?
+"432391248029450240","rt interest much say rap funny find now aw quiet ge",?
+"432396517987848192","ev foreign tour ar spar curs rap ind _url_ banbollywood greaterpak",?
+"432396638686941184","child rap blackmail scum stat brit occupy ireland _url_",?
+"432399487344979968","definit tint rap shad",?
+"432427570437439488","wann see rap",?
+"432444559671705600","don sad bab ll rap com back prom",?
+"432449848776740864","howrah gang rap cas trinamool work alleg led assault arrest _url_",?
+"432466352528703489","maj fact behind rap ind bollywood incit feel cross mor limit banbollywood liesfact",?
+"432509742942920705","disk spac mgmt recyc bin util no plac metro desktop rel rap metro continu",?
+"432513942720495616","rt rap doesn hap men turn sexy wom anyon can get turn hot wom tak demon",?
+"432524641291485184","rt no way rt tim everyon favorit gam show rap not rap _url_",?
+"432535685124603904","rt socy teach don get rap instead don rap",?
+"432549355799588864","rap _url_",?
+"432558011014324225","rt med report say no rap yet innoc bapuj fram kept custody releasebapuj immedy _url_",?
+"432574231742664705","peopl plan rap person sex traffick slav traffick",?
+"432574749672484864","can hop david moy pul fing hol chang someth ars ars rap us wednesday",?
+"432577210806173696","rt lmfao man urin fan lik olympiako wil rap us hom away",?
+"432584134327021568","girl scar rap feel prid guy risk spend lif jail get rap",?
+"432603133852659712","peopl think jok rap funny disgust sick",?
+"432605187505946624","rt ev pet rap not mind",?
+"432606642752856064","rt emmet til yr old beat shot thrown tallahatchy riv whistl whit wom _url_",?
+"432610440691331072","world cal shin ind worst plac wom term rap _url_ banbollywood greaterpak",?
+"432622728865005568","rt think tweet jok don kid around com rap aid midget parkinson aut obes",?
+"432629366951256064","rap scen",?
+"432651122939928576","stop guy could flip mom rap sist kick dog giv money wil cool",?
+"432665633331740672","prev rap _url_",?
+"432681246636769280","holy shit fuck damn fil cost rap ass pap fil ftw",?
+"432692350427488256","girl last year on gay friend rap confess not real gay next day cilak",?
+"432708146142785537","rap releasebapuj _url_",?
+"432708281002643457","rap releasebapuj _url_",?
+"432710444311015426","money don see lawy defend peopl guil rap murd",?
+"432728017903681536","r not gun nut kil crimin break hous might rap wif",?
+"432728554267099136","john look sherlock feel lik lik rap group sex",?
+"432743967394783233","rt alask fac rap resid evil _url_ changethel _url_",?
+"432803669319225344","re chil ass girl ve kick chil",?
+"432805483179556864","ck ga spoil kayak gitu oiy gua blom bala dendam tentac rap homo posjag foto om laen kal har spoil ben",?
+"432829900064428032","snak nav academy sex assault cas back dc court form nav academy footbal play back dc co _url_",?
+"432829970453254144","na ldr ka ba long dist rap nas loob ng condo yung lalak nas laba yung baba",?
+"432832507768090624","justin bieb got arrest rap video _url_",?
+"432841141097353216","nav academy sex assault cas back dc court fresno bee _url_ washington",?
+"432868048752476160","just commit fail stand surv sex viol _url_",?
+"432870199658692608","goodgarl bsk hab pkl rap",?
+"432888050969235456","rt turkey peopl shelt wom escap viol hom germany pop _url_",?
+"432902467915771904","willnamoansw saheb stalk wom sev month guj stalk saheb guar wom saf",?
+"432904783037755392","rt turkey peopl shelt wom escap viol hom germany pop _url_",?
+"432909973832867840","prosecut told icc form congoles rebel lead bosco ntagand ord troop kil rap civil",?
+"432910127008862208","year old fak rap cas fil year old innoc saint asaram bapuj releasebapuj _url_",?
+"432917940682240001","rt rap dumbest crim ev rap innoc person many hoe day",?
+"432950698846994432","attorney advoc rap law reform shaun prewit wil speak tomorrow m _url_",?
+"432962254204829696","many boy leav high school think rap funny via _url_",?
+"432966248138567680","rt help catch person attack year old wom hom totterdown bristol _url_",?
+"432969194037321728","fac rap",?
+"432978748577574912","tak act tel congress nee protect victim milit sex assault sign petit passmj _url_",?
+"433010017264881664","hey guy just creepy guy try rap _url_",?
+"433015894415921154","dang ign wsj edit intox sex assault victim just guil attack _url_",?
+"433018186347589632","rap nev victim fault rft",?
+"433040331404500992","start screaming wsj edit intox sex assault victim just guil attack _url_",?
+"433048641226690560","rt gen rap de nuevo gracia",?
+"433051199017738242","first cnn teen work rescu arrest sex traffick ring new york cnn loc fed _url_",?
+"433052520991449088","study guid bio kick ass rap exam doesn ev know com",?
+"433055198752538624","rt ll want bookmark rap cult prim _url_ nic work",?
+"433067538520354816","legitim rap fem body way try shut whol thing wil nev not funny",?
+"433072215987593216","aint talkin rap tweet dont wan talk ilcallyouback",?
+"433077452630687744","detect wit say slain wom attack first _url_ _url_ _url_",?
+"433082852679639040","wom sex assault beat unconscy nypd fac year prison result _url_",?
+"433102178220138496","tak act tel congress nee protect victim milit sex assault sign petit passmj _url_",?
+"433108538278158337","list fem detain subject sex assault egyptians_abroad_for_democracy _url_",?
+"433121278883418113","three thing find rap sit cum blood tear",?
+"433126018644054016","feb th let support ex indig act around viol wom onebillionr not cdn",?
+"433129212401049600","rt disgust peopl lik rap cult slut sham patriarchy stem appal _url_",?
+"433138139490963456","wann rap uuu lik rn",?
+"433159791674810369","rap not sex control way unc scam not peopl control us",?
+"433162114367492096","support rap cris cap town trust don heart heart _url_ gre initiatv",?
+"433186774089998336","ent rap view bar cry hard omfg _url_",?
+"433193768150659072","lik video _url_ yr old attempt rap murd mom cod",?
+"433197578050473985","illeg aly arrest murd child rap trenton new jersey deport timeisnow",?
+"433199178182033408","rap cult custom serv look lik _url_ rapecult",?
+"433209302560428032","support campaign rais aw mal rap breakthesil _url_",?
+"433218977565663233","rt aap mla on recd jaitley cal dec put press withdraw cas rap surv alleg _url_",?
+"433222792352260096","gawd dont rap soul fuck handsom _url_",?
+"433241824258715648","rt lit just rap day no wond nev work prop",?
+"433241991326212096","rt no sens support ars support ars year marry no child",?
+"433243245703737345","think pap know sex assault isn booz pow control",?
+"433252477249781762","nigg gonn rap sleep lmaooo dontgivehimnonduringthesnowstorm",?
+"433259335943065600","ye utd sor los worry rap wil tak plac emir tomorrow",?
+"433262334069313536","stil don understand wsj edit spend tim argu sex assault victim real problem _url_",?
+"433265909143052288","astatethatwork not stat second nat sex assault young wom",?
+"433266539857338369","wsj edit jam taranto say drunk sex assault victim guil attack petit firetarantowss http",?
+"433270307772981249","danepocalyps nigh drunk scandinav teen rap pil pragu _url_",?
+"433287103414566912","caus rap _url_",?
+"433296546751606784","rap fac competit dad _url_",?
+"433306066424983552","rt noth lik perpetu rap cult brighton won eat _url_",?
+"433315662732091392","tak act tel congress nee protect victim milit sex assault sign petit passmj _url_",?
+"433316610624196608","rt help catch person attack year old wom hom totterdown bristol _url_",?
+"433349018232426497","new rap advert inacc",?
+"433353223731036160","pol corp anthony onoj ord nasaraw court pay sum m dam rap year old baby",?
+"433353863744073728","rt girl lik liv cult rap damn girl mov away sound dang",?
+"433390598490705920","start follow ug bitch now mandem don tre twit lik myspac rap pag gyal",?
+"433403170568404992","rap",?
+"433404568463220736","pass fly near patterson park regard rap fairmount av monday _url_",?
+"433410910938759168","anoth creepy girl stalk apont lmao",?
+"433415704612593665","fun fact don rap won rap o",?
+"433453130555346944","ant dat rap straw detect pres drug drink drug straw wil turn whit",?
+"433454379442524160","can see ey rap minseok tim ppl throw word rap around lik candy nee jes",?
+"433455944823885825","dont rap peopl gethyp",?
+"433458438497005568","seen newspap ind country on highest rat rap sex abus _url_",?
+"433466090329366528","pru goward just ref und sex intercours new grab without cal assault real",?
+"433514631479324672","pakistan cler stood conduc marry child brid islam cent newcastl say _url_",?
+"433531201144762368","see sa highest anyth hiv murd rap now high blood start doubt research",?
+"433543871294091264","zero weird nev march rap country",?
+"433554089566171136","lik wom lik lik coff light brown hot enough burn tongu",?
+"433601206557372416","rt let get drunk m allow rap right wsj teapartyvalentin _url_ htt",?
+"433605834971426817","help rap surv get just spreading word _url_",?
+"433642548746137600","remov polit said wom invit rap cloth behavy _url_",?
+"433644493691047936","rt best detail info ve ev read post traum stress disord rap surv _url_",?
+"433659464604844033","seem lik typ girl burn wat",?
+"433665536749084672","rt sex assault egypt sec forc us virgin test fem detain _url_",?
+"433665782778986497","yo stef melbourn guil rap clapham off believ may victim cal _url_",?
+"433666169242157056","rt no thing virgin test sex viol cal rap sex assault egypt",?
+"433668293204148224","rt dear doct giv amphetamin m yel rap",?
+"433669497237426176","rt surv sex assault confid voic heard backlog undermin confid",?
+"433698446646984704","pls check shar kickstart design help surv sex viol drc _url_",?
+"433721406917214209","watch us dant tak stand end viol wom girl billionr ris just _url_",?
+"433727683592482816","read kil mockingbird man hop nev get accus rap",?
+"433736935471710208","tonight city memph launch off investig backlog rap kit",?
+"433738631929290752","wsj column jam taranto argu inebry wom respons rap out must retract",?
+"433739011732275200","rt stat o bufferzon fre protest harass wom abort clin _url_",?
+"433739377722679296","lal try rap shit",?
+"433739950618472448","blam rap rap obvy offend blam rap sometim also _url_",?
+"433741129151180800","watch us dant tak stand end viol wom girl billionr ris just _url_",?
+"433746398316883968","wom womensuccess rac cult rap us weapon war afric _url_",?
+"433747853979426817","wsj edit intox sex assault victim guil attack alternet _url_ wtf right wing",?
+"433757951824633856","rap",?
+"433770188920868865","convint girl stalk lif",?
+"433771314533634048","gon beat girl crutch tough ain shit",?
+"433781471111704576","rt break man execut rap kil fla boy par sought stronger pred confin law _url_",?
+"433787947025174529","attorney submit photo sev beat wom evid hon clear tweet hmu els suppos",?
+"433793265750794240","watch us dant tak stand end viol wom girl billionr ris just _url_",?
+"433797885365596160","encant pero lo que vos no sab es que voy tracionart as kurt es lo mio par que lo mi cant rap",?
+"433801778698944512","sens perceiv test going roy rap tomorrow m okay least can say tri",?
+"433805563311718400","rt break man execut rap kil fla boy par sought stronger pred confin law _url_",?
+"433817521410801664","rt ant rap campaign explain cons involv ye _url_",?
+"433819591408500736","yeah rap lin idk overal strong effort excit rest caus know plan big",?
+"433821275849781248","sign hear glob mov end viol wom _url_",?
+"433837756259643392","plea sex assault victim moth ign church pri you past arrest _url_ sanramon",?
+"433850689261817856","speechless wow photoset nin photograph portray quot said sex assault surv pol off _url_",?
+"433852616766795777","_url_ pussy want pregn pen fre xxx rap story",?
+"433881806073376768","on both stalk wom warn ceas desist cal pol now",?
+"433885399543734272","rt tak control herd powerful mal dolphin ocass rap weak mal",?
+"433893530587525120","domest viol unfair wom",?
+"433893886390321152","uk launch fund help mal victim rap sex abus _url_ via",?
+"433898366808756225","uk launch fund help mal victim rap sex abus _url_ via",?
+"433911112514281474","sex assault charg asaram read jodhp court _url_",?
+"433917255823679488","viol bus stop pal thin girl ey forlorn",?
+"433920835775385600","shar islam islamophob saudi_enews saud writ urg grop wom mak stay hom _url_",?
+"433924099346554880","not underplay sery story don recal rap scen gta",?
+"433932319154794496","rt domest viol expery fem pop survey show _url_",?
+"433946064300044288","bob jon un admin cal victim sex assault liar sin _url_ rap bobjonesun",?
+"433946071450923008","evil teen kidnap rap murd girl sel soul devil _url_",?
+"433975862086889473","two get lif bus rap _url_",?
+"433979534439116800","highlight fail address sex viol men policy pap focus conflict zon htt",?
+"433983130504921088","challeng rap rap langu _url_",?
+"433984598645956608","anoth man found not guil sex assault excel verdict wil rememb aw ord rest lif",?
+"433985673738342401","not told requir read think rap cult isn real doesn effect _url_",?
+"434004493219274752","rt cult want liv show support rap surv via _url_ http",?
+"434005030111571968","indust np psyclon rap world",?
+"434029055336529921","every girl want nigg can lay beat",?
+"434035464157544449","turk govern tri equ freedom onlin viol wom _url_",?
+"434039146496004096","teen charg sydney gang rap _url_",?
+"434039496523259904","rt join rais aw hum sex traffick rac reg op march st endsextraffick",?
+"434040372038483968","prov wast pol tim com said rap cas not cas not guil ve",?
+"434054793540423680","rt rap norm hor tru sex viol somal chang _url_ http",?
+"434061809868230656","valentin day real help sel dat rap drug",?
+"434067782045822976","southampton going rap",?
+"434068993247563776","ye fals alleg sex assault common not correct just stat victimolog",?
+"434072048701165568","lil girl sleep sooooo heavy not good cus fir hous wouldn ev know just burn",?
+"434073423401070592","ugh shitb rush limbaugh think show sex assault first show second _url_ via",?
+"434073727270404097","dearest sen dipshit gay marry forc stat straight cit forc marry gay peopl",?
+"434073778176278528","cert just terr men gang rap moth slaught abeokut tragedy _url_ teamfollowback",?
+"434077700475871232","writ book two rap goe wel",?
+"434081208331292672","un typ rap au micro se fait coup la parol son fr re jumeau prend le rela en pos la quest la longu du mond batpubl",?
+"434082575431106560","nic yeg may wil tak stand sex viol thank ittakestwo",?
+"434083457653014529","pt must read interview surv sex assault get voic heard dc _url_ fem dc",?
+"434086064542597120","teen alleg rap neighbo year old sent child welf commit observ _url_ childwelf tool",?
+"434098292633239552","peopl claim sex assault form rust colleg profess act new uncov new alleg _url_",?
+"434112953973874688","vagin monlog playwright ev ensl hyst sex viol vagin _url_",?
+"434118386763980800","educ domest viol emot ment sex abus can _url_",?
+"434118453637566464","hap country min fight back tear alleg rap year old il _url_",?
+"434122975797710848","on teach frank hefn statut rap freshmanfuck",?
+"434124450749894656","re keep count sex assault victim humphrey re already peopl act real sad",?
+"434133270981533698","help rais aw mal rap en victim get support deserv let breakthesil _url_",?
+"434160622323122176","stupid tl right not rap nev ev ev girl fault drunk sob blam nev",?
+"434179790505922560","weight ref rap texa prophylact bicyc class fbulbm",?
+"434194584327843840","gonn rap bae sint don want sex tomorrow",?
+"434197575265435648","spongebob mak an rap jok _url_",?
+"434203231799889920","class first level sex assault know",?
+"434212571567362048","twilight zon amaz show episod brain rap",?
+"434224192704094208","can rap",?
+"434225294791409664","word search rap _url_",?
+"434243700839813120","every singl crimin sent stol loaf bread ev act found guil rap etc",?
+"434246270388285441","wom rap abus lifetim ris stop viol billionr _url_",?
+"434246277522403328","mcitp wait admin rap config zxzpy",?
+"434246691345022976","wom wil rap abus lifetim demand end viol billionr _url_",?
+"434250118770855936","wom rap abus lifetim ris stop viol billionr _url_",?
+"434256312252108800","wom rap abus lifetim ris stop viol billionr _url_",?
+"434259264937283584","girl im beat da pussy holl dat enough",?
+"434262011623403520","wom rap abus lifetim ris stop viol billionr _url_",?
+"434266592298684416","pol footbal loic remy fac no act rap claim _url_ nufc qprfc _url_",?
+"434276168381251584","on bil ris end viol wom glob day act dant liv cov guard _url_",?
+"434278253738479616","striker rap investig drop _url_",?
+"434280642772090880","stat rap victim am city us depart just",?
+"434288425521676288","striker rap investig drop frant surrend",?
+"434291234148868096","wom rap abus lifetim ris stop viol billionr _url_",?
+"434292940761231360","liv fee onebillionr around world end viol wom ris just today _url_",?
+"434300195744919552","wom rap abus lifetim ris stop viol billionr _url_",?
+"434310482322014208","rap cult look dam _url_ via",?
+"434311693024243712","wom wil rap abus lifetim demand end viol billionr _url_",?
+"434314096541188096","st post sham rap surv bul _url_ obr",?
+"434323333514272768","feel sorry kid got beat shov wal giv girl ros lik wtf peopl",?
+"434339125907697664","see awesom tak misogyny rap threats light boombix geny _url_",?
+"434346222443196417","rt m join rap deb wil say beyond disgust marit rap wasn illeg uk un",?
+"434349248340328449","wom wil rap abus lifetim demand end viol billionr _url_",?
+"434361887355334656","wom wil rap abus lifetim demand end viol billionr _url_",?
+"434364624168046593","spongebob mak an rap jok _url_",?
+"434386459626602496","bso dar sharp may rap wom stat dat rap drug _url_ via",?
+"434386520775352321","rap wal now com the",?
+"434393546331025408","rt caught count rap keep see peopl tweet dar sharp exact",?
+"434394433426313216","rt wom on bil wom around world wil expery viol lifetim _url_",?
+"434408271689314306","bhagodakejr log shiel ke raj rap hua wo zimmed kejr ke raj hua delh pol cheatercongbjp not aap",?
+"434409931199250432","rap period abus abort pregn harass breast cant walk che fem go throu",?
+"434417864942968833","rt myth wom wil get bulky lift weight wil not burn cal exerc fatloss weightloss heal flatb",?
+"434423111350358016","can everyon go report girl ig _url_ bitch bash mex burn hel",?
+"434423755566112768","headlin ex nfl play sharp charg rap cal lawy dar sharp say form nfl saf _url_",?
+"434426951944531969","rohingy rap hum traffick burmes democr _url_",?
+"434429088179036160","ear today dar sharp charg rap nfl star alleg drug multipl wom _url_",?
+"434432060891992064","rt myth wom wil get bulky lift weight wil not burn cal exerc fatloss weightloss heal flatb",?
+"434440355182686208","might rap sint suggest",?
+"434443958161522689","ye enough enough stop kil tort rap work togeth ppl want peac recont",?
+"434452815252295680","fuck guy rap fet che",?
+"434473183019040768","rt ir wom year old daught disfig acid attack husband fath _url_",?
+"434489777031622656","pol docu alleg assault forc marry girl quebec jew sect _url_",?
+"434514124182392832","naw mormon gott chil masturb self rap tf church gott chil",?
+"434522765425508352","d on mad girl kick",?
+"434527424580444160","video gingerhobbit tealov chloerayne trig warn scot ant rap psa direct _url_",?
+"434538707844997120","new post m glad accid rap year old rap victim _url_",?
+"434540036415946752","cal someon doesnt rap",?
+"434544515203219456","ear dar sharp charg rap nfl star alleg drug multipl wom _url_",?
+"434624904378736640","rvp rejoin ars ll rap cow upload video favourit",?
+"434632089242062849","icejjf finn get reebok deal real see dat red light know go lyr rap ll drop",?
+"434654616471351297","rt delh hc pen lakh viol filthy lang threat murd molest wom _url_",?
+"434671903089782784","ear zet rap defens cours letsgooooo",?
+"434697411123249152","rap cult look dam _url_ via",?
+"434723737712480257","rt stop cal pathway rap trail univers tel stud _url_",?
+"434725994654482432","un uncov tort rap slavery nor kore _url_ via",?
+"434747679277871104","bastard thank girl beat cabdr check tl",?
+"434748269499920384","pur lov rap cult valentin _url_ homeschool par",?
+"434753349477728258","can help us shar post tak step toward tel med confus sex rap isn ok _url_",?
+"434755553173467136","neck stil determin wheth sex assault",?
+"434758088135303168","sex assault report nor end _url_",?
+"434773713662537728","rap top alway interest view just leav quest lif",?
+"434777707789189120","just tri submit shootout highlight pornhub won acceiv rap",?
+"434778637074980864","know men favo rap cas wom believ not coz lot wom scream fal",?
+"434780032058150912","peopl nee grow suicid not jok rap not victim fault shit get petty re",?
+"434780669924093952","real bug peopl say cus girl dress certain way provok rap attack",?
+"434785052808192000","rt not everyday rap sometim just grab thigh say pls",?
+"434787004078120960","not rap lik",?
+"434802025910390784","fuck rap gam rap gam mudvayn",?
+"434822421074305024","not rap don resist think might get rap",?
+"434827743293734912","pking sue doll tre mik ik sex assault miltownmov comedy funny loop oldvin _url_",?
+"434836609456820224","playskool first rap kit",?

@@ -1,0 +1,63 @@
+# Aim: To lemmatize twitter text, which is to bring different keywords to its root form. 
+# Method Used: Lancaster Lemmatization in the default nltk toolkit
+# 
+# Input-FORMAT: 
+# 		Tweet Id [Tab] Tweetwords after removing stopwords [Tab] Is_Relevant [Tab] Content Theme [Tab] Content Topic [Tab] Content Style 
+#
+# OUTPUT-FORMAT: 
+# 		Tweet Id [Tab] Tweetwords after bringing every keyword to its root form [Tab] Is_Relevant [Tab] Content Theme [Tab] Content Topic [Tab] Content Style 
+#
+# Usage: Lemmatization.py
+
+import re
+import sys
+from nltk import stem
+
+#Data File (Enter Data File)
+file1 = "TempFiles/test_label.csv"
+
+#Output File to store Lemmatized version
+#outputfilename = input("\nEnter the name of output .csv file: ") 
+outputfilename = "OutputFiles/Output_Labels.csv"
+outputfile = open(outputfilename,'w')
+
+#print ("\n\tInput File: "+file1)
+#print ("\n\tOutput .csv File: "+outputfilename)
+
+# I will process each tweet and lemmatize the keywords
+
+for line in open(file1):
+
+	#Splitting the input into two parts! 
+	tokens = line.strip().split("\t")
+	
+	#Tweet Id	
+	tweetId = tokens[0]
+    
+	#The Complete tweet
+	tweetWordsStr = str(tokens[1]) 
+        
+	outputfile.write(tweetId+"\t")
+	
+	outputfile.write(tweetWordsStr+"\t")
+	
+	classlabel_relevant=str(tokens[2])
+	
+	outputfile.write(classlabel_relevant)
+	
+	
+	if(classlabel_relevant=='yes'):
+	
+		classlabel_theme=str(tokens[3])
+		classlabel_topic=str(tokens[4])
+		classlabel_style=str(tokens[5])
+		
+		outputfile.write("\t"+classlabel_theme+"\t")
+		outputfile.write(classlabel_topic+"\t")
+		outputfile.write(classlabel_style)
+		
+	outputfile.write("\n")
+               
+outputfile.close()
+
+#print ('\n------ Done !! ------\n')

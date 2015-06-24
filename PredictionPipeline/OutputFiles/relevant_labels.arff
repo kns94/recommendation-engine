@@ -1,0 +1,2007 @@
+@relation TempFiles/temp1.csv
+
+@attribute ID numeric
+@attribute Tweet string
+@attribute classlabel {yes,no}
+
+@data
+4.1817117843641958E17,'rt black wom talk rap whit men ppl seem think just hold pain slavery',yes
+4.1817286595590963E17,'kansa city hottest club horr rap jok _url_',yes
+4.1818221687184179E17,'downplay situ re slut sham endors sex assault',no
+4.1821177101118669E17,'rap est comendo viv',no
+4.1826487850408346E17,'keep thego stop rap tonight',yes
+4.1826543029415526E17,'omgg know bitch aint rap maggy walkingdead',yes
+4.1828027654487245E17,'bad rap',no
+4.1828197210103808E17,'fil complaint twit bm post photo incapacit bw threat rap now gonn contact buddy sourc',yes
+4.1828236977559142E17,'keep thego stop rap tonight _url_',yes
+4.1828863803250688E17,'don rap trav pleas ll cry',yes
+4.1829291739698381E17,'cavem first inv rap hot head bitch wak pregn fuck',yes
+4.1831087265874739E17,'hahahah kony wel mah rap ka sakn buka',no
+4.1831830790144819E17,'end rap now',no
+4.1836063143612416E17,'follow wil rap',yes
+4.1836877487867494E17,'lik phon rap',yes
+4.183990640156631E17,'holdap na gwapo girl rap rap rap holdap anong rap holdap lang girl bakit masam bang mag suggest ang land',no
+4.1840122232939315E17,'rt not job coddl educ young black men com viol wom wann teach',yes
+4.1840871781487411E17,'many wom believ must beat partn hetero homo rel alik',yes
+4.1841001360734618E17,'rt sex assault not sex desir viol control humy',yes
+4.184217073474601E17,'sery sex attack edinburgh year old wom victim sery sex assault edin',yes
+4.1844177158498714E17,'cha seung won son cha no ah acquit sex assault charg _url_',yes
+4.1844371239013171E17,'cha seung won son cha no ah acquit sex assault charg back august pro gam cha _url_',yes
+4.184450751702016E17,'rt wom nee protect men urg rap men nee protect urg kil th',yes
+4.1844725775599616E17,'welcom diehardforgirl fierc book fierc wom men attack kindl _url_',yes
+4.1844844052417331E17,'rap disgust crim',yes
+4.1846237297485414E17,'don agr fan giv play shit re least week can rap much money safc',yes
+4.1846383303264666E17,'pol investig ga man tweet going rap pass girl _url_',yes
+4.1846501798262374E17,'rt estoy pensando de hac algo del estilo si consigo lik en un dejo que rap pero no tengo pelot',no
+4.1846704801277542E17,'real dud think wit lik rap ath on black guy pick girl flo drag',yes
+4.1847040535638835E17,'rt rap dumb rap innoc person hoe fuck fre',no
+4.1847926236289434E17,'whit chick com bang door no sho no pant talk can let black dud tryn rap',yes
+4.1848122011303526E17,'carl stop pleas eastend omg no rap',yes
+4.1851376255592038E17,'_url_ avery import blog rap stop min skirt blam',yes
+4.1851396594191974E17,'mal duck rap fem duck help',no
+4.1851954549071872E17,'devil rap dat fool dat brought world aint cheap bloody hoe smh wast tweet fuck ment freak',no
+4.1852389833480602E17,'talk rap lead first point abstin key',yes
+4.1852486765105971E17,'cob co pd investig man tweet pict morn say going rap girl http',yes
+4.1852734160254566E17,'rt yard penal unnecess rap _url_',yes
+4.1853515004604826E17,rap,no
+4.185423581042647E17,'girl mmmm show gonn beat pu baby _url_',no
+4.1854472956832563E17,'tl us rais aw eveslaw evesmark domesticviol osc childabus rap stalk abus not',yes
+4.1854756988769485E17,'pizz won ev cal nam che beat lie fak rap girl dat',yes
+4.1855189438706483E17,'callmeoldfash think marry com childr',no
+4.1855338347445043E17,'peopl fuck idiot rap alway rap fault someon',yes
+4.1855552795498906E17,'baltim city pol nee help loc sex assault suspect _url_ _url_',yes
+4.1859426664739226E17,'m rap',yes
+4.1859714319753626E17,'isn rap',no
+4.1860689135940403E17,'dust assocy ug stak could rap profess dawdl tmetmo',no
+4.1860926942912512E17,'good see bal report imply viol men wom',yes
+4.186102242082857E17,'world com re dat year old rap whol level re dat child',yes
+4.1861497844309606E17,'geeekin retweet stalk ass girl',no
+4.1866585048143462E17,'congress support aap delh saf mla not arrest fals wom not arrest rap http',yes
+4.1866895389310566E17,'hi terr decid includ rap charg avoid jul assang today jok',yes
+4.1867884716951142E17,'rap can nev blam victim wis man build glass hous near ston quarry',yes
+4.1868410096728474E17,'urg rap _url_',no
+4.1871259214492467E17,'not giv man accus rap airtim nor extrem unless real new sham bbc',yes
+4.1871811474307482E17,'rt rap dumbest crim ev rap innoc person many hoe day',yes
+4.1872639831273882E17,'attn wom fastest way los weight burn fat stop fat produc _url_',no
+4.1872645024241664E17,'attn wom fastest way los weight burn fat stop fat produc _url_',no
+4.1923183883899699E17,'rap mee worldstagenirvan',no
+4.1923498501159731E17,'dud rap drunk fee cat food tel snack mix gon learn today',yes
+4.1923679876245914E17,'rap whistl anoth sec wil fal tonight big osu mizz cottonbowl okst',no
+4.1924227761820467E17,'nirvan rap solo acoust _url_',no
+4.192689881208873E17,'rt facebookproblemsnight lik respect justin bieb ign want sat rap',yes
+4.1927419622969754E17,'sex assault milit control rul suicid out _url_ htt',yes
+4.1928344189339648E17,'rt campaign s cit victim predomin found sex traffick und victim oft runaway troubl hom',yes
+4.1928811912115814E17,'chant viol rap diplo fac miss lif',no
+4.1929390871231693E17,'rt first girl attack movy jaw screaming real pain har brok hip drag',no
+4.1930009257561702E17,'mom got rap girl can rap wil lik man dream',yes
+4.1930322697100902E17,'rt rap dumbest crim ev rap innoc person hoe throwing pussy around',no
+4.1930432786676941E17,'rt first girl attack movy jaw screaming real pain har brok hip drag',no
+4.1931699999578931E17,'rt worcest stat common chos maj sex assault smack',yes
+4.1932373353944269E17,'apafrom blowhol rap weirdest thing seen aggro badg gallery tmituesd',no
+4.1933027408674816E17,'best friend say gonn rap shouldibeworry freak',no
+4.193336588439552E17,'rt worst thing said wom abort rap _url_',yes
+4.1934815262673715E17,'cheek rap',no
+4.1934983904691405E17,'wrong cthulhu tentac rap anyway wait backlash cthulhu tentac rap victim',yes
+4.1935489359426355E17,'worst thing said wom abort rap _url_ short mem',yes
+4.1935643360847462E17,'puch wag niyong rap si vhong',no
+4.1940620132431872E17,'caus rap _url_',yes
+4.1944715956692173E17,'kind rap isn crim correct rap us cur lesb',yes
+4.1945093936003891E17,'imagin dj holdap rap rap tulung nyo ko dj holdap di rap ed wag nag suggest lang ee',no
+4.1945736970203546E17,'il rap littl pretty foxy know',no
+4.1947133333736243E17,'want oomf rap la want ro sex abus lik no on busy',no
+4.194775961336791E17,'seen newspap ind country on highest rat rap sex abus',yes
+4.1948125526125363E17,'rt seen newspap ind country on highest rat rap sex abus _url_',yes
+4.1950040468713062E17,'caus rap _url_',yes
+4.1952147514697318E17,'rt artil shel airstrik kidnap rap gang rap murd kachin wom attack civil continu',yes
+4.1952324016461005E17,'rt just loss whit girl guess rap lyr turn rac card get kick popey chick',no
+4.1953034025723904E17,'sbs com crim watch nev look gang whit peopl connect rap',yes
+4.1953262674813338E17,'accus someon rap didn arrest sint don fam person internet fin',yes
+4.1954230587215872E17,'nigg rap',no
+4.1954376197092966E17,'lsugs hard bc as jer s rap snd screaming bc cant breath bc ph',no
+4.1954898787239117E17,'rt morrissey sil sil bitch eat anim just paedophil rap murd _url_',no
+4.1955346661770445E17,'wil cent halv around kent expery rap mat',no
+4.1956668379237581E17,'rt rap doesn ex duba consid cas sex crim pun law world new _url_',yes
+4.1957577438425907E17,'nou felicit kont pou izol ki ranpot tit rap pou an ki sot pas ya nou fye deskel te kolab avec nou na',no
+4.1959190418385715E17,'beng rap victim famy meet presid ind express ind _url_',yes
+4.1960453431952179E17,'rt morrissey sil sil bitch eat anim just paedophil rap murd _url_',no
+4.196063187903488E17,'bethenny frankel new musc man accus rap colleg no charg fil thoug _url_',yes
+4.196307136974889E17,'no mil story zion rap world just watch _url_ disarmisrael _url_',yes
+4.1964524064002048E17,'rt award win docu sex traffick now avail streaming onlin _url_',yes
+4.1967515429412045E17,'rt la sheriff depart misconduc includ rap drug smuggl kidnap report _url_',yes
+4.1967825695083315E17,'know fac look lik rap idk lik emoj idk cant find',no
+4.1967877391137178E17,'msi radio no discuss gangst child marry drug mul scam illeg cat dog bree fact',no
+4.1968526592220774E17,'oh god no eat wil rap insid',no
+4.196896833296384E17,'ah believ wom respons stop rap huh',yes
+4.1969504226601779E17,'damn girl gonn nee fly antarct find enough ic burn',no
+4.1969844936664678E17,'long night gossip girl facebook stalk',no
+4.1970470476841779E17,'girrrll fin fuck rap put troph cas rap',no
+4.1971590407979418E17,'go ahead rap fac win win',no
+4.1971663775585075E17,'m just going list song min second lat process rap replay button',yes
+4.1972007130995098E17,'oh ign girl stalk',no
+4.1972804323443507E17,'just rap phon dea xd',yes
+4.1974416567802266E17,'tryn get lil girl beat lik',no
+4.1975195558268518E17,'swear littl girl stalk ugh im block ass cant deal aggrav kid',no
+4.197731549918167E17,'rt bro dark art wel develop comedy gre sublimin though unintend just rap not',yes
+4.1979831844563763E17,'gue disuruh ij ke rap cent semalem gue di rumah lu di temp prostitus jad gue gak bak bajak',no
+4.1980347374478131E17,'rt on can point endors rap pleas ind tak tim ll wait',yes
+4.1982535501769523E17,'quot com resurrect old jok just rap nincompoop word',yes
+4.1982744231726285E17,'rt man fit cas rac transact rel misogyny pro rap agend on jok tal',yes
+4.1984907797557658E17,'rt neith rap nor molest stil asaram bapuj jail fak charg paidmed judg bailon thjan http',yes
+4.1985022655254118E17,'just part tri rap girl lov sex laugh smal god',no
+4.1986699792169779E17,'hop swanse absolv rap man',yes
+4.1987571979229594E17,'rap not fuck jok piec hors shit',yes
+4.1987659433784525E17,'respond someon say could rap could',no
+4.1991762330479411E17,'com basketmou apolog rap jok enr peopl lash demand glo dump _url_',yes
+4.1992172889965773E17,'hat slutty girl hop burn hel shit publ',no
+4.1993179395001549E17,'new post opin basketmou rap jok not funny _url_',yes
+4.1993934112609894E17,'toronto tax driv charg sex assault _url_ brown guy rap tingz ay',yes
+4.1994124890486784E17,'stat try rap missour cri missour misery',no
+4.1995828494296678E17,'xdddd hahahah omg rap uhhh jaaa sie ist halbnackt naj sie hat nur ein sschen',no
+4.199656795055063E17,'rt thing nev ev glamo eat disord depress ment il rap paedophil rac',yes
+4.1998058208994099E17,'rt last week liverpool fan attack bus ful hul fan wom childr stab oldham',yes
+4.1999994217090253E17,'rt last week liverpool fan attack bus ful hul fan wom childr stab oldham',yes
+4.2000633024652083E17,'yep ess blowhol rap',no
+4.2001401035266458E17,'ihatewhenpeopl think rap okay ask no mat slutty someon look doesn mean re ask',yes
+4.2002199877833114E17,'alleg rap girl ws playin next day ashram wid kid pos girl bhav norm aft',yes
+4.2003720221559194E17,'steubenvil rap upd ma lik richmond releas _url_ wtf',yes
+4.200372224992297E17,'rap lyk now cult ind',yes
+4.200445834947625E17,'rt convers bet son ear poss _url_ sexualharass rap st',yes
+4.200466513998889E17,'rt no court settl rap cas say high court _url_',yes
+4.2004944572030976E17,'m surpr lib hav tri introduc ide rap dog instead rap whistl',yes
+4.2005817888200704E17,'shut ur min not mak rap jok',no
+4.2007377009562829E17,'rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj bailon thjan',yes
+4.2007873314423194E17,'omfg lmao fun gam but fuck auburn tim might act consid rap bitch',yes
+4.2008629328071885E17,'someon sang mat bieb id rap',yes
+4.2011444254254285E17,'rt nee talk abort sex tampon fem genit mutil rap domest viol muc',yes
+4.2013183582669619E17,'rt id raichel israel world mus star endors tort rap arab prison _url_',yes
+4.2013914158242202E17,'said wann rap chancho lmfa',no
+4.2014443275564646E17,'say rap ev heard statut rap googl unbeliev',yes
+4.201545828119511E17,'year old saint accus sex assault kid bailon thjan _url_',yes
+4.2016242041044173E17,'rt friend look d dat rap friend nee work comply',no
+4.2016613299023462E17,'rt someon today planet ear someon wil slut sham rap victim',yes
+4.2017917262836941E17,'thing virt rap',yes
+4.201827195495383E17,'tis not rap ask',no
+4.201897547483177E17,'smh not rap mak orgasm el sarcasm m not agr',no
+4.2019947236348723E17,'lmao stretch the may just saf say prob nig produc rap almost kai',yes
+4.2020239106640691E17,'rt nat migr week pray childr undocu refug hum traffick victim _url_',yes
+4.2020319345313382E17,'law eq every arrest rah gandh inquir hap rap cas',yes
+4.2020565269100954E17,'judg ind rail im premarit sex rap tri ind judg decl premarit _url_',yes
+4.2020759108060774E17,'imply enco rap peopl arm idiot follow lead self appoint',yes
+4.2020928291186278E17,'trag thing hap beat mob just lucky enough beat kind wom',yes
+4.2021607478146662E17,'stil don understand issu rap marry tho bibl say husband wiv not deny sex na',yes
+4.2022588604325888E17,'sign least every nig men rap thk shd us word appropry',yes
+4.2022936772204544E17,'rt can preach celib turn thousand you liv bet sex harass girl she fals bailon',yes
+4.2023267242253517E17,'let pray idiot tf wish rap anybody pur sad tbfh',no
+4.2024955522214298E17,'want rap someon eu',no
+4.2025000067781837E17,'titanjoyofgift ur child birthday fest occas marry annivers just complet',no
+4.2025358017655194E17,'twittbo ching chang chong rap cas jap koer pop jap mil kore fifty millio koer crazy',yes
+4.2025811582139597E17,'mt basketmou regret rap jok _url_',yes
+4.2026479913900851E17,'ohio high school rap convict releas us today _url_',yes
+4.2026915031836672E17,'il rap auss',no
+4.2028955395437363E17,'lmfaooo block year ago fuck pussy want retail sel rap fuckhim',no
+4.2029906130528666E17,'rt notyourrescueproject talk sel body commod objectfy pay rap etc express attitud masquerad',yes
+4.2032076429093274E17,'newjersey plan comb sex traffick next month _url_ sb',yes
+4.2032183966014259E17,'us mad disrespect high school idk nev got beat lml girl boyfriend ev che',no
+4.2034936654555546E17,'mgs get sex viol rat describ',no
+4.2035427822691942E17,'norm just root good gam bowl gam tonight m root sex assault go tig',yes
+4.2036125803913626E17,'kor rap hist _url_',no
+4.203632415548375E17,'jam on rap commit auburn',yes
+4.2036575517186458E17,'o judg nam can tel enjoy kil beauty wom just lik gettin ass kick',no
+4.203699187022848E17,'gun chos girl kick hous',no
+4.2037651956788429E17,'tim interest play backst fsu qb jam winston commit rap got away won heism hero',yes
+4.2037818154406707E17,'cant rap whit girl los gam smh choos struggle',no
+4.2037978363856486E17,'wel winston fail rap sob defens',yes
+4.2038112092071117E17,'cool plac dat tbh _url_ nobody can hear screams rap',yes
+4.203818553684992E17,'med report prov no rap investig off said no sec rap cas bapuj want bailon thjan',yes
+4.2038254670722662E17,'hardc ufosbuzard dread crowstract rap chain on hardest onetwothr punch mus bee thous',no
+4.2038579906321203E17,'beat rap charg can beat auburn',yes
+4.203894335195136E17,'jamy just forgot get dai rap',yes
+4.203894971848663E17,'rt guy next say can win hesim beat rap cas win natty gott los least on',yes
+4.203903634973655E17,'jam winston accus rap get no suspend carlo hyd get hit girl doesn swing back suspend gam class',yes
+4.2039038665873818E17,'rt guy next say can win hesim beat rap cas win natty gott los least on',yes
+4.2039106000349594E17,'off bu rap whistl don blow unless act hap',yes
+4.2040132599496704E17,'everyon keep mak winston rap jok wasn ev charg',yes
+4.2040597984367411E17,'rt just don f king rap peopl didn think d writ on ya god perspect bo burnham',yes
+4.2041273608268186E17,'ve old bul now want young calf rap',yes
+4.2041664188988621E17,'jam not lik sid rap wareagl sec',yes
+4.2041725339421901E17,'cmon jam rap auburn just lik on girl cold',yes
+4.2041899338866278E17,'ref giv on fsu otherw winston wil rap bcschampionship',yes
+4.2042018695755776E17,'plot twist winston rap cas tru fsu forfeit win season',yes
+4.2042080304208282E17,'rt nigg beat rap cas won heism nat champ man deserv med',yes
+4.2042104508280832E17,'now peopl wann us rap card gtfoh yal ass can nev let mfka win just stfu real mad ass',yes
+4.2042105402505626E17,'jam winston rap victim glad giv wil tonight',yes
+4.2042143612653568E17,'bitch claim rap must feelin sal af tho lmaoo',yes
+4.2042154062723891E17,'m gonn rap bitch can win nat champ',yes
+4.2042154525394944E17,'rt jam winston first rap girl rap def famousjam',yes
+4.2042170465805926E17,'rt won heism beat rap cas nat champ bday fam jam lady gentlem',yes
+4.2042203521155482E17,'rt jam winston won heism beat rap cas won nat champ nobody bet',yes
+4.2042206877398221E17,'rt won heism beat rap cas nat champ bday fam jam lady gentlem',yes
+4.2042206998654157E17,'yeah rap someth hard af go get away espec without los money fac consequ',yes
+4.204220862814167E17,'winston finn go rap many peopl bruh wardamneagl',yes
+4.2042212600107008E17,'rap rap ra ri rin ring',no
+4.2042219275343053E17,'book gonn titl get away rap lead success',yes
+4.204222998511657E17,'didn rap nobody',yes
+4.204225423067095E17,'someon dumb act think can success pul rap',yes
+4.2042281094350438E17,'rt year old win nat champ heism get away rap real ass nigg',yes
+4.2042284616727757E17,'fsu jam winston com behind win no dat rap pil nee tim',yes
+4.2042302500401152E17,'jam get away rap twic',yes
+4.2042328241683661E17,'rt year old win nat champ heism get away rap real ass nigg',yes
+4.2042340635012301E17,'hear jam winston interview guil rap not abl read',yes
+4.2042359064782848E17,'jam winston gonn rap many girl tonight',yes
+4.2042362325016166E17,'rt year old win nat champ heism get away rap real ass nigg',yes
+4.2042385832032256E17,'rt guess can win heism troph bcschampionship rap tri season winston',yes
+4.2042390405043814E17,'rap dat whit gurl',yes
+4.2042423503174451E17,'rt nigg jam winston beat rap charg won heism nat champ',yes
+4.2042445002757325E17,'real not going thank lawy got innoc rap',yes
+4.2042447060903526E17,'yo rap jok jam got lik _url_',yes
+4.2042455086661632E17,'know guy got away rap know on fals accus',yes
+4.2042493231341978E17,'rt year old win nat champ heism get away rap real ass nigg',yes
+4.2042517918633574E17,'winston innoc rap sandusky bcschampionship tiitletalk',yes
+4.204253969462313E17,'soo bas re pretty good sport okay rap girl',yes
+4.2042547162159923E17,'don think funny peopl mak jam winston rap jok',yes
+4.2042575926698803E17,'jam winston won heism freshm beat rap charg won bcs titl gam luckiest nigg wo',yes
+4.2042714767807283E17,'bet try lynch folk au tonight just got beat byv black qb beat rap charg whit girl',yes
+4.2042820512922829E17,'rt year old win nat champ heism get away rap real ass nigg',yes
+4.2042837392060006E17,'try find girl rap',yes
+4.2042963370457907E17,'rt guess can win heism troph bcschampionship rap tri season winston',yes
+4.204311077092393E17,'everybody wann knock jam winston rap cas ev hap peopl mak mistak judg',yes
+4.2043124654487962E17,'wann mak jam winston rap jok just tak adv situ',yes
+4.2043211032364237E17,'rt jam winston first rap girl rap def',yes
+4.2043410297454592E17,'pleas not rom rap',yes
+4.2043420215307878E17,'jam winston season highlight win loss bcs nat champ rap fail engl exam',yes
+4.2043449494904422E17,'peopl hat winston brin rap charg no reason smh kid just someth non wil ev',yes
+4.2043454010913178E17,'rt jam winston won heism nat champ went undef beat rap cas best year ev',yes
+4.2043593355338138E17,'sex assault cas court ord tarun tejp bail ple today _url_',yes
+4.2043631561252864E17,'wom scream rap men want rap wom fact',yes
+4.2043792800822886E17,'com rap jok hatersgonnah',yes
+4.2043853305755238E17,'kob rap won ring big ben rap won ring jam winston rap won ring rap da way go guess',yes
+4.2043986128419226E17,'rt guess can win heism troph bcschampionship rap tri season winston',yes
+4.2044704872359526E17,'rt jam winston luckiest black man americ beat rap charg win heism champ freshm',yes
+4.2045710371183002E17,'good re get sick americ wor sem lit you rap sheet sex assault charg',yes
+4.2046746287054438E17,'or drop kick girl tonight',no
+4.2047330051961651E17,'hat break guy rap sex assault jok ar funny disgust',yes
+4.2047997091842867E17,'gang rap strictly prohibit _url_ gang rap whatt',yes
+4.2048560656562586E17,'steubenvil rap cas on convict teen releas juvenil prison on form high school fo _url_',yes
+4.205017215303721E17,'readingnow new steubenvil rap cas on convict teen releas _url_ _url_ socialmed',yes
+4.205049649898455E17,'rt first girl attack movy jaw screaming real pain har brok hip drag',no
+4.2050595502597325E17,'click stop viol wom _url_',yes
+4.2052064700599091E17,'teen girl left sery hand injury attack cannock yesterday ev _url_',yes
+4.2054108181865677E17,'m talk wed necess mom nev know could get kidnap forc marry import',no
+4.2054308441004442E17,'sisigaw talag ako ng rap',no
+4.205485391946752E17,'jam winston won heism freshm beat rap charg won bcs titl gam luckiest nigg wo',yes
+4.2055319144956723E17,'rt jam winston best mon ev won heism nat champ avoid rap charg',yes
+4.2055904398005862E17,'form neighb ariel castro plead guil rap murd _url_',yes
+4.205627871573033E17,'re advoc revolt story sex assault noth exploit titil stopviolenceagainstwom',yes
+4.2056583792624845E17,'que yo sep un mej no se pued qued calv meno se rap el pelo',no
+4.2057605281850163E17,'tak rap cult amaz _url_',yes
+4.2058054904525619E17,'steubenvil rap releas not wel receiv many circ noapologybutihadittough _url_',yes
+4.2058079449595904E17,'rt moralmonday ga school prison pipelin upd steubenvil rap cas wom ar welcom internet htt',yes
+4.20592186053632E17,'rul law leg marry childr us fath surnam let agap watch _url_ via ptvph',yes
+4.2060391547509555E17,'rev serv pol off accus crim includ rap abduc rac _url_',yes
+4.2060461606227149E17,'rt wow amand ll rap feel wom ar welcom internet _url_ mustread',yes
+4.2061284396553011E17,'cincinnat montan judg crit teach stud rap cas step _url_',yes
+4.2062853767955661E17,'burn girl mak hot lik room fir',no
+4.2063166812730163E17,'rt perc rap can tak minut hap affect victim decad wheth victim mal fem lifet',yes
+4.2063352118759014E17,'act slog shud join hand rap fut ind',yes
+4.2063489910075802E17,'tak rap cult amaz _url_ lov whoev mad',yes
+4.2064029910316646E17,'said mil nah gon try beat fuck girl seen mil',no
+4.2064733010343936E17,'jam winston season highlight win loss bcs nat champ rap fail engl exam',yes
+4.2064816615365427E17,'jam winston season highlight win loss bcs nat champ rap fail engl exam',yes
+4.2064944818081792E17,'jam winston season highlight win loss bcs nat champ rap fail engl exam',yes
+4.2065695269665997E17,'bello molto fash piacciono le rap per non le mangio mai hg discorso woow',no
+4.2067302338633728E17,'fuck lik moy daught land now wil rap just',no
+4.2067477087978701E17,'ll rap _url_',no
+4.2068706383156429E17,'learn back whit hobo whor lied rap get rap black men avoid jail hist today',yes
+4.206903170675753E17,'bul teen girl maryvil rap cas hospit app suicid attempt raw story _url_ smh',yes
+4.2069694067929088E17,'ye victim complex fem friend twit ve stalk year threatened rap',yes
+4.2070798191612723E17,'rteg rap',no
+4.207093714844672E17,'men commit rap tot fault doesn mat wom wear',yes
+4.2071300022050816E17,'can josy m not mad let girl tak beat',no
+4.2071768323603661E17,'tak rap cult amaz _url_',yes
+4.2072265335624499E17,'rap not plot dev shitty gam',yes
+4.2072651481287475E17,'im rap rap',no
+4.2073302563094528E17,'may richmond on charg rap though evid recov knight sec suggest otherw',yes
+4.2073926920477082E17,'wom vancouv get attack maj intersect council cit going',yes
+4.2074607823409971E17,'rt map star rat strong disturb viol sex cont graph nud langu',no
+4.2075760820382106E17,'innoc hum wil forev alleg rap alleg pin nam bbecaus someon play gam no',yes
+4.2077339288352768E17,'don rap whistl sebr pretty much thing qotn',yes
+4.2077411992839373E17,'child rap blackmail scum stat _url_',yes
+4.2077618083741286E17,'na littl es going wak littl girl going get ass beat wak',no
+4.2079421661303603E17,'rt jam winston beat rap charg won heism becam nat champ just lik kob real nig',yes
+4.2080848577404928E17,'rt coupl bed girl sad bc mom dead can mak feel bet yeah boy light camel gonn burn just b',no
+4.208323355634647E17,'dnt see paul tryn rap oh nah ok fuck lolthey can continu wtf book',no
+4.2083402312072806E17,'nat un journ clear guidelin report sex viol _url_',yes
+4.2085317304230298E17,'pop mol wok guy unbutton pant woo rap',yes
+4.2085512262190285E17,'rap definit compass way show lov someon els sent johny rap dian dant',yes
+4.208640461668393E17,'can rap act',no
+4.208674157658153E17,'princess molest third sex assault _url_',yes
+4.2087730811568538E17,'dis wom kidnap beat walk mil bar feet help loc hom _url_',yes
+4.2088877578324787E17,'yeah right ston pelt delh gang rap protest nsu aap want teach',yes
+4.2088984426579149E17,'dat difrnt btw rap seduc',no
+4.209239620175831E17,'man stop put support wom vs mal viol domin bc angry word no support',yes
+4.2094487763629261E17,'tak rap cult amaz _url_',yes
+4.2095299921813504E17,'propos law californ prev colleg sweep rap rug _url_',yes
+4.2095459946214195E17,'lot tbb princes or rap glady _url_ teen porn video xxx pussy sex fre',no
+4.2095651379702579E17,'rap not plot dev shitty gam',yes
+4.2095801742986035E17,'gonn rap timelin click list latest track nofucksg',no
+4.2095970888817459E17,'fatou queen rap rap phon',no
+4.2097911105441792E17,'aaaaaand don rap girl _url_',no
+4.2098000827098317E17,'compel rap victim imprison protect peopl tak streets libertadparayak _url_',yes
+4.2098709034069197E17,'rt although wom lik stalk men anyon can victim stalk learn _url_',yes
+4.2100069000649523E17,'fin just rap john paul heeeeeel hollyoak',yes
+4.2102171315800474E17,'nee know rap accus bright ey frontm con oberst _url_',yes
+4.2102932139935334E17,'rap nigg ain rough sex assault _url_',yes
+4.2103448666374554E17,'girl scar rap feel prid guy risk lif jail just fuck',no
+4.2106579656011776E17,'_url_ kinky sex posit miss port teach get prison sex assault stnt crazysexposit',yes
+4.2106773631665357E17,'year old girl cry step dad kick fac',yes
+4.2107969362725274E17,'clamp greg an rap mom',no
+4.2108365505470874E17,'got drag m just not asham not want mrs degr typ wom cool',no
+4.210914821125079E17,'st on say principl bas nd highlight galloway rap defens defy principl',yes
+4.2110582063471002E17,'rt rap dumbest crim ev rap innoc person hoe throwing pussy around',no
+4.2112128082629427E17,'cyb bul drov maryvil rap victim attempt suicid glob grind _url_',yes
+4.2112592989351936E17,'stephany sinclair tremend work child marry _url_ via',yes
+4.2112650848555418E17,'man giv girl not report rap',yes
+4.2113016252925952E17,'incred resourc child marry infoguid _url_ via',yes
+4.2113184016315597E17,'sociopa want cop rap didnt commit benson go away lif benson didn want embarrass real',no
+4.2114017782294528E17,'rt jam winston luckiest black man americ beat rap charg win heism champ freshm',yes
+4.2115021068582502E17,'girl stalk',no
+4.2115927596088934E17,'wb govt must ord pol protect famy rap victim sham mamat baners god giv wisdom',yes
+4.2116264466685133E17,'rt ask hadn attack first girl said man walk besid',yes
+4.2117390360864358E17,'spec prosecut expect rev wheth ll charg maryvil rap cas spec prosecut _url_',yes
+4.21207790888448E17,'fight aleppo seem wors story rap kil becom common pleas shar thought dearsyr',yes
+4.212257647347712E17,'adv wom can us men hostil also hard say real rap sint many men',yes
+4.2123587980679578E17,'car rap victim forc govt rol pol model prov work sign _url_ via',yes
+4.2124285315974349E17,'rt no rap fir no rap med report yet asaram bapuj could not ev get bail demand bail bapuj',yes
+4.2124890647573709E17,'rt nev seen rap victim laugh play incid dr mal ingl mbbs md want bail bapuj _url_',yes
+4.212512138714153E17,'rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj want bail bapuj',yes
+4.2125232709881856E17,'rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj want bail',yes
+4.2125401738615194E17,'sanghpariv jagrut mahil vedik stag hug protest condemn deralakat rap incid _url_',yes
+4.2125433569649869E17,'por fav necesitamo ayud par que se rap la cabez horizont rts rts rts _url_',no
+4.2125880369941299E17,'omfg lit shout right now nigg freak bby yesh bby freak cut must rap',no
+4.2125958830308147E17,'disgust fug direct kid daught rap jail mr dreamz mag _url_ rt',yes
+4.2126376200844493E17,'rt sharp ris viol wom afgh _url_ defend right say _url_',yes
+4.2128314098479514E17,'sex prostitut without permit rap shoplift',no
+4.2129330071732224E17,'guy girl somebody stalk thr watch',no
+4.213120637856768E17,'rt sen extend unemploy benefit rap cult ind west scot halt marry eq utah http',yes
+4.2131302953677619E17,'maj lawmak commit don know rap stophr',yes
+4.213157519504384E17,'yesterday del first forc marry prev train sess year nhs staff _url_',yes
+4.2131943084956058E17,'ref tackl much wors prob consid rap ahref',no
+4.2133246149552538E17,'molest chief m sur real angry fiv vandy footbal play indict rap year',yes
+4.2133880818631475E17,'jam franklin pen rap won gam vandy two year runnin hmm smellprob sec dollarhandshak bigtenscandalcomin',yes
+4.2134017375902106E17,'por eso rehuso rap valentin apart se ven como loquito no la rap yo no rap mar y tien un pelo divino',no
+4.213573688665047E17,'fin rap john paul just hit',yes
+4.2136057430042214E17,'first girl attack movy jaw screaming real pain har brok hip bon drag',yes
+4.213723116361769E17,'aint rap throwin bacc cuh',no
+4.2137880889447219E17,'rt rap cult tel daught not get rap instead teach son tre wom',yes
+4.213820440865833E17,'soldy dismiss leav duty post rap prostitut abuj _url_ via ja_olofofo',yes
+4.2138572249577062E17,'sketch sex assault suspect ottaw _url_',yes
+4.2138593186246246E17,'no rap charg suspect daisy colem cas _url_ ekogid',yes
+4.2138593888830669E17,'vez_ just daisy daisy colem suspect not charg sex assault _url_',yes
+4.2138797943816602E17,'twit rap',no
+4.2138956347120026E17,'rt loool girl own dress not burn _url_ can wear',no
+4.2139182380718899E17,'jam winston season highlight win loss bcs nat champ rap fail engl exam go',yes
+4.2139242641084416E17,'sam try rap sing black veil brid',no
+4.2139524222328832E17,'irony abbot us daught mak point re viol forget bul wom un',yes
+4.2140516604302131E17,'sign petit urg stop viol wom reform artic ripamin morocco _url_',yes
+4.2140549617250714E17,'rap good',no
+4.214228356894679E17,'charleen want go sleep can rap',no
+4.2143311863847322E17,'rap scen not allow film',yes
+4.2143697151315149E17,'just want rap much ask',no
+4.2144337653833318E17,'look lik bad tan valley girl light icepack cheek burn tbh',no
+4.2144428495328461E17,'burn fir girl',no
+4.2144746413964083E17,'rap sery damn issu effect alot hug desensit internet cuz lot just desp want funny',yes
+4.2144792135652557E17,'sex assault sery issu nee address enough taboo tim chang',yes
+4.2146473271376282E17,'saud strained al west _url_ via iraq fail stat us rap country cit',yes
+4.2146567558111232E17,'spongebob mak an rap jok _url_',no
+4.2147273709876019E17,'throwback thursday middl school ballin ballisl gametomorrow whatdatmoufdodo rap _url_',no
+4.21486602725376E17,'mo man accus rap plead less charg _url_',yes
+4.2150163899445658E17,'told wann kidnap rap weirdo',no
+4.215130570353623E17,'megynkel pleas tel us wil investig tot mom yr old rap victim com',yes
+4.2152588441616384E17,'suspect palmd sex assault may riversid county _url_',yes
+4.2152901980982477E17,'yo rap ask fm dear _url_',no
+4.2153581136484762E17,'pol releas sketch man attack wom oakland new year day _url_ _url_',yes
+4.215400135247872E17,'not rap sinjin',no
+4.2155784559147418E17,'polit want cre rap audit sign petit stop _url_ stophr',yes
+4.2156639257219482E17,'ve lot gre feedback wom artic wrot viol d lov men see http',yes
+4.2158339850359194E17,'rt mak fest poem rap beat innoc yet stil turn blind ey brush asham',yes
+4.2160575067522253E17,'ee rap cedr don want rap brandon yeo',no
+4.2160743470126285E17,'bul see told charg domest viol now look lik girl market definit now',yes
+4.2173002443443814E17,'rt steubenvil rap hack droht mehr strafe al den tern _url_',no
+4.21738549848064E17,'pentagon us milit academy cadet nee sex assault prev train _url_',yes
+4.2174652092527411E17,'blog post redesign sanit pad prompt victim sex traffick seek help _url_',yes
+4.2175001577037005E17,'rt wom report rap sex abus form viol ask _url_',yes
+4.2175628128080691E17,'got girl stalk whol last year school us peep corrid stuff hop year diff',no
+4.2176180309041152E17,'also say sint rap hap murd put rap book wish hyperbol simpl',yes
+4.2177012115439616E17,'jessicasuarez no cal rap',no
+4.2177829566377165E17,'nirvan rap _url_ ogg cos',no
+4.2178460650206003E17,'delh train fem unit comb rap _url_',yes
+4.2180155876274176E17,'rt anyon want harass form razorback basketbal coach john pelphrey hang chancel xoxo gossip girl',no
+4.2181504862625382E17,'afgh viol wom hit record high _url_',yes
+4.2182484614252544E17,'bad girl club char war past involv rap alleg plu trashy audit tap real tea _url_',yes
+4.218586472457175E17,'wi extrem voc rap apolog middl school teach',yes
+4.2186895960519885E17,'nev mind girl mak track ll beat pussy hook right thur',no
+4.2187197200847667E17,'guess wom slash car burn cloth',no
+4.2187936525362381E17,'rt seen newspap ind country on highest rat rap sex abus _url_',yes
+4.2188253213387981E17,'mean rap',no
+4.2188946142568448E17,'gam min ey rap',yes
+4.2189147098841088E17,'boy every play wil ev beat girl play gam bet',yes
+4.2189156594707661E17,'ut fan us gang rap vandy also idiot',yes
+4.2190542326058598E17,'break new lak fil rap charg los angel clip',yes
+4.2198524063543706E17,'pol commun support off kab yousaf charg rap _url_ newham london crim',yes
+4.219922296541225E17,'jaolofof jok no limit basketmou rap jok controversy _url_',yes
+4.2200618712342528E17,'sex assault charg drop annapol _url_ mji',yes
+4.2201173718626304E17,'rap nirvan _url_ nowplay',no
+4.2201176397069107E17,'je sui le rat ki fai du rap rap rap fromaageuuuh',no
+4.2201320345581568E17,'baza fut partn marry baek lov childr thought marry busy work',no
+4.2201536441576243E17,'rt gang rap photo stephany rap _url_',yes
+4.2201736561088922E17,'rt man attack help wom harass men train _url_ saw incid recogn th',yes
+4.2202433132600934E17,'quot said sex assault surv famy memb _url_ via',yes
+4.2203299538275533E17,'rap prev tip _url_',yes
+4.2203515658595942E17,'rt kab yousaf pol commun support off pcso bas london charg rap blackmail miscond',yes
+4.2205184502072525E17,'froz m gen ok film know fak sex assault rap can trig anxy',no
+4.2207903260032614E17,'just saw fat ging girl buy rap whistl gott admir optim',yes
+4.2208013792905626E17,'way ve seen react story onlin intens say least sydney rap thing re person knew',yes
+4.2209074492581478E17,'rap evil demon girl otherw wil che us wil forc kil necess everyon',yes
+4.2209820504490394E17,'know humantraffick aw day stalk awr mon disproport affect wom jo',yes
+4.2210045071683584E17,'rt rap crim ter poverty now ant saint strategies welcom congress world bail bapuj _url_',yes
+4.221023797111767E17,'wil rap refresh button tomorrow',yes
+4.221043855653888E17,'nagesh kukuno next lakshm harsh tru hum traffick child prostitut ind _url_',yes
+4.221107992689623E17,'press act believ everyth fan mean littl year old girl probobl rap',yes
+4.2212026463409766E17,'mad rap molest okay urgh relig nee stop thing',yes
+4.2214501047444275E17,'si un japona rap cst clair que mm eminem pourr pas test dej qu il parl tre vit imaginez en rap',no
+4.2215277227266867E17,'rap cas extramarit affair fuck abbot greedy lying tyr auspol',yes
+4.2215788544841728E17,'rt month ago wel wor read gend impact syr war inc system rap child marry _url_',yes
+4.2215836908061901E17,'ugliest nigga rap somebody mean pussy easy quick get right',no
+4.221788084319273E17,'rt leav hous dark show cons on lawy told rap victim _url_',yes
+4.221824117668823E17,'maguir kick littl girl fac',yes
+4.2218275625306931E17,'rt hum traffick aw day pleas shar docu sad stat child sex traffick s _url_',yes
+4.2218546311845478E17,'on on work end sex slavery child soldy hum traffick lra kitgumugand achol',yes
+4.2224427484840755E17,'d say com d prob cal rap',no
+4.2224725679724544E17,'rt man attack help wom harass men train _url_ saw incid recogn th',yes
+4.222705111343104E17,'liv stream sex gend bas viol learn lac reg _url_',yes
+4.2228758396862874E17,'just lik deep throated chapstick gia no deep throated chap stick stop right no stop rap',no
+4.2229198098334106E17,'_fruit_loop fuck want skat murd drug rap kil shank feee lick kick swag',no
+4.2230769358015283E17,'rap cas aft yr not acceiv court advoc menon yr old fak cas asaram bapuj bail bapuj',yes
+4.223203354850304E17,'prev prostitut sex traffick also bring quest uk mal cult many men pay sex',yes
+4.2232468175703654E17,'liveleak acquaint rap year old pakistan fact work kidnap assault rap _url_',yes
+4.2236346145335706E17,'khal ask study shariah nikah tallaaq sex qat forn rap rib interest s',no
+4.2236903267985818E17,'see first la dey don think wann rap',no
+4.2237167070872371E17,'ambon info baru gar gar mengkonsums minum kera atau mira daeng rap pelaku red teg membacok mustamin _url_',no
+4.2238277999355494E17,'cons nev defens statut rap',yes
+4.2238946308472013E17,'proud john paul report rap aw bless hollyoak',yes
+4.2239294363102822E17,'vomit hack expos steubenvil rap video fac jail tim rap _url_',yes
+4.2239613861313331E17,'demo rap kurt cobain daught cry bet',no
+4.2243168538528563E17,'julforschool midterm gonn rap',no
+4.2244569613481574E17,'rt spit rap throw cent cal dirty whor _url_',yes
+4.2244645017841664E17,'assault d want gun not law mak cal rap whistl wtf real saf jok',yes
+4.224521643433943E17,'teach men control not wom cov rap not excus _url_',yes
+4.2246529720375296E17,'think slavery wif beat hat murd disbeliev paedophil mutil theft rap beauty',yes
+4.2247924557180109E17,'carry rap alarm just cas',yes
+4.2250905175945216E17,'hav seen sint cam definit rememb big black dick rap',no
+4.2251857908743373E17,'rt jam gonn rap ha get _url_',yes
+4.2253700833072742E17,'okay old friend going around say going rap kid pleas par ar hom',yes
+4.225508754966487E17,'school now loooo end going hom rap comput',yes
+4.22551615258624E17,'lov sex traffick wow jen mess',yes
+4.2256312887098982E17,'disturb rap nigg ain rough sex assault _url_',yes
+4.2256930759207322E17,'cet rap scump est un connecto ptdddddddddddddr',no
+4.2257610471755366E17,'talk rap rap jok mock sil victim also giv perpet ide sex viol funny',yes
+4.2257936639291392E17,'fak sex assault cas sant shri asaram bapuj preplan paidmed govt must demand strongly bail bapuj',yes
+4.2259388727048192E17,'watch _url_ teen shav tit pussy pic rap bond sex',no
+4.2259517404520038E17,'gangrap victim forc reloc hindu priest ramdev lead gang peopl hous hdl rap vaw _url_',yes
+4.2259557077644083E17,'sign point rap _url_',yes
+4.2262838358377677E17,'rt tel don look lik imm rap emoj _url_',no
+4.2268233089379533E17,'no rap fir no rap med report yet asaram bapuj could not ev get bail demand bail bapuj',yes
+4.2269416818435686E17,'rt no act rap cas bab nag rah gandh no bail bog cas asaram bapuj enough now wan',yes
+4.2272287727670886E17,'rap rap rap nirvan',no
+4.2273027147853414E17,'seek help regard sex assault sophom doesn think gw admin feel hum _url_',yes
+4.2273202503734477E17,'snap adamw rememb wil definit stalk mayb rap',no
+4.2274957840890675E17,rap,no
+4.2280066805990605E17,rap,no
+4.2280736702609408E17,'swindon play back striker rang _url_ yeah accus rap tot idiot can play bit fuck hel',no
+4.2281184866548941E17,'video facebook girl beat disgust many peopl walk past didn think stop',yes
+4.2281516406106112E17,'oh no yess hhahaha wil rap team nominas akt terbaik hahha',no
+4.2282466563642163E17,'wom displac ethn polit viol southsud wash child jub camp nuer peopl _url_',no
+4.2283725077141094E17,'nig lead tak break ste ban gay child marry ok act born plac lik http',yes
+4.2284958403421798E17,'rt may rap year old re not allow surf vimeo youtub turkey',yes
+4.2285111578148454E17,'m jut gonn rap someon innoc depress',no
+4.2285139122102272E17,'screams run across tl help tri rap dms',no
+4.2285297817409946E17,'lov ars win lit rap tl piss everyon',yes
+4.2285326052204134E17,'new jersey work curb sex traffick superbowl via _url_ _url_',yes
+4.228992793140265E17,'overachiev earn highest gpa tul law hist fight attempt child rap charg _url_',yes
+4.2290466646972416E17,'oh yeah almost forgot rap scen not lik kit run scar already',no
+4.2291156192647578E17,'m pleas see property tax fin put us now rent cop hs driv jeep not rap van',no
+4.2291201067922227E17,'nigg rich just rap kiss eric front camera look scar first tim',yes
+4.2291313898057318E17,'tri rap kiss girl high school told stay away school property week salut',yes
+4.2292052713762406E17,'ir bureaucr pok around med record sex viol victim tel hous stophr _url_',yes
+4.2292345750529229E17,'consid rap dont tak adv sorry think otherw _url_',yes
+4.229364010263593E17,'yal rememb last tim seen ol girl fight hap right got drag lik mop',yes
+4.2295049890459238E17,'rap nah',no
+4.2295344469809562E17,'rap cas victim pol indiff _url_ via absolv hor',yes
+4.2298612879146189E17,'commend strong campaign protect rap victim somal unacceiv crim _url_',yes
+4.2299030403234202E17,'rt lmaoooo someon rap maheed already stop show thing head stil correct smal',no
+4.2299789850719027E17,'chines corsair rap britain richard cley london correspond rec report say thousand mo _url_',yes
+4.230155935883264E17,'rt caught camer cop thrashed kick wom protest _url_ video _url_ _url_',yes
+4.2301596752729702E17,'m sorry cam sub dear real wasn sometim just wond just look child marry',no
+4.2305305858802074E17,'paul weston islam rap epidem whit wom _url_',yes
+4.2305926235753267E17,'rt girl didnt wrot rap fir yet paidmed put rap charg asharamj asaram bapuj knowthetru ris',yes
+4.2306828946900992E17,'nic rolemodel commit adultery ov off desk sex assault multipl infidel kidsandsport',yes
+4.230689141892137E17,'nurs arrest sel baby expos chin child traffick problem beid reut chines cou _url_',yes
+4.2307314858278093E17,'rap dress muslim wom niqab get rap',yes
+4.2308631660816384E17,'just imagin perfect mom _url_ mayb going rap',no
+4.2310261509470618E17,'rt bih on eleph kund singh dread gangst head aap rap murd kidnap cas',yes
+4.2310712191668634E17,'rt scand downton abbey rap scen problem not reason might think _url_',yes
+4.2310954585491046E17,'god man arvind kejriw tak sec cov cop no sec wom cop beat kalyug',yes
+4.2311347867759821E17,'fnding bitch lik can hard gott resort rap',no
+4.2312860205478707E17,'let rap get ticket',no
+4.2313440598164275E17,'lord rap tim',no
+4.231581799925801E17,'rt pol search justin bieb hous eg tak tim said every rap murd',yes
+4.2317492777294643E17,'rt pol search justin bieb hous eg tak tim said every rap murd',yes
+4.2318118300696166E17,'rt pol search justin bieb hous eg tak tim said every rap murd',yes
+4.2318628466053939E17,'pol rakhin loot rap kil rohingy arrest _url_',yes
+4.2320899678354637E17,'rt pol search justin bieb hous eg tak tim said every rap murd',yes
+4.2321180022278554E17,'photo nefep sniffl caseyanthonyoff amaz stop whin rap cult doesn _url_',yes
+4.2321900751724954E17,'vs maradon vs elv anoth gre exampl song rap cold beer cigaret good',no
+4.2322204275508429E17,'girl stalk twit writ stat wann forget gay can block numb',no
+4.2322578922865869E17,'get valu skil marry nev want childr grandkid depend spous',no
+4.2323397028991386E17,'not know seem priv rap wom molest forum myredbook invit particip',yes
+4.2326718457643827E17,'rt wom attack twin fal grandm screen door handl get wallet pol say _url_',yes
+4.2327601018938982E17,'rap tak drew bed lik now',no
+4.2329583242353459E17,'group say myanm army us rap weapon war group say myanm army us rap weapon war',yes
+4.2330362652671181E17,'marsoc auth year competit on voic rais triumph rap nytim amazon _url_',yes
+4.2330974740495155E17,'rap eg hol',no
+4.233174839492608E17,'rt pol search justin bieb hous eg tak tim said every rap murd',yes
+4.2332080819142656E17,'rap van',no
+4.2332332577590067E17,'rt luh lik pleas dont rap unless re sehun _url_',no
+4.2332727113954918E17,'keep see old lady bus stop gunn rap bro',no
+4.2333605630642586E17,'sex assault nev ok oth perpet hap migr noth help eith',yes
+4.2334041219177267E17,'girl don wann best friend bc prob think im rap',no
+4.2334338229588787E17,'rap constitu last tim simil incid ask resign shile dixit now don resignkejriw',yes
+4.2336251715571712E17,'aaptard sad m sad regard gang rap new delh wom sec forc com forc asap',yes
+4.2340721244308275E17,'tru delh rap cas ppl cam know delh pol no stat control weird law enforc',yes
+4.2341640647489536E17,'dan report gang rap ind dan wom fil pol complaint say gang rap _url_',yes
+4.2345445390866842E17,'gop congress candid spous rap shouldn crim _url_',yes
+4.2345686788119347E17,'detenido un hombr por poses de droga en la mans de justin bieb an velencoso video atla el rap _url_',no
+4.2345888988386918E17,'us rap someth isn complet belittl undermin rap victim gon',yes
+4.2346224118349824E17,'rt cal girl beauty doesn mak thirsty stalk nev leav alon mak thirsty',yes
+4.234723599670313E17,'sharm rap',no
+4.2347670133132902E17,'amrit prajapat acceiv fram asaram bapuj fak rap cas us wif knowthetru ris just',yes
+4.2348587609872384E17,'delh pol cent not stat aap lead com dan gang rap expos _url_',yes
+4.2350283390087578E17,'consid m gonn tour afric sum expl min exploit sex traffick get marry chil',no
+4.2351738779559936E17,'desp republ gop congress candid spous rap shouldn crim _url_ via',yes
+4.2351846874363494E17,'m disgust lik dar ask nee rid on don know two know re going rap',yes
+4.2352619786443162E17,rap,no
+4.2352676141493862E17,'ind pol arrest two men rap cas _url_',yes
+4.2354305869350093E17,'gop congress candid spous rap shouldn crim nighty _url_',yes
+4.2354609353248768E17,'dan wom rap cas delh kum bakwa say ask un hom min kukku',yes
+4.2355980465775002E17,'rt sex assault alert rosco road lionhead trail composit sketch rlsd on susp _url_',yes
+4.2356935230753997E17,'cli charg sex assault sex interf sex exploit just discharg request crown finch',yes
+4.2356982830648934E17,'uk wom kil mal viol wom kil day on wom dead every day http',yes
+4.2357658736827187E17,'wom now accus delton firefight sex assault rap pol say terry freem woo attack fox',yes
+4.2363746433959117E17,'steubenvil rap cas just ment crimin mind excit capston aw vicitmblam',yes
+4.2363775609575834E17,'rt eu vou beij sua ferida aberta nirvan rap',no
+4.2364229496984781E17,'real bigfoot fem teach attack ny stat _url_ plz rt',yes
+4.2364938765114982E17,'arrest rap dan wom _url_',yes
+4.236660348059689E17,'med report rap not found paidmed rap rap rap knowthetru ris just rat',yes
+4.2367163454195712E17,'rt am wom wil rap lifetim wil attack rap',yes
+4.2367456776933376E17,'see oomf mak rap fac',no
+4.2367771529668198E17,'rt pol search justin bieb hous eg tak tim said every rap murd',yes
+4.2369389577649357E17,'med report rap not found paidmed rap rap rap knowthetru ris just',yes
+4.2372749569570406E17,'rt sir aap respons dan wom rap delh pol not control want cm _url_',yes
+4.2373817930522624E17,'holdap na gwapo girl rap rap rap holdap anong rap holdap lang girl bakit masam bang magsuggest landi',no
+4.2375884993425408E17,'opin grown ass person nerv rap espec young child brut tort kil',yes
+4.2376420597236531E17,'arvind kejriw incid rap delh _url_',yes
+4.2377746472555315E17,'rt don want polit rap cas kejriw say ll look next week hypocrit ar',yes
+4.2378159194585088E17,'rt pol search justin bieb hous eg tak tim said every rap murd',yes
+4.2378246054426214E17,'kind join today pm fightrapethursday disc rap effect victim',yes
+4.2379387777529446E17,'don get beat sist rath div cheerlead honey ghetto black girl vc',no
+4.2379806070436659E17,'judg defend day sent girl rap wear',yes
+4.2380740038335693E17,'no on sent rap fac snapch oh someth wrong',no
+4.2381045746895258E17,'vanguardngrnew delh pol hunt suspect dan gang rap _url_',yes
+4.2381316258911027E17,'jacob engin eng pedophil child pornograph best orchest rap push us syr drug',yes
+4.2381525214942822E17,'not rap murd',no
+4.2382356212679885E17,'mom anthony tel know aint rap guy does orgas ctfu lmfaoo d cx',no
+4.238277085616087E17,'now vind wom charg mak fals rap report win settl abajourn _url_',yes
+4.2382850791166771E17,'rt cong ingenu protest stat govt gang rap not word hom min shind control',yes
+4.2383879322588365E17,'rap boo',no
+4.2384839580806758E17,'obes easiest way avoid rap',no
+4.238558356770857E17,'virgin legisl run congress say spous rap leg _url_ via',yes
+4.2386629880880333E17,'rt anticho protest ar gentl harass scar wom read account _url_',yes
+4.2388475579781939E17,'sa rap bient y aur un mort dan av',no
+4.2388922988704973E17,'rt uk wom kil thro mal viol join us pleas sign demand gvt _url_',yes
+4.2389091046499123E17,'rt mormon dram teach told lesb girl going burn hel fchs',yes
+4.2390028027130266E17,'new wildwood pol charg man sex assault two juvenil _url_ _url_',yes
+4.239055363847209E17,'s bureau just stat estim s rap victim fem mal fightr',yes
+4.2390635670670131E17,'rap isn sex kink ign fuck wast oxyg rantjuststart',yes
+4.2391722609410458E17,'yo lo dij ib rap rap',no
+4.2392390471411302E17,'rt democr now okinaw revolt decad rap environ harm s milit spur resid ris http',yes
+4.2393630840353587E17,'peopl ask hat tri get skyp could talk rap not lik pedophil creepy',yes
+4.2393806381203046E17,'unacceiv pol florid discov near rap kit sat untest sint _url_',yes
+4.23945263250944E17,'okinaw revolt decad rap environ harm s milit spur resid ris _url_',yes
+4.2396620388789043E17,'ris cas rap _url_',yes
+4.2397515283014042E17,'cunt rap victim feel someon rap seen post',yes
+4.23979576671232E17,'good know congress candid dick black doesn problem spous rap _url_ via',yes
+4.2399115715334963E17,'thing lik hap fals accus rap pandoradeloest casey lawr _url_',yes
+4.2399850034785075E17,'oh thing nonviol rap',yes
+4.2400606287092122E17,'on feath delh hat rap capit con rul now also becom rac capit aap rul http',yes
+4.240101601312809E17,'kerek rap cas defer _url_ _url_',yes
+4.2401795995928576E17,'somna bhart can disclos rap victim nam not nirbhay rap mohamad afroz quitaap',yes
+4.2401838989679821E17,'delh rap uk rev ind travel adv hindust tim _url_ uk travel',yes
+4.2402095650466202E17,'com alway last know latest juicy syracus top lik rap',yes
+4.240226137786327E17,'rt conveny saud men agr wom caus sex assault wom liberty al _url_ via',yes
+4.2402695034123878E17,'opin rap jok think can ev funny appropry',no
+4.2402769649536205E17,'wil kejriw dan wom rap delkh cartoon _url_',yes
+4.2403181040252518E17,'rap tub _url_',no
+4.2404058641742234E17,'yay park chanyeol can sem rap jongin intro dubstep',no
+4.2404313688558797E17,'rt congbjpquitind ant congress wav start ann mov delh rap protest vary scam expos rti',yes
+4.240436382601216E17,'rt lov rap childr men wom',yes
+4.2404676430463386E17,'rap period abus abort pregn harass breast cant walk che fem',yes
+4.240609059709993E17,'whiteppl us dog get vin fam get charg rap _url_ hahahhahahahahahahhah',yes
+4.2406767170593178E17,'ifw ll singl af _url_ look lik girl tryn get rap',no
+4.2407894479970304E17,'rt man prob believ pay rap wom don char rap awesom http',yes
+4.2408261717289779E17,'rt bizar ind introduc first handgun wom nam rap victim _url_ expend',yes
+4.2408593169268326E17,'know rap gam lik sex offend',no
+4.2409407219460096E17,'fak sex assault cas sant shri asaram bapuj preplan paidmed govern knowthetru _url_',yes
+4.241245507887063E17,'alleg rap victim cross examin',yes
+4.241631327148073E17,'rt britain frant warn rap threat ind _url_',yes
+4.2418925590965453E17,'statut rap _url_',yes
+4.2420528452169318E17,'interact viol wom mexico _url_ feminicidio asesinada justic narcot fico',yes
+4.2420951568561766E17,'rt respons day fuck sak dad didn rap kid paddy coomb',no
+4.2422310627077325E17,'act post yet anoth wom sue tsa sex assault _url_',yes
+4.24223250638336E17,'interact viol wom mexico _url_ feminicidio asesinada justic narc',yes
+4.2423901238856499E17,'rt off d lik report crim see whit girl lit dead attack puppy omg help',no
+4.2424361037712589E17,'pol three arrest ind gang rap cas six now accus attack dan tour new delh _url_',yes
+4.242467532911657E17,'mom just cal tel hi don drug don go party don sex whit girl due dat rap accus',yes
+4.2424985966779187E17,'reason onlin shop giv bet pric rap ship fee',no
+4.2424999199848038E17,'temasperfecto rap nirvan',no
+4.2425410210184397E17,'rt dear aap arvind kejriw rap origin drug prostitut amsterdam rap capit',yes
+4.2425652077241958E17,'look cas mess stuff rap murd avg',yes
+4.2426211399001702E17,'rt party found peopl fuck bed kick dud fuck girl oleswitcharoo purdu',no
+4.2428830812694118E17,'hous republ push bil forc ir audit rap victim thinkprogress _url_',yes
+4.2429193549986611E17,'poor harry drag kayl ayesh gossip girl convo',no
+4.2431883456086426E17,'fem get fing beach hop get kick twat every fing fuckin nasty',no
+4.2433583467936973E17,'_url_ girl',no
+4.2434548700140339E17,'rt papu new guine viol can seem lik norm wom _url_',yes
+4.2436610214856294E17,'can protect rohingy wom girl persecut genocid rap murd burm',yes
+4.2437448344967578E17,'nowplay video help sex traffick victim _url_ _url_ socialmed',yes
+4.2437700628999782E17,'lov bathroom sing bath tub pleas wait lat wil rap die max',no
+4.2438222370256077E17,'ok wel next tim mayb daddy won rap someon real think twic next tim oh can',yes
+4.2439120058687898E17,'rap whistl ve blown rn fath watch candl',yes
+4.2439447924873626E17,'ret army maj slam upcom camp ray movy kstew charact befriend detain also tort sex assault _url_',yes
+4.2440755296142541E17,'saw littl girl sel girl scout cooky d rap twistin nippl',yes
+4.2442120544612352E17,'quot said sex assault surv famy memb _url_ via',yes
+4.2442146816933069E17,'rt writ out wom kil writ puzzl eulog sick viol oblivy _url_',no
+4.2442582621896704E17,'form vet admin pol chief plead guil plot kidnap rap murd _url_',yes
+4.2442801861899878E17,'word rap illeg wom say just us get away anyth real hor day',yes
+4.2446629653394227E17,'exact wil nev dark doorstep church past arrest girl rap',yes
+4.2447120205771571E17,'leg rap child brid not just among poor also much gre problem _url_',yes
+4.2450829834033562E17,'hear hop part reason tough sent try forc giv rap pal although lik',yes
+4.2453808709266637E17,'rt spous abus milit sex assault abort republ stand rap right democr standwithwom wher',yes
+4.2454063222151578E17,'report ex saint dar sharp arrest rap charg _url_ new orl _url_ say ain',yes
+4.2454630667861606E17,'welp break ex saint dar sharp arrest rap charg _url_',yes
+4.2456556057238323E17,'form nfl play cur nfl network analyst dar sharp arrest susp rap _url_',yes
+4.245682547625984E17,'chin rap rapecult ind chines mou peac glob tim democr tradit thwart law ind _url_',yes
+4.2457452033936179E17,'form nfl db dar sharp arrest rap rog goodel respond fin jam harrison',yes
+4.2457946251329536E17,'curt lep jess smil see vin mad alleg rap read _url_ via hollywoodl',yes
+4.2458060913916314E17,'wow aw damn break ex saint dar sharp arrest rap charg _url_',yes
+4.2458364156681421E17,'acc turk court attack wom tear apart cloth grop breast show no sex int rad',yes
+4.2458501201788928E17,'aw stat frm laur bat tedxeastend wom planet wil rap beat lif',yes
+4.2458913887711642E17,'ev heard anyon spend month jail charg sex assault forg on knowthetru togeth ris just',yes
+4.2458992227281306E17,'warn viol sex viol non con blood threat cannib',yes
+4.2459291729947034E17,'no nee rap not cool enough earn need kil',no
+4.2460228909427917E17,'ok rap',no
+4.2460566241739571E17,'latest upd sb two kid jump flo now sportin black ey sex assault cas morn',yes
+4.2460951981812122E17,'sex without cons rap _url_ _url_',yes
+4.2461912712730214E17,'form nfl saf dar sharp arrest yesterday los angel susp rap alot nfl new',yes
+4.2463303597203456E17,'oh must say aahh attempt rap o_o j_marselle see cont _url_',yes
+4.2463730857111552E17,'know on accus rap kick colleg footbal yet cas dismiss wom prov liar',yes
+4.2464180430755021E17,'think dar sharp guil rap many wom accus rap',yes
+4.2464370464983859E17,'rt form nfl star fac rap charg pol say _url_ _url_',yes
+4.2464911374589133E17,'dar sharp charg rap hardest hittin saftey leagu doe',yes
+4.2465094101960704E17,'ex nfl star fac rap alleg form nfl star dar sharp fac two rap charg los angel pol _url_',yes
+4.2466810039960371E17,'dar sharp arrest alleg sex assault oneofthemosthardesthittingsafetiesintheleagu',yes
+4.2467056633578701E17,'mean peopl myredbook priv molest forum rap wom forum prob cre escortguid',yes
+4.2467661905659904E17,'right group myanm milit us rap weapon war _url_',yes
+4.2467754464720486E17,'lml aint gon lik gon lik il get girl beat fuck aint nothin',no
+4.2469010355480576E17,'hap want rap',no
+4.2469297091103949E17,'lattoorepubl form nfl star dar sharp arrest two rap charg tmz _url_ theirf',yes
+4.2469558463393792E17,'rap mean strangers benefit',no
+4.246997341469696E17,'fright acc tw assault rap thing socy wil try teach year old daught _url_',yes
+4.2471046766830797E17,'rap strong word pref snuggl struggle',no
+4.247137101882409E17,'omg amount sex rap scen movy unr good luck',no
+4.2471863495584563E17,'rap first sight mimguez',no
+4.2472951978708992E17,'fact peopl mak ant rap cloth wom not get rap show fuck socy',yes
+4.247354272709632E17,'urg us congress pass intern viol wom act now ris just end glob vaw',yes
+4.2475432930459238E17,'rt _url_ rap whistl yeah ve got loud on tcot ccot cwot standyourground gunright _url_',yes
+4.2475964217953075E17,'rt rap dumbest crim ev rap innoc person hoe throwing pussy around',no
+4.2476543918959411E17,'rt rap dumbest crim ev rap innoc person hoe throwing pussy around',no
+4.2478549250134835E17,'rap nat',no
+4.2478782315025203E17,'rt profess fan girl just got kick profess buuuurrrrrnnn',no
+4.2480132389720474E17,'uh oh uh oh red alert tentac rap immin swordartonlin toonam',no
+4.2480284819117261E17,'rt tyleroakleyjustgotslay profess fan girl just got profess kick fandom liam',no
+4.2482721927046758E17,rap,no
+4.248588323810345E17,'dar sharp ex nfl star arrest rap charg _url_ new _url_',yes
+4.2486305882218496E17,'thank m glad not just fum stal rap storylin act eff',yes
+4.2488752356408525E17,'rap isnt cool weath boy girl leav scar iam',yes
+4.2490144161532723E17,'ll rap chris brown',no
+4.2490249698987622E17,'rt child divorc par ve learn tre marry lov not fear david den _url_',no
+4.2493095853019136E17,'jess smil receiv dea threats curt lep rap accus _url_',yes
+4.2494663519058739E17,'texa stat troop fing rap wom sid road bew',yes
+4.2494959034579354E17,'rat new onlin girl rap fiv men walk hom pol essex start rap investig _url_ rat fancyr',yes
+4.2495154232912282E17,'no bbc interact guid sir jimmy savil rap sex abus childr bbc prem',yes
+4.2496849753423053E17,'girl rap fiv men walk hom pol essex start rap investig teen girl rep',yes
+4.2497137669743002E17,'origin green green attack rap ethniccleans religionofpeac kpexod kpholocaustday hdl _url_',yes
+4.2497882544997171E17,'ask relig tre rap ethniccleans religionofpeac kpexod kpholocaustday hdl http',yes
+4.249804191932375E17,'go rap anoth nonno littl creep',no
+4.2499014140991898E17,'just see omegl try pul rap fac',no
+4.2502880077928448E17,'seahawk bet rap er',yes
+4.2503408101372723E17,'rt party found peopl fuck bed kick dud fuck girl oleswitcharoo purdu',no
+4.250596149638103E17,'essex rap year old attack fiv men _url_',yes
+4.2506075745027277E17,'kik nee go away stop try rap thank',no
+4.2506919519834931E17,'cam across mess board suppos didn cens tentac rap scen sword art onlin',no
+4.2507975508466893E17,'damn right shit rap bank account gon sink ev',no
+4.2509922371386982E17,'lazy websit man ye m sorry rap thing doesn hold wat sound lik sotry pil',no
+4.2511301313458995E17,'cam behind lik rap',no
+4.2512210779073331E17,'rt guess domest viol act isn jok along rap anim abus degrad wom bye',yes
+4.2512890281488794E17,'photo no reason rap wom unless want fuck won let _url_',yes
+4.25131043126272E17,'kind fuckig bitch slut decid mak thin fuck whor wil find rap fuck http',yes
+4.2513788958935859E17,'hr sev restrict abort forc rap victim report assault ir fem procho _url_',yes
+4.2513950135513088E17,'girl leav dram facebook twit don got tim cousin jaunito beat someon harkin',no
+4.2515868143335014E17,'rt rap pol claim prob investig stil noth don kejriw',yes
+4.251591599489024E17,'cousin girl stalk went hous everyth cal said gang m bring crew',no
+4.2516169541825741E17,'rt instead apolog afr wom grop label prostitut mak urin publ re',yes
+4.2517682106834944E17,'let ugand miss sex traffick prov cas arvind kejriw _url_',yes
+4.2519171528512717E17,'wom ory act enact govt protect wom domest viol act prohibit child marry act int wom',yes
+4.2519229900260147E17,'new jersey crack sex traffick ahead superbowl _url_ vaw fem',yes
+4.2519414095598387E17,'want rap childr',yes
+4.2524790906057114E17,'rt californ gang rap vin video goe vir th vin graph _url_',yes
+4.2525465035526144E17,'teen girl kick flo riversid attempt robbery norwich teen girl kick _url_ norfolk',yes
+4.2526592552522957E17,'ye ser ki rap oo tent hai',no
+4.2527500418851226E17,'rt kaur rap capit delh due shind delh pol krantikariaapgovt',yes
+4.2530788754484429E17,'gonn rap ya now',no
+4.2530994708653261E17,'balad com ear rap de sangr intestino',no
+4.2532412209758208E17,'many ppe gradu cow foreign embassy try avoid fac rap charg comp self styl freedomwank',yes
+4.2532519126304358E17,'jej rap back ll help mass',no
+4.2533818381631488E17,'rt sou afr react aggress real issu lik rap corrupt etc bafan',yes
+4.2534030075247821E17,'men heart beg burn wom not sex object friend dign',yes
+4.2535939386180813E17,'rt californ gang rap vin video goe vir th vin graph _url_',yes
+4.253594110253097E17,'rt californ gang rap vin video goe vir th vin graph _url_',yes
+4.2535956512782746E17,'rt californ gang rap vin video goe vir th vin graph _url_',yes
+4.2537333471746458E17,'shinhy tie wil rap',yes
+4.2537768956304589E17,'rap afr ar angry peopl not cult nelsonmandelavib',no
+4.2538375266855322E17,'rt essex pol investig terr gang rap year old girl _url_ lbcnews',yes
+4.253854406578217E17,'wil not let topshop rap account wil not let topshop rap account wil not let topshop rap account',no
+4.2538747092287078E17,'rt year old wom beat dea front crosby sant an ca jan th _url_',yes
+4.2539115816526234E17,'vnaturr_ m not say girl fault m just say not cas rap',yes
+4.254000847762432E17,'arrest alleg rap ucsb stud isl vist santabarbar _url_',yes
+4.2542656225557709E17,'look pleas don sad sorry il let rap just pleas don sad',no
+4.2543447679855411E17,'davison two guest lect univers week most mal stud gang rap',yes
+4.2543791271327744E17,'rap _url_',no
+4.254399072935895E17,'wor read forgav rap _url_ _url_',yes
+4.2544381354993254E17,'mummy biggest deb car jred kml stupid peopl think girl can rap boy',yes
+4.2544698717385933E17,'rich look lik ready rap eric ass lls',no
+4.2545300111793766E17,'isn girl beat cal thefost',no
+4.2545332163445965E17,'girl beat cal juvy group hom shit',no
+4.2546031640814797E17,'gon rap now aint got no man',no
+4.2547011966680678E17,'krantikariaapgovt dram med mak panel discuss post rap also trp dram',yes
+4.2547486655317606E17,'snip zxx dream col boy can rap whit wom not judg colo',yes
+4.254796408459305E17,'arian new alb going brut rap everyon ear',no
+4.2547984512110182E17,'wil pay colleg footbal team gang rap ya ass',yes
+4.2548060891185971E17,'cal rap get guy hang',yes
+4.2548186914922906E17,'smh rap seg new sad',yes
+4.2549315981714227E17,'pol com delh govt rap stop pol mamt akhlesh doesn control crim just',yes
+4.2549578369860813E17,'met laundry room ask dat tri rap shitemilysay freshmanyearmem',yes
+4.2549675545135104E17,'demain soir je te met un rap gro',no
+4.2550175907605299E17,'almost beat girl not get dant',yes
+4.2550425245974528E17,'rt rap men wom look help run men also rap recovery op botch htt',yes
+4.2551248574849024E17,'folk nee book tel not rap doesn consist ath',yes
+4.2551341338134118E17,'girl beat juvy gav look cal run now',no
+4.2551997390613299E17,'nee mak nd season orang new black hell wann see hap girl get beat hahah',no
+4.255520629699543E17,'rt rap year not singl suspend window mir hm brok pol men got suspend krantikariaapgovt',yes
+4.2559006961370317E17,'chanyeol rap fac _url_',no
+4.2559579084568576E17,'chanyeol rap fac _url_',no
+4.2560672098798797E17,'rt import dat collect sex abus viol ind mad avail web _url_',yes
+4.2561162712829133E17,'disturb forc marry al wel us via _url_',yes
+4.2561202867837338E17,'corrupt rap not anarchy aapdram consid wrong ind',yes
+4.256239223659561E17,'rt rap men wom look help run men also rap recovery op botch htt',yes
+4.2562770475537203E17,'kejriw just condemn rap incid mov caus lik polit repres ou',yes
+4.2563038566220595E17,'no on real say pay rap go cop kick ass',yes
+4.2563085288672051E17,'u touch yeol heh chanyeol rap fac _url_',no
+4.2565085439003034E17,'root hum traffick low self esteem wom us ev',yes
+4.2566579544877875E17,'rt party found peopl fuck bed kick dud fuck girl oleswitcharoo purdu',no
+4.2567333216888422E17,'rt wom lik lit candl pretty look don respect wil burn hous',no
+4.2570032718716518E17,'la develop guid respond us prev sex viol follow disast _url_',yes
+4.2571721087177933E17,'don rap',no
+4.2572123994956595E17,'m stronger ve beat torn apart thank ve becom strong independ wom today',yes
+4.2572446035256525E17,'real los los situ get ya shit fuck wom cal pol pussy beat pussy',yes
+4.257316466846679E17,'oh la la can wait m gonn rap don want',no
+4.2573467917865779E17,'wed moth widow child brid tel tal _url_ pervert tcot marry ccot',yes
+4.2574584562805146E17,'honest just believ quin deserv guy wasn wom didn rap say didn car beth',yes
+4.2575155880318976E17,'ten un melrnaz guapisim luego rap xdd',no
+4.257662615411753E17,'cho syr regim prison dea continu destruct rap murd syr delay',yes
+4.2577204756676608E17,'log men shouldn sav get hair cut shouldn wear polyest rap okay',yes
+4.257831084120064E17,'rt rap cult tel daught not get rap instead teach son tre wom',yes
+4.2578364337869619E17,'til dea us part forgot us victim forc marry via _url_',yes
+4.2578815868574106E17,'rap nah _url_',yes
+4.2579186507057971E17,'rap nah _url_',yes
+4.2579189743341978E17,'rap nah _url_',yes
+4.2579674089025536E17,'going rap straw',no
+4.2581630857211494E17,'word prol someth rick ross alleg rap outlin song shot fir',no
+4.2582355801971917E17,'nigga wear kob can evad rap charg',yes
+4.2583447659036262E17,rap,no
+4.258373425289175E17,'kid lhs prob mrs martinez period went tri rap someon',yes
+4.2584408920073421E17,'rt someon ev tri rap daught jump window electrocut',yes
+4.2584559489713357E17,'rt not rap struggle snuggl',no
+4.2585111634601984E17,'rt somna bhart led peopl attack say ugand wom _url_ _url_',yes
+4.2586275271687373E17,'god plan not includ forc someon get pregn rap nobody deserv',yes
+4.258798717141033E17,'rt can anyth shind fir good rap wom fre drug sex rack chalao dand',yes
+4.2588176959471616E17,rap,no
+4.2593835856968499E17,'cusu cusuwom wom rap not want jul assang extradit',yes
+4.2595381789383066E17,'useless invalid real nigga rap sist',yes
+4.2596886334840013E17,'attack mob led somna bhart ugand wom _url_',yes
+4.2596934573110477E17,'ap haqooq child marry restraint act mutabiq saal say kaam um lark ki shad karn qanoonun jurm hai',yes
+4.2597069137330176E17,'aff get di pussy mi nah rap',no
+4.2599808110496563E17,'fem asyl seek alleg sex assault anoth christmas island detain _url_',yes
+4.2600301455056077E17,'mi da ig que se rap',no
+4.2600936988164096E17,'et voil que rap d s que ai le dos tourn',no
+4.2601128995810509E17,'can nev tol rap cas espec involv und victim',yes
+4.2603856379314995E17,'unveil in comb sex assault colleg campus _url_',yes
+4.2605725819655782E17,'can help pol trac peopl may info alleg rap basildon ny day photo htt',yes
+4.2605915849308979E17,'rt cbsradionews whit hous new in comb sex assault colleg campus list _url_',yes
+4.2606548942548582E17,'not rap lightskin foo',no
+4.260699509573591E17,'rt obam young wom drop school attack not just terr loss loss',yes
+4.2607141429090714E17,'now watch presid obam bid talk sex assault _url_',yes
+4.2607147877835571E17,'obam target sex assault problem _url_ via',yes
+4.2607190679028531E17,'rt obam today ll sign presid memorand cre task forc protect stud sex assault',yes
+4.2607209685139046E17,'ve nev heard presid speak lik sex assault espec men hop start talk becom norm',yes
+4.2607790469114675E17,'ev heard rebecc kiessl conceiv rap man nat stand wom _url_',yes
+4.2610585995421286E17,'rt don understand rap brothel re nic',no
+4.2610709421583974E17,'tel goe jail lik cruc thing hap lik boy jail rap',yes
+4.2610776847576678E17,'just hear rap mak angry',yes
+4.2610794202346291E17,'rap act lowest low know stupid hoe decid traum someon',yes
+4.2611088863526912E17,'obam target colleg sex assault epidem affront bas dec _url_ _url_',yes
+4.2611646131758694E17,'rap account less abort excus',yes
+4.261281078298624E17,'obam est task forc sex assault say fath teach son respect wom _url_ tcot',yes
+4.2613361520728474E17,'rt jes ir start audit rap victim want abort just lik rep trent frank want',yes
+4.2613521746874368E17,'morocco amend controvers rap law _url_',yes
+4.2613927849913139E17,'und sex traffick ring target runaway barb bet ask right quest jerseybreakdown _url_',yes
+4.2614336342405939E17,'real ur sel sho real rap ur knock boy huh smh wild',yes
+4.2614481250118861E17,'girl beat man find explicit photo phon deputy say _url_',yes
+4.2614674517814477E17,'stalk rap',no
+4.2616007126590669E17,'rt rap cult portray sex act yr old talk show slut instead wond fuck sex wit',yes
+4.2616641086029824E17,'got no gam might wel buy whit econolin van liv reput pedophil hahah id rath rap prostitut tbh',no
+4.2617845479584563E17,'shar act duba rap victim fac jail sex outsid marry _url_',yes
+4.2619361658826342E17,'not rap enjoy',no
+4.2619643339853824E17,'on day childr wil leav nest kid lif marry wil empty worthless o kid',no
+4.261991106856919E17,'trafficknom crazy tak loc sex traffick inform fox',yes
+4.2620143740073165E17,'can not rap thank',no
+4.2623861584101376E17,'wb gang rap ord kangaroo court shock self proclaim court dang khap aap somna bhart',yes
+4.2624434609916723E17,'wtf ind vil council ord gang rap wom pun pol _url_',yes
+4.2624515351105126E17,'widespread viol wom problem somal new them brief show six pag http',yes
+4.2625051009026867E17,'wil say anyth rap ord west beng',yes
+4.2626675373667123E17,'mean say rap rar mean rap fulfil sex nee just humy control ugh',yes
+4.2628612703808717E17,'rt skul tattoo man want pol rap girl _url_ _url_',yes
+4.2628981697282458E17,'birmingham rap jihad pol releas cctv man sex attack boy _url_',yes
+4.2629830515322061E17,'ind vil council ord gang rap wom pun alleg affair _url_',yes
+4.2633216702768742E17,'hor oth rap foc extrem cas contribut refus look within',yes
+4.2633994721415168E17,'ind wom rap court ord pol west beng arrest men gang rap wom',yes
+4.2634082668838912E17,'naxalit mt panchay wb sent wom gang rap wom right cant left commun mohall durb',yes
+4.2635419114184294E17,'help rw di mak om limit gk rw rap no',no
+4.2635633375210291E17,'seemz just want tip rap men',no
+4.2636320494860698E17,'eh marky mark arrest multipl tim rob low sex assault charg chris brown alway com back',yes
+4.2636907285540045E17,'wom traffick niger demand investig _url_',yes
+4.2637121738624205E17,'vil court ord men gang rap ind wom judg _url_',yes
+4.2639152427265229E17,'video wom guil friend acid attack wom found guil throwing acid fac friend wh _url_',yes
+4.2639660700611789E17,'cop search suspect attempt east harlem rap new york pix wpix tv _url_',yes
+4.2639894258752717E17,'mon man uho seen dat nigg justin bieb jail d mak em bitch rap lil pretty ass no homo noth doe',no
+4.2640145485400883E17,'m pray gang rap hop split littl nont',no
+4.2640177987060122E17,'rt rap mee rap friend rap mee rap agaaaain',no
+4.2640330455005184E17,'fuck selen not rap pur pleas',no
+4.264056474505175E17,'sham justin bed wil occupy muscul crimin lik rap littl boy',no
+4.2640772314445414E17,'word rap mat discuss now on ontario today _url_',yes
+4.2641802585246106E17,'anoth brut rap ind men victim tied tre ord vil lead',yes
+4.2641978302715085E17,'gonn rap mut block unfollow button today',no
+4.2642907484076442E17,'hat domest viol class mak wann beat shit wom ok packy',yes
+4.2643038651706573E17,'thepeoplesvo tv bir new ear rev kevin annet discuss vat crim child rap _url_',yes
+4.2643317633738752E17,'rap just say big no rap can nev just fightrapethursday',yes
+4.264346880858071E17,'rap much rap wow _url_',yes
+4.2643589474510848E17,'m sorry ve volunt shelt bat wom rap victim noth funny',yes
+4.2643614476756582E17,'wel bieb jail now just nee bubb rap murd lik show oz',no
+4.2643623053728154E17,'ind wom sentec gang rap affair _url_',yes
+4.2644930171623014E17,'controvers morocco rap law ax excel new _url_',yes
+4.2646146566377472E17,'quot day abort doesn un rap wom _url_ via',yes
+4.2646748444768666E17,'real someon act said abort doesn un rap wom _url_',yes
+4.2646807409174118E17,'murd rap ord way don struggle',yes
+4.2646832688661709E17,'rap cult ind',yes
+4.2647401158622822E17,'right ok justin bieb said rap hap reason complet thrashed skyd cent let fre',no
+4.2647494244449485E17,'rt us ens victim sex viol not left fac tri alon presid obam http',yes
+4.2647711311425126E17,'video wom guil friend acid attack wom found guil throwing acid fac fri',yes
+4.2648425632055296E17,'cam sit corn pretend noth wrong can speak evil murd rap wrong',yes
+4.2649080776886272E17,'hor new ind loc council ord gang rap wom shar lov man anoth relig _url_',yes
+4.2650447440473702E17,'freedomprogram zeebleb frothydragon ye misogyn med nev fail bemo app fals accus rap',yes
+4.2651537353018163E17,'girl fak rap jam winston thot',no
+4.2651655031764582E17,'glad find sery soc issu larg rap hum pts',no
+4.2652741097334374E17,'don car much hat bieb not mak cissex jok wish rap upon',no
+4.2653158190247526E17,'rt benton ar pol off arrest charg rap _url_',yes
+4.2653446115337011E17,'august year old rap victim attend big red high school volleybal gam',yes
+4.265355863429079E17,'rt keyword mut bieb bc prison rap jok think prison rap ev funny don want read',no
+4.2654959453773005E17,'talk son mak fuck terr rap terr put foot wrong m fed sc',yes
+4.2655310486819226E17,'rt bapuj caseno evid rap fir med report c ajay lamb knowthetru pic twit com soxmgscdg',yes
+4.2655342319488205E17,'pat littl girl head bless trp hungry express rap chot damin await arrestchoras http',yes
+4.2655663350260531E17,'justin bieb child smil mugshot smh rap wil just',no
+4.2656413908796211E17,'rt ind gang rap victim may rap platform vil see bbc delh correspond rah tandon',yes
+4.2656964859147059E17,'form bayl footbal play tevin elliot sent year charg sex assault',yes
+4.2657018601223782E17,'onlin rap van octop want driv',no
+4.2658656388397466E17,'gro rap',no
+4.2659909055455232E17,'ind vil eld accus ord gang rap sery hor cas focus intern',yes
+4.2660010147450061E17,'rt west beng gang rap allegedy ord vil council stun suprem court _url_',yes
+4.2662379471991194E17,'court ord prob trib rap ind suprem court ord judg investig gang rap',yes
+4.2665344126015078E17,'ev quest backward ass cunt rt gang rap ord kangaroo court just',yes
+4.266538846022615E17,'mt gang rap trib girl ord kangaroo court just shar view',yes
+4.2666411816296858E17,'ind court ord prob gang rap new delh ap ind suprem court ord investig',yes
+4.2667519506016666E17,'hat wom brut tort burn beat yr old son dea flyheight _url_ _url_',no
+4.2668015737018778E17,'research found educ wom expery less viol educ girl less lik undergo fem genit mutil',yes
+4.2668889101042893E17,'rt rap jok ain funny unless re justin bieb jail bul isn acceiv unless jus',no
+4.2672479607678566E17,'holdin day drag stupid girl shouldn know shouldn know',no
+4.2673903776473907E17,'ceasefir southsud agr int refrain sexualviol _url_ bo un rap tort',yes
+4.2673907936422707E17,'hang boy charg attempt murd rap _url_',yes
+4.2674698277054874E17,'wann rap bed hahahahahahahahah',no
+4.2674740821979136E17,'rt justin bieb could rap someon fan stil say leav alon mak mistak',no
+4.2674998909246669E17,'justin could rap someon yal pra lik yaaaa gag yaaaa',no
+4.2676257975556096E17,'myth sex traffick sup bowl hurt effort stoptraffick must read _url_',yes
+4.2677010755015066E17,'nooooo lmfao uho pol dont find enough evid da rap charg drop _url_',yes
+4.2677103863492608E17,'rt get beat regul girl giv amaz slow blow okay blu mountain stat univers',yes
+4.267758748981207E17,'band label lik don someth auct re run rap cris lov hear',yes
+4.2678184850556928E17,'isang grupo pal bak chics yun ni rap si vhong tss grab',no
+4.2678873227279974E17,'caleb say rap said rav com',no
+4.2679955979726438E17,'rap incest',yes
+4.2680756149788672E17,'rt justin bieb can sum par rap littl sist guy wil stil support',no
+4.2681641907940147E17,'rt rap threats rit pass wom someth say internet _url_',yes
+4.2682734213295718E17,'rt unfound dang accus mizzou fail alleg rap victim kil _url_',yes
+4.2683970571642061E17,'joangelsola mass boy fac nd rap charg teach kil mass boy indict second rap charg _url_',yes
+4.2685598923764941E17,'report mizzou didn investig alleg rap footbal play fem swim lat commit suicid _url_',yes
+4.2685735861918925E17,'rememb wear nighty not rap word com gop',yes
+4.2686582462050714E17,'ahah renam group rap apolog',no
+4.2688475716807066E17,'wom beat dea outsid nightclub suppos photobomb pict _url_',yes
+4.2688720254338253E17,'whor obvy no cons no cho whor mess man want wom god say rap',yes
+4.2688893400700928E17,'already not rap lik',no
+4.2689168218626458E17,'wait guy rap don believ man don get rap rap rath man wom',yes
+4.2689591256967578E17,'ll rap nigg tweet lik bitch',no
+4.2690522923414323E17,'stat mad handgun nam delh rap victim day brent bambury cbc radio _url_',yes
+4.269200930925568E17,'dad gay marry guil child porn wil keep san fran city pend _url_ comput didn pol sex',yes
+4.2693401517910426E17,'thiscouldbeusbutyouplayin _url_ omg can breath lmaoo fac rap don',no
+4.2693936747973018E17,'sea ot known rap drown baby seal',no
+4.269428071403479E17,'sea ot known rap drown baby seal world crush',no
+4.2694718294447718E17,'cal rap',no
+4.2695165808229581E17,'rap city also said pol work investig fin kejriw',yes
+4.269524073741271E17,'keep mindset everyon fuck coz wil giv opportun fuck rap',yes
+4.2696284069274419E17,'littl childr stil symbol etern marry lov duty georg eliot',no
+4.2696298149552538E17,'littl childr stil symbol etern marry lov duty georg eliot',no
+4.2696391315528909E17,'littl childr stil symbol etern marry lov duty georg eliot',no
+4.2700314407405978E17,'sea ot known rap drown baby seal orvil',no
+4.2700387971722035E17,'sec guard arrest rap mumba hindu topnew _url_',yes
+4.270060092030976E17,'rap jok pedophil imagery on tweet hop someon arrest peddl child porn',yes
+4.2701869180570829E17,'heh awkward mom try rap someon ok',no
+4.2702460309838643E17,'sicko tri rap year old girl found car stol queen _url_',yes
+4.2703120884579533E17,'rt rap cas pend delh court act tak dcw past many year keen fast rack cas somna',yes
+4.2703261962510746E17,'rt prayforvhongnavarro attempt rap helpless wom world liv mess kam',yes
+4.2704206404008755E17,'nakablot daw si vhong navarro dahil sa rap',no
+4.2705841637346509E17,'ant rap ag can convint til prosecut raf nad concern rog fed',yes
+4.2707086852347085E17,'fuk doon ll rap ur mum',no
+4.2708613223745126E17,'pol search arm suspect behind sex assault rap west baltim _url_',yes
+4.2709675040781926E17,'rt educ car marry childr ord',no
+4.2710384960290816E17,'cdmb look lik bom gonn rap cl _url_',yes
+4.2711721825862042E17,'ev dat chop pervy shirahosh tel want rap dx',no
+4.2712348139467571E17,'gang rap pun not watch _url_ via',yes
+4.2712648422315622E17,'know don rap old lady walk',yes
+4.2712977183148851E17,'can rap murd famy belieb wil stil support',no
+4.2712989790845338E17,'can rap murd famy belieb wil stil support',no
+4.2714551310470758E17,'keep mind also bilbao beat unit back rap cur squad',yes
+4.2718073990677299E17,'imagin justin tiny fright pen look quiv beg rap bottom',no
+4.2718834746825114E17,'rt sex assault affront bas dec hum presid obam _url_',yes
+4.2719009234068685E17,'rt sex assault affront bas dec hum presid obam _url_',yes
+4.2719084356988928E17,'can rap murd famy belieb wil stil support',no
+4.2720966488413798E17,'katy perry tweet thank speak sav am liv gun viol rock girl lov _url_',yes
+4.2721209705997517E17,'deputy man wom arrest hum traffick _url_ loc',yes
+4.2721438671373107E17,'rt deputy man wom arrest hum traffick _url_ loc',yes
+4.2723180352794214E17,'m us thinkin dat rap quoteyourroom okmadmad',yes
+4.2723314123788288E17,'look lik say bro rap bottom right',no
+4.2723417165294797E17,'rt piss mountain dew bottl mad girl drink got kick che almost charg felony',no
+4.2725298362230374E17,'nig whit hous alrrady rap rap us am stopobam _url_',yes
+4.2725659841187021E17,'lov rap',no
+4.2725714537428992E17,'rt august illeg aly arrest alabam rap sex abus year old girl sotu',yes
+4.2728877490138317E17,'rt shock peopl comfy us word rap mund verb verb re sport est domin let go',yes
+4.2729117131277107E17,'sad don littl address far gre incid domest viol wom deserv bet',yes
+4.2730939480449434E17,'demand end ind rap epidem forcechang _url_',yes
+4.2733539221676032E17,'episod rap ashlyn ashlyn curo loveit pancak teach sat _url_',no
+4.273435664786432E17,'abl wear whatev fuck want o fear someon might rap',yes
+4.2735517826708275E17,'eh eh ban rap leg soweto',no
+4.2735552495526707E17,'ay won rap giv cons',no
+4.2736795016563507E17,'text unl rap send direct gma',yes
+4.2736871315984794E17,'ako si vhong navarro ni rap ko kaibig ko o_o',no
+4.273705179395031E17,'rt buzz ng bay vhong navarro nam year old wom accus attempt rap den millet cornejo',yes
+4.273807673462743E17,'rap nee money den millet cornejo',no
+4.2738794512201728E17,'gang rap wom found marry man subalp way don go pol _url_',yes
+4.2738932010296525E17,'gang rap wom found marry man subalp way don go pol _url_',yes
+4.2738951242815898E17,'dar sharp form nfl pro arrest rap dar sharp form _url_ darrensharp greenbaypack',yes
+4.2739508561000448E17,'gang rap wom found marry man subalp way don go pol _url_',yes
+4.2739689255770931E17,'rt kung attempt rap yung nangyar kay den millet cornejo ab choosy pa siy vhong navarro na eh',no
+4.2740136351422054E17,'bbc revel tru gaddaf sex bas us rap young girl sick _url_',yes
+4.2741100681848422E17,'rac tan car ll prob rap',no
+4.2741283743506432E17,'rt argentin group stray dog sav year old girl man try rap',yes
+4.2741341247034982E17,'rt argentin group stray dog sav year old girl man try rap',yes
+4.2742270427935949E17,'ind rap victim pol protect wom said rap ord vil eld _url_',yes
+4.2742340878441677E17,'scor hel rap',no
+4.2742569084193587E17,'worry vhong navarro fiasco affect publ perceiv rap cult enough victim blam',yes
+4.2743106241573683E17,'_url_ hi can rap omg',no
+4.2743280969150054E17,'aiyu noon stalk m tak bath rap',no
+4.2743816133819597E17,'rap tangin ginusto mo din yun ul',no
+4.2744666382152909E17,'bak nam nakakalimut ng gma yung issu ni vic sotto na din sa rap gmaphilippinesworstnetwork',no
+4.2745441763841638E17,'rt year old brav reject abort rap now rap attend school _url_ _url_',yes
+4.2745610102650061E17,'rt year old brav reject abort rap now rap attend school _url_ _url_',yes
+4.274561168520151E17,'forc arrang marry bestsel jo beverley kindl rom reg ebook _url_',no
+4.2748091968838042E17,'min rap',no
+4.2748828039368294E17,'otl missour inform pol alleg rap univers missour releas stat sunday say univers pol tu',yes
+4.2748945237449523E17,'rip year old girl subdivid illino attack pitbul',no
+4.2749596149429862E17,'smok mind rap _url_',no
+4.2750998115674112E17,'not rap enjoy',no
+4.2751062184087552E17,'eleph kil peopl every year known also rap kil grown rhino holy shit',no
+4.2751210749273702E17,'otl missour inform pol alleg rap univers missour releas stat sunday say un _url_',yes
+4.275125379956777E17,'feel lik diff caretak story dis person second rap fantasy read ident',yes
+4.2751780092486042E17,'who eleph kil peopl every year known also rap kil gro',no
+4.2751789650007654E17,'peopl laugh rap khs sery not cool',yes
+4.2752334509848166E17,'rap card soldy',no
+4.2752525997822362E17,'eleph kil peopl every year known also rap kil grown rhino',no
+4.2753495100990669E17,'sup bowl sex traffick hyster latest fem victim myth gre debunk _url_',yes
+4.2754068850778931E17,'year otl missour inform pol alleg rap _url_',yes
+4.2754218700219187E17,'rt rap jok prosp can say d nev real rap girl bc rap rip cloth us weapo',yes
+4.275426183070679E17,'rul tight jean rap set ang ita new york tim _url_ see',yes
+4.2754397826817638E17,'rt report spam rap just sex sham attach',yes
+4.27546328776704E17,'fals story rap mad med despit med report deny rap attempt jayhindu _url_',yes
+4.275494025686057E17,'kendrick lam don win grammy pay rap win',no
+4.2755425991657882E17,'questionsforamnesty dont think bet us yr platform condemn men pay rap wom girl',yes
+4.2755518271797658E17,'peopl wor tupac lik wasn convict rap',yes
+4.2756277770455859E17,'femin say redefin definit rap wel re on say sex rap redefin',yes
+4.2756690008081203E17,'nigga stil tryn rap fem now _url_ nigg',yes
+4.2757109400692736E17,'deniss d say rap nt gmaphilippinesworstnetwork gma told us vhong blot nt commit rap _url_',yes
+4.2757819482937754E17,'rt study com show black wom fac highest rat domest viol say',yes
+4.2759329711301427E17,'midterm gonn complet rap grad',no
+4.2760772995214541E17,'although see sid ar two sid anyway harass ant gay girl not',no
+4.2761864507466547E17,'robin thick not art releas misogyn mus perpetu sex rap cult just hat',no
+4.2761891308648858E17,'robin thick perform song rap wow cut',no
+4.2761947088737894E17,'robin thick perform song rap wow cut',no
+4.2761986379298406E17,'dat rap anthem sum blurredlin yuck',no
+4.2762098086578586E17,'dat rap anthem wait',no
+4.2762283114944102E17,'john legend could shit chest yank hair cal nam rap bung hol stil voic everygirl',yes
+4.2763204346041139E17,'dat rap anthem sum blurredlin yuck',no
+4.2763351373971866E17,'dat rap anthem sum blurredlin yuck',no
+4.2764023360611942E17,'robin thick perform song rap wow cut',no
+4.2765262531698688E17,'want carry robin thick baby jk wouldn cho bc rap writ song abt',no
+4.2767214101045658E17,'hellooo hat blur lin think rap lov hear thought _url_',yes
+4.2767360646250906E17,'lord lookin lik abouut rap someon',no
+4.276851543922729E17,'rt dear gma porket com na pog rap agad wow hiyang hiy nam ako kay wal bayol na mas masahol pa sa ibinibint',no
+4.2769988569386598E17,'dan tour gang rap ind anoth tour alleg rap highlight ind problem',yes
+4.2770834172529869E17,'rt yf lik real imm rap broom stick hop notification',no
+4.2771432594015846E17,'part snoop dog tri rap yvet lik noooo',no
+4.2772122528502579E17,'ndi lang po pathet desperad din rap daw si deniec nam mismo ang nagtex kay vhong par pmunt sya sa condo nya',no
+4.2772821268931789E17,'lee insist vhong want rap fem friend businessm cedr lee tag act _url_',yes
+4.2774659018328883E17,'just agr na disregard nalang un attempt rap can just disregard accus person beg hmm',yes
+4.2774750379534336E17,'_url_ potato mad fin rap',no
+4.2776345908716339E17,'rap cult univers nee urg act _url_',yes
+4.2776367955614106E17,'sinab po ni deniec na ni rap daw ni vhong si deniec pero hind po totoo ang sinasab niy naniniwal po ako na hind rap si vhong',no
+4.2776528572291891E17,'rap satir wak peopl _url_',no
+4.2776767499563418E17,'bakit di tinuloy ang blot dahil ayaw nil lumak ang gulo jusko rap yun kung totoo nga na nirap ka dapit itulo',no
+4.2776847645162701E17,'ni rap daw pero putok na putok ang blush conto sa bab',no
+4.2777053595135181E17,'kung vhong ma rap skon ok lg ah hahahahahahahahha',no
+4.2777435944532378E17,'pag na rap ka pal sa batanga pwed ka mag fil na cas sa spd hmmm salam sa makabagong kaalam cedr lee gal',no
+4.277770355496919E17,'ang assumer nitong si deniec ni rap daw ni vhong',no
+4.2777857766944768E17,'kung umiyak si deniec sa mga interview na maaw ako sa kany pero hind eh grab ni rap daw pero ang say shemayyy wtf',no
+4.2778136094284186E17,'vofnimo year old teen nab charm year old wom beat pulp hoodlum storm ibad _url_',yes
+4.2778728217601638E17,'rt m tak beat no cho rap',no
+4.2779801015250534E17,'nev hist delh rap occur republ day yet anoth feat _url_',yes
+4.2780971143437107E17,'read marry deathlok deadpool wond child fac ev moth could lov',no
+4.2783994371375104E17,'rt almost post rap jok got scar someon might tak invit rap hard express urself day',no
+4.2784192998474957E17,'honest believ wom invit man plac lat night cred claim rap tv',yes
+4.2784711044132454E17,'no fut se or buskens un muj que sea buen te rap bien no tim wast bs _url_',no
+4.2784715451885978E17,'re sil greatest asset tak stand domest viol sex assault don sil long',yes
+4.2785155971704422E17,'rt rap lmfbbao rap thiscouldbeusbutyouplayin _url_',no
+4.2785421882611712E17,'read dissert sask van barneveldt develop rap genocid cas uv',yes
+4.2786370146338406E17,'dear underclassm tak ap gov econ re stupid fuck bc shit gonn rap soc lif gpa le',no
+4.2787480461275136E17,'rt rap dumbest crim ev rap innoc person hoe throwing pussy around',no
+4.278774780956631E17,'rap tweet land uk coupl jail europ new ind today _url_',yes
+4.2787988672047514E17,'know got beat _url_ fuck going see lat',no
+4.2788869078688973E17,'ind gang rap ord eld video sec pol ind pol video foot photogr _url_',yes
+4.2789172558813184E17,'pol op cas alleg missour rap _url_',yes
+4.2789324851892634E17,'can rap murd famy belieb wil stil support',no
+4.279002333566935E17,'can rap murd famy belieb wil stil support',no
+4.2790282475289805E17,'questionsforamnesty advoc leg shown increas sex traffick _url_',yes
+4.279194156071895E17,'year old transgend fem isl nettl died sav beat dea attack _url_',yes
+4.2792442633283174E17,'wasnt dat rap ref dent clearificationtweet',no
+4.2794141602811085E17,'rt agu ferrocarril alimentac son los pil de est integrac rap',no
+4.279669493150679E17,'rt not hezbollah saa wait permit syr giv soldy religy permit rap syr _url_',yes
+4.2797157910526362E17,'wait let rap someon first',no
+4.279804664956887E17,'filipino lov team deniec cornejo say attempt rap vhong navarro cedr lee upd _url_',yes
+4.2799271088920986E17,'rt consid extrem not allow rap incest exceiv abort now txl',yes
+4.2799400443775795E17,'bluestarmom ex girlfriend accus rap long gon nsa can help',yes
+4.2799533786189824E17,'rap _url_',no
+4.2800480415399526E17,'ahahahah rememb girl said boyfriend us beat ass rob ask squ',yes
+4.2801174186415718E17,'war wom continu gop candid txltgov oppos rap incest exceiv abort _url_',yes
+4.2801780100183245E17,'rt zayn girl react say girl bas kick harry americ keep away kendal',no
+4.2802275245320602E17,'help mak hap destinyjon short filmnoir address rap crowdfund indiegogo _url_',no
+4.280728571809833E17,'bul shit army jaw book rap mon old baby _url_',yes
+4.2808015139439002E17,'rt girl screams rap men hap hear ent unlock door beat guy tak pic pol blot no charg fil nor',yes
+4.2808106822730138E17,'ano iyon pakan lang rt girl screams rap men hap hear ent unlock door cont _url_',yes
+4.2808534359461478E17,'riot process in rap accus _url_ outlook wir',yes
+4.2808878788617011E17,'rt not lik creepy going rap way m going murd way',no
+4.280889876310999E17,'richard sherm bout rap bronco com fast superbowl',no
+4.2809049207381606E17,'rick ross arrest morn rap und miam girl artic _url_',yes
+4.2809050397305651E17,'rick ross arrest morn rap und miam girl artic _url_',yes
+4.2809051020580454E17,'rick ross arrest morn rap und miam girl artic _url_',yes
+4.2809051655179469E17,'rick ross arrest morn rap und miam girl artic _url_',yes
+4.2809184747572838E17,'rick ross arrest morn rap und miam girl artic _url_',yes
+4.2811297436533555E17,'real rap victim cry suff traum deniec rap victim wel mak feelin fresh no emot justiceforvhongnavarro',yes
+4.2811504724031898E17,'lie cedr lee min interv tas rap oh com',no
+4.2811964613947392E17,'attempt rap hhahahahahahah',no
+4.2813272926414848E17,'pls look read shar retweet link _url_ mess vhong navarro rap issu',yes
+4.2813823334062899E17,'obam prom veto republ bil forc ir investig rap victim _url_ via',yes
+4.281448614143017E17,'rap not someth mov idiot kahit year ago pa yan',yes
+4.2815450378364518E17,'form nfl play dar sharp arrest susp rap _url_',yes
+4.2815562779881472E17,'dis peopl rap wil alway funny thing hap someon clos tru',yes
+4.2815936023445504E17,'rt rap rick ross arrest morn rap und miam girl us drug cal mol pag http',yes
+4.2815942879453594E17,'rt rap rick ross arrest morn rap und miam girl us drug cal mol pag http',yes
+4.2815991276647629E17,'bakit mag iinvit ng lalak ang isang baba sa pm ng gab na pumunt sa kanyang condo mag aakus ng rap bitch ple',no
+4.2816042722763571E17,'rt rap rick ross arrest morn rap und miam girl us drug cal mol pag _url_',yes
+4.2816091664378266E17,'rt rap rick ross arrest morn rap und miam girl us drug cal mol pag _url_',yes
+4.2816521618287002E17,'kadir nam rap agad hahah',no
+4.281802406709289E17,'rt bclinton escap accus rap broaddrick assault willey jon harass jon lady malign ei',yes
+4.2820037899242701E17,'rt real men dont rap real wom dont expos body right',yes
+4.2820137422908211E17,'duck tap but rap stick nigg',no
+4.2820879997169254E17,'both swear look lik rap kid creeeep feel sorry baby _url_',no
+4.2821999833136333E17,'yeah stop stalk wom handsoff',yes
+4.2822249069583565E17,'pen stat fed investig sex assault report _url_ ekogid',yes
+4.2823629938479104E17,'guy stfu don ev know cal rap',no
+4.2824834635322163E17,'hero wil show no pain get beat wil show pain wom try clear wound',no
+4.2825658967852646E17,'bas o bor dea wom victim multipl rap guy act develop',yes
+4.282648794397655E17,'want unputdown child traffick pag turn torn today headlin _url_',yes
+4.2828227869582541E17,'yorkrey nypd conduc pre sup bowl crackdown sex traffick _url_',yes
+4.2828791079924122E17,'rt rap rap friend rap rap',no
+4.282885553337344E17,'rt rap god wil homosex cho talk mak shit go along',no
+4.2829688988093645E17,'guy try mak jok rap fuck wrong',no
+4.2830814056495514E17,'watch abc fugit want count rap norristown _url_ _url_',yes
+4.2831790977004749E17,'rap cult colleg campus must end _url_',yes
+4.2832442704280371E17,'rt harry qu signific rap vi lam ok pero const que lo ped no no qu hac llat qu ta',no
+4.2833877369739264E17,'rt rap god wil homosex cho talk mak shit go along',no
+4.2834918521438618E17,'rap period abus abort pregn harass breast cant walk che fem',yes
+4.2835097621535949E17,'monst gany ba itsur ng na rap di baleng bisay wag lang mag katulad mo etchoser ka eh ano ngayon kung bisay',no
+4.283563303576576E17,'_url_ pot vpot nail talk sex assault wom',yes
+4.2835740875977114E17,'rt rap kany west arrest morn rap und miam girl us drug cal mol pag http',yes
+4.2835780766322278E17,'rt rap kany west arrest morn rap und miam girl us drug cal mol pag _url_',yes
+4.2835786203820032E17,'rt rap kany west arrest morn rap und miam girl us drug cal mol pag _url_',yes
+4.2835788262383616E17,'rt rap kany west arrest morn rap und miam girl us drug cal mol pag _url_',yes
+4.2835845514633626E17,'rt rap kany arrest morn rap und miam girl us drug cal mol pag _url_',yes
+4.2836311530708582E17,'rt sho men wom childr fle viol southsud tel us much via _url_',yes
+4.2836675534258586E17,'big no ment rap milit sotu',yes
+4.2837135672898355E17,'rt cathy mcmorris rodg m inspir year old forc wom carry baby rap incest sotu gopr',yes
+4.2837206264250778E17,'rt ant rom men found guil rap testic crush two ston',yes
+4.2837207946205594E17,'rememb um fan held hi lizzy seeberg sign gameday taunt nd re sex assault alleg wel _url_',yes
+4.2837471868133786E17,'lmao rap on',no
+4.2837616275961446E17,'dont wann rap ya just want pap',no
+4.2837653428689306E17,'abc fugit want count rap norristown _url_ _url_ ass fuckin',yes
+4.2837965460538982E17,'rap whistl mean background mus',no
+4.2838372802536243E17,'real rap got boob com now',no
+4.2838611520090112E17,'brady hok cov rap alleg lied protect rap must fir _url_',yes
+4.2838614670851686E17,'nev rap sex wil alway consens vert pillow talk rom word iv ev ut',no
+4.283929338141737E17,'destiel superwholock babyyoureacrimin chosenpr punch guy bc mak rap jok _url_',no
+4.2839903361527398E17,'rt don know say see lif destroy asyl seek crit respons rap claim _url_',yes
+4.2841522450952602E17,'not rap surpr sex',no
+4.2841948941203046E17,'rt muntik ka na palang ma rap teh pero yung re rap sa yo nas kwarto mo ikaw nas lobby san nakip phon sex ka na la',no
+4.2843483516698624E17,'didn kil rap molest kid no shit just drug black dud near rap ass',yes
+4.2843825789484646E17,'ncp lead doesn know rap hap due pervert mindset abt unreport rap hap min toddl',yes
+4.2844018008143462E17,'rt lady group pul kapil sharm jok pregn wom feel rap wom fault',yes
+4.2844446846366925E17,'en rout gle high forc marry pret wherea brum ixecmv',no
+4.2844748420182426E17,'burgl return rap victim awesom cour sav _url_',yes
+4.2845846890781082E17,'ncp wom lead say dec victim blam rap _url_',yes
+4.2846114724816077E17,'rt real rap victim cry suff traum uncomfort deniec rap victim mak feel fresh',yes
+4.2847591640297062E17,'chapt clos wann knw height femin man fals accus gf rap acquit',yes
+4.2848123712086016E17,'tvpatrol paano kay isisingit ni cornejo ang rap sa min hirap na nga yung attempt rap eh',no
+4.2848722933042381E17,'sex girlfriend day kept yel guy nam hel rap',no
+4.284874766052393E17,'rt pag na rap nanlab yan us sug pas bal sa kataw pero tek sino ba mas mukhang na rap si vhong si',no
+4.2848892756179354E17,'rt pag na rap nanlab yan us sug pas bal sa kataw pero tek sino ba mas mukhang na rap si vhong si',no
+4.2848895481636864E17,'dum si vhong lumaba si deniec dum si cedr less min ni rap agad ano minut win',no
+4.2848937399931699E17,'rt rap min ano pagkapasok laba agad',no
+4.2849104432215654E17,'may kausap pa si deniec sa laba ng condo paano yong rap woooow justiceforvhongnavarro',no
+4.2849203709714022E17,'don know insist rap attempt rap thing pretty obvy huh abscbn tvpatrol',yes
+4.284925286318121E17,'ang pang ra rap ni vhong ay prang minut win sya pumasok tapo sya binugbog ni cedr',no
+4.2849275731786957E17,'rt real rap victim suff traum uncomfort deniec rap victim wel feel fresh no emot',yes
+4.2850150716449587E17,'fem polit suggest ind wom invit rap new delh reut ind fem polit',yes
+4.285041725565952E17,'dum si vhong dum si deniec dum si cendr ano yun rap minut ano',no
+4.2850967950997914E17,'girl beat unconscy classm md el scho dc new fox dc wttg _url_ smdh',yes
+4.2851029066620109E17,'rt dum si vhong lumaba si deniec dum si cedr less min ni rap agad ano',no
+4.2852467345051238E17,'not surpr remind old blog post _url_ ncp wom polit suggest nirbhay invit rap',yes
+4.2852523131811021E17,'wolverin kick brend gibbon expel michig amid sex assault investig _url_',yes
+4.2853977520564634E17,'rt lady group pul kapil sharm jok pregn wom feel rap wom fault',yes
+4.2854840555237376E17,'ye re op every cas start hitl genocid delh rap idiot reop',yes
+4.2854985957952717E17,'id consid rap',no
+4.2855403157365965E17,'river sad child welf ag virt sil child sex traffick dmst',yes
+4.2855967289154355E17,'pick stick ground knock fat girl nev spok anoth word beat',yes
+4.2856120658076467E17,'rt dum si vhong lumaba si deniec dum si cedr less min ni rap agad ano',no
+4.285621287953367E17,'av rap fest pract sist friend basedmuz rap sibl tradit',yes
+4.2856303840946176E17,'child rap blackmail scum stat _url_',yes
+4.2856490949727437E17,'wel rap failedthatfin',no
+4.2857091180214272E17,'court remand man alleg rap niger _url_',yes
+4.2857165424388915E17,'rt blah blah abort rap genocid homicid suicid pedophil midget unicorn shit piss fuck bukakk rac slu',yes
+4.2859182757147443E17,'rt first scen jaw girl attack screaming real pain har brok hip drag',no
+4.2859239711561728E17,'rt first scen jaw girl attack screaming real pain har brok hip drag',no
+4.285927156645888E17,'chang new delh year old rap boyfriend pretext marry _url_ crim rap vaw ind via',yes
+4.285950448706519E17,'rt first scen jaw girl attack screaming real pain har brok hip drag',no
+4.2859816326857933E17,'deniececornejo ayaw mo paaw ano yan minut ro rap _url_',no
+4.2860110103919411E17,'think can don rap problem colleg campus wil help _url_',yes
+4.286049857989591E17,'rt wom fir burn wak replac pint whiskey cigaret out spac',no
+4.2861019187395789E17,'buy cuz m girl burn girl',no
+4.2861566451372851E17,'rt ant rom men found guil rap testic crush two ston',yes
+4.2863157692716646E17,'inspir dumb thing peopl said sex rap ind _url_ us _url_',yes
+4.2864930529007616E17,'fem cop sued allg arrest scold wom rap _url_',yes
+4.2865258627140403E17,'m int talk wased univers facul guy attack argu said comfort wom system wrong',no
+4.286614644175831E17,'pol arrest robbery rap ogun _url_',yes
+4.2866163139740467E17,'rt hom wann rap battl say bruh rap battl hom rap battl',no
+4.2866340965609472E17,'isn non consens sex pc way say rap tak on occur vers two',yes
+4.2866375017525248E17,'isanggun kay attorney sa isyu ng rap panggagahas kasam si atty emmanuel joseph cer leg _url_',no
+4.2866989241009357E17,'eleph kil peopl every year known also rap kil grown rhino',no
+4.286822503186432E17,'fuckkk finn get attack oprah twit ain rap moan',no
+4.2868570096418406E17,'lifewir mak diff domest viol lead caus homeless wom childr _url_',yes
+4.2868692082296832E17,'bibl speak talk serp donkey ear flat condon slavery allow rap etc book wrong',yes
+4.2868951133454746E17,'girl shak booty beat soulj boy thang com hang wit throwback',no
+4.2869025349528371E17,'two rap ll record',no
+4.286918954314711E17,'minut rap hahahahahagag _url_',no
+4.2869341110992896E17,'nung un attempt rap pangalaw ni rap na pangatlo ano nambugbog si vhong ng anim na lalak',no
+4.2869592483183002E17,'nigga stil tryn rap fem now _url_',no
+4.286959817489408E17,'rt pleas don allow viol hatemong us ap harass exploit margin wom _url_',yes
+4.2875090158803354E17,'hoe scar touch em gon yel rap',no
+4.2876307390660608E17,'m stil marry childr though lmaoo nunn',no
+4.2876987679926272E17,'m sur get ass whoop court many wom basketbal play alltalk way burn nat',no
+4.2878573768567603E17,'tim although phys rap just fil hol also isn someth els _url_',yes
+4.2879724030435328E17,'stockm cal viol wom act tru bad bil benefit men dress wom _url_',yes
+4.2880023749106893E17,'myredbook doctor_t can rap pay paid heel room outfit writ libel internet',yes
+4.2880238353648026E17,'an od ni se sis hop don mean rap sha off lost c',no
+4.2883014698942054E17,'can rap andy sos un desmadr',no
+4.2883979195464499E17,'oa mo na den pavictim ipagang rap na yan si gag hahah',no
+4.2884142046028595E17,'di ka kailang rap ni vhong deniec kas sinong baba tutuwad diy am hahahaahh',no
+4.2884312593559552E17,'rap deniec cornejo rap hahahah _url_',no
+4.2884721552458547E17,'less minut rap agad minut win ahahah',no
+4.2885039908560077E17,'soch work tel brut rap newslock _url_',yes
+4.28865137496576E17,'man serv prison sent year rap murd lat found wrong convict dik ting',yes
+4.2887640103992934E17,'ask week talk ask hand marry god forc outt feel lov ide',no
+4.2888834958442496E17,'sup bowl sex traffick _url_',yes
+4.2889414659869082E17,'exceiv kil hum rap wom',yes
+4.2889569628116992E17,'pleas rt follow help support stop domest sex viol itsnotalwaysphys',yes
+4.288965724666839E17,'beltway insid obam prep stat un us russ talk olymp sec wh sex assault task forc _url_',yes
+4.289054912263127E17,'just los just rap just gon',yes
+4.2891161403355136E17,'rap bail offens',yes
+4.2891337604807475E17,'civ test clark gonn rap sideway easy peasy can',no
+4.2892481013180826E17,'transgend wom col almost tim lik expery pol viol gen tran pop',yes
+4.2894421065888563E17,'rt rap wom hat wom think tim kil wom tim heal wom rea',yes
+4.289613591336919E17,'tickl just rap slight ey contact necess',no
+4.2896879260220621E17,'sup bowl sex traffick myth _url_',yes
+4.2897093140323123E17,'wom alleg abduc sex assault lapd video sid video _url_ via',yes
+4.289858562929623E17,'dream last night forc marry didn want ran forest jap',no
+4.2900003665217126E17,'strange turn story beat gay journ kick wom pri incid complaint say ny _url_',yes
+4.2900484442765722E17,'just fb stalk wom fak baby sev freak now bitchesbecrazy',no
+4.290216994308096E17,'girl got beat dea photo bomb',yes
+4.2902605626410189E17,'ev pet omg going rap wear leath body suit _url_ harry styl',no
+4.2902817338517914E17,'absolv appal rap surv drc pun rap pleas read _url_',yes
+4.2903142962470093E17,'kind cult msnbc allow hat rac cal viol wom occ cult cult cult',yes
+4.2903761354335846E17,'hipst girl burn mou pizz want eat cool',no
+4.2904548125612851E17,'pol cult disbeliev rap claim alarm off monit group new fig rev pol _url_',yes
+4.2904862563777331E17,'rt rap colleg camp espec among black stud stil not giv prop at nee',yes
+4.2906348104466022E17,'rt whit ppl get away wear singl lay weath murd rap dui drug charg slavery clear',yes
+4.2906763060379648E17,'said rap hap reason no',no
+4.2906781647059354E17,'ss rap boo rt ready fa anoth day _url_',no
+4.2907365510535578E17,'rt s rpt viol indig wom canad publ year ago nee act now _url_',yes
+4.2907509329444045E17,'rap jojojo xd ah re pap nuel lo dud band pero mi cu ayudo termin de decidirm',no
+4.2908788098872934E17,'wil rap',no
+4.2909502803243418E17,'grow want son first daught son beat boy mak littl girl cry',no
+4.2910357561332531E17,'spongebob mak an rap jok _url_',no
+4.2910380918952755E17,'hat rap sex assault apart peopl liv espec child mak angry sad',yes
+4.291109111528407E17,'lik rap ton dem shit principl ye',no
+4.2911443149508608E17,'girl carpet burn should bru everywh',no
+4.2914957733869978E17,'newcom op rap moth suff song wrot _url_',yes
+4.2916886115846144E17,'rt ex ask could visit bring pizz pwed kay akong sumigaw ng rap cho',no
+4.2916920062482842E17,'ye real men don rap stoprapenow',yes
+4.2920414728015053E17,'may bago daw gam show ngayon minut rap join na sa condo daw ang audit',no
+4.2922496767978701E17,'rt many mus institut rap art nam provid platform',yes
+4.2923086338185216E17,'try rap pancho bathroom isn',no
+4.2923132114396774E17,'wahhh many hous today dont guil just rap ask',no
+4.2923817940565197E17,'regard uk hom off stat rap rap crim judg attrit rat',yes
+4.2924771193914163E17,'cours young asain men think viol wom disagr men acceiv look bring par',yes
+4.2925040846137344E17,'ll rap dat op plac not sur wheth re rap nah bring along friend',yes
+4.2926332394394829E17,'tweet think reconsid sel book seem enco rap _url_',yes
+4.2927891412956774E17,'dr michel ward inspir wom ev stalk ain no jok peopl think funny',no
+4.2928124939259085E17,'glad det tday bc waitin outsid room idk girl punch anoth girl ey kick',no
+4.2928742236790374E17,'mean phenomenon surv bootstrap the rap without research',yes
+4.2928841608620851E17,'rt aid just yel word someon tri rap re welcom',no
+4.2929192374530458E17,'rt dat rap alleg class no crim pol forc england wal _url_ _url_',yes
+4.2929355901595648E17,'man tri rap refus wear condom sex _url_',no
+4.2930303682596864E17,'rt child marry dowry sat part tradit aap spokesperson tim now',yes
+4.2930488821273395E17,'sorc granddaught work viol toward wom mumtaz sorc daught pc sorc jr gra _url_',yes
+4.2932344546657485E17,'melvin al found not guil friday count rap count gross sex imposit burgl _url_',yes
+4.2933222113295565E17,'melvin al found not guil friday count rap count gross sex imposit burgl _url_',yes
+4.293378690107433E17,'sup bowl sex traffick real just rumo _url_',yes
+4.2933794404265165E17,'re lucky didn rap',yes
+4.2934936706641101E17,'study just don just lesb rap reason wom choos nev man',yes
+4.2937857637142528E17,'look bit bright par day ibiz august ev mean tim bout rap ass fif',no
+4.2938875553160806E17,'guess on way rap prev _url_',yes
+4.2939107475103744E17,'kirst gillibrand slam sex assault panel decid command rol sen quest sex',yes
+4.2942767477622784E17,'end epidem rap milit fix brok just system _url_',yes
+4.2942992196267213E17,'spongebob mak an rap jok _url_',no
+4.2943568707545498E17,'rt questionsforamnesty cal pimp traffick slavery viol abus wom kid http',yes
+4.294366484350976E17,'newcom op rap moth suff song wrot _url_',yes
+4.2945634707231949E17,'reasonsineedfemin rap stat _url_',yes
+4.2947868761274778E17,'due process get child marry way boy maj',no
+4.2948115960131174E17,'cut grass no pun rap hold rap pol account keny can set exampl world justiceforl',yes
+4.2948491686301286E17,'rt aap now khap just win haryan aap want support khap aap reply wom empow rap',yes
+4.2950740662920806E17,'rt fran oi xavy nsanzuwer stresses import giv voic victim prosecut sex viol crim',yes
+4.2951314535942963E17,'court remand yr old man rap year old girl _url_',yes
+4.2955500719767962E17,'end epidem rap milit fix brok just system _url_',yes
+4.2955538845192192E17,'colleg accus mishandl sex assault cas _url_',yes
+4.2956502239071846E17,'last week someon threatened rap story obvy someth els found strange wak',yes
+4.2959553624134861E17,'phon suppos com doesn im hunt delivery man rap kil',no
+4.2960535145797632E17,'rt indones wom fal victim hum traffick us opin _url_ _url_',yes
+4.2961381003573658E17,'almost yr lat noth chang ant rap protest delh _url_',yes
+4.2964323934837965E17,'rt mak child marry bind adult marry min wil cruel mor pol de',no
+4.2965034440748237E17,'rt ll rap rt stokec yamasimb friendsofstokec',no
+4.2965039782614221E17,'rt imam say non hijab wear wom ask rap tri rap on worldhijabday allaboutrap _url_',yes
+4.2965559175861862E17,'retweet think sould pun rap _url_',yes
+4.296558093167657E17,'rt av fem prostitut begin turn trick year ag docu rap profit',yes
+4.2966289843709542E17,'form whit hous lawy now work bikram yog guru accus rap _url_',yes
+4.2966431325554278E17,'traffick humantraffick isn just kid isn just wom isn just sex _url_',yes
+4.2966522085679514E17,'rt dark end street black wom rap resist _url_ blackfemst',yes
+4.296821156726784E17,'fuck whit girl gon eat yo ass don get mad hol rap nigg hat dad',no
+4.2968550411666227E17,'join sup bowl pray party not pray team soul sex traffick hom church _url_',yes
+4.2971000830638899E17,'aust wom rap duba told opt marry attack jail _url_ rap',yes
+4.2971392969121382E17,'report week suggest trend disturb postcod lottery rap victim emerg _url_',yes
+4.2971443979787059E17,'jean pasc jean pasc box champ jean pasc contact investig alleg sex assault _url_',yes
+4.2972783643460403E17,'_url_ alsof het iemand and rap butnotrea likingit',no
+4.2973451227302298E17,'rt dyl farrow woody al liv testa way socy fail surv sex assault _url_',yes
+4.2973671003796685E17,'wond sometim accus guy rap ruin lif screed just next way sil victim',yes
+4.2976057942358016E17,'rt trig warn incest sex assault ab dyl farrow survivng sex assault fath woody al htt',yes
+4.2976433730224128E17,'tw sex assault child mt dyl farrow writ sex abus woody al _url_',yes
+4.2977052766296474E17,'watch ppl support ur abus someth surv expery farrow let condemn rap cult',yes
+4.2978256767261082E17,'don tak sery rap accus re prob asshol mean no reason not thatisal',yes
+4.2978977831033242E17,'rt woody al liv testa way socy fail surv sex assault abus _url_',yes
+4.2980433029287936E17,'think _url_ board rap',yes
+4.2980570885157274E17,'want giv shout suxc al kyl hea fac tim birthday girl could watch cus beat dook tcb',no
+4.2981172871797146E17,'rt patriarchy sex viol can not sep pres extract industry man',yes
+4.2981531769965363E17,'unfortun cur incarn due process sa surv rap kit re traum mass backlog',yes
+4.2984912123134362E17,'isn no dat act support not increas sex traffick accompany sup bowl _url_',yes
+4.2986321911376282E17,'rap littl girl peopl stop want movy peopl also stop pay see',no
+4.2986682334172365E17,'rt typ evid peopl demand lik sex viol crim ridic c oft doesn ex bely',yes
+4.299023916310487E17,'limousin subleas sydney outh hap rely forc marry buggy furth self oegm',no
+4.2990364678529434E17,'rt imam say non hijab wear wom ask rap tri rap on worldhijabday allaboutrap _url_',yes
+4.2990729049001165E17,'minut win pal ang pagkak rap ka deniec slow clap',no
+4.2991017261020774E17,'rap ins di san natrom ka na mat ka nang umiyak sa tv nic',no
+4.2991730125349274E17,'rt deniec na rap ako sa isang minuto',no
+4.2995817073242522E17,'lawmak nfl must comb sex traffick _url_',yes
+4.2995870113991066E17,'rap _url_',no
+4.2997476589043712E17,'rt first girl attack movy jaw screaming real pain har brok hip drag',no
+4.2997599018683187E17,'rt first girl attack movy jaw screaming real pain har brok hip drag',no
+4.2998237086366106E17,'sup bowl sunday wom victim domest viol record numb dark sid men chang day stop',yes
+4.299896770690089E17,'sex prostitut without permit rap shoplift',no
+4.2999533456013312E17,'rt first girl attack movy jaw screaming real pain har brok hip drag',no
+4.3000841513889382E17,'esport kay girl wasnt on got kick',no
+4.3001900921679053E17,'rememb precy girl lour sex traffick sup bowl year ago _url_',yes
+4.3002040451452109E17,'sound blam rap victim _url_',yes
+4.3002217310611046E17,'rt ibelievedylanfarrow fals alleg astronom rar fals den sex viol terr',yes
+4.3003923226744013E17,'new black mob viol rap not sur on got _url_',yes
+4.3005500930931507E17,'body beat fuck domin mutil strangulate rap bug kil eat right kil',yes
+4.3005535308325683E17,'whoev blow rap whistl nee go lik now',yes
+4.3009715037536666E17,'piec excr unprofess journ incap object rap deny apolog',no
+4.301011274811351E17,'crmbl anoth on crazy depart saud cler cal baby wear burqa prev rap _url_',yes
+4.3010336379215462E17,'mt superbowl sextraffick playground _url_ traffick wom just htchallenge not sal',yes
+4.3010430181470618E17,'stalk nightm rap dream',no
+4.3011132614523699E17,'mean peopl myredbook priv molest rap wom forum prob cre forum erosescort dot tumblr',yes
+4.3012087695332147E17,'mcdonald imit rap hotlin ad sel big mac notbuyingit _url_',yes
+4.3012590901922202E17,'stil hap lik chevrolet much lik mech rap now lookitup factoryfarm',yes
+4.3012605009883955E17,'rt wait awkward rap commerc sery notbuyingit',no
+4.3013150198936781E17,'m eith broth men wil rap bet run bitch run bitch run _url_',yes
+4.3013371810822144E17,'rt sex traffick hap every day right commun tim go offend _url_ notsosup',yes
+4.3013955865557811E17,'pretty sur every fem americ hormon just kick overdr david beckham',no
+4.3014827223026074E17,'rt just think could perform sup bowl halftim hadn kick girl',no
+4.3015105680730931E17,'rt chris brown nee perform next yearh might just beat fem dant',no
+4.3015327818622157E17,'wil rap bruno mar',no
+4.3015496109617562E17,'rap bruh',no
+4.3015560495579136E17,'don try upload gam pornhub don allow rap',no
+4.3015561525700198E17,'don try upload gam pornhub don allow rap',no
+4.3015600466873549E17,'don try upload gam pornhub don allow rap oh shit',no
+4.3015636343692902E17,'nee air christ don try upload gam pornhub don allow rap',no
+4.3015638976417792E17,'rd_ x______x don try upload gam pornhub don allow rap',no
+4.301564223375401E17,'rap _url_',no
+4.3015655192017306E17,'don try upload gam pornhub don allow rap',no
+4.3015672677269914E17,'wild flagr don try upload gam pornhub don allow rap',no
+4.3015736350961254E17,'don try upload gam pornhub don allow rap',no
+4.3015779332510515E17,'don try upload gam pornhub don allow rap',no
+4.3015792279907942E17,'don try upload gam pornhub don allow rap',no
+4.3015880508810854E17,'don try upload gam pornhub don allow rap',no
+4.3015948097880883E17,'rap sess right now',no
+4.3015953584069427E17,'don try upload gam pornhub don allow rap',no
+4.3015972503738778E17,'rap embarrass',no
+4.3015977324212634E17,'just becam rap cas',no
+4.301598481523712E17,'don try upload gam pornhub don allow rap',no
+4.3015988294033408E17,'don try upload gam pornhub don allow rap',no
+4.3015997217416397E17,'not not ev gam rap',no
+4.3015998303279514E17,'rt hey fuck don try upload gam pornhub don allow rap',no
+4.301600882556928E17,'don try upload gam pornhub don allow rap',no
+4.301601799302144E17,'loool don try upload gam pornhub don allow rap',no
+4.3016021364863795E17,'don try upload gam pornhub don allow rap',no
+4.3016021938602394E17,'childr ag clos ey statut rap superbowl',yes
+4.3016044445277389E17,'don try upload gam pornhub don allow rap',no
+4.3016062391407411E17,'fcc reg chang didn know could broadcast rap without penal superbowl gohawk',yes
+4.3016083982044774E17,'don try upload gam pornhub don allow rap',no
+4.3016086472582758E17,'don try upload gam pornhub don allow rap',no
+4.3016086980934451E17,'rt break new jersey pol fil murd assault rap charg seahawk re',yes
+4.3016088994200781E17,'rt isn footbal rap',yes
+4.301610899771433E17,'don try upload gam pornhub don allow rap m',no
+4.3016118069153792E17,'don try upload gam pornhub don allow rap',no
+4.3016121224111309E17,'don try upload gam pornhub don allow rap',no
+4.3016133602299494E17,'don try upload gam pornhub don allow rap',no
+4.3016141334120858E17,'don try upload gam pornhub don allow rap',no
+4.3016168506458522E17,'rt break new jersey pol fil murd assault rap charg seahawk re',yes
+4.3016173703200768E17,'don try upload gam pornhub don allow rap',no
+4.3016175236220518E17,'don try upload gam pornhub don allow rap',no
+4.3016182763778048E17,'don try upload gam pornhub don allow rap',no
+4.301618708516905E17,'don try upload gam pornhub don allow rap',no
+4.3016217890654208E17,'don try upload gam pornhub don allow rap',no
+4.3016232922161152E17,'don try upload gam pornhub don allow rap',no
+4.3016245885077914E17,'don try upload gam pornhub don allow rap lmao',no
+4.3016308207441101E17,'rap no vasalin',no
+4.3016380838104678E17,'rt break new jersey pol fil murd assault rap charg seahawk re',yes
+4.3016410257372365E17,'jajajajaj don try upload gam pornhub don allow rap',no
+4.3016445082220544E17,'dont ev watch footbal rap somebody got paid yeah def don watch',yes
+4.301647147152343E17,'don try upload gam pornhub don allow rap el tweet del sup bowl',no
+4.3016523310644429E17,'don try upload gam pornhub don allow rap',no
+4.3016538303562138E17,'don try upload gam pornhub don allow rap',no
+4.3016544049759846E17,'don try upload gam pornhub don allow rap',no
+4.3016648404042547E17,'don try upload gam pornhub don allow rap',no
+4.301672044293161E17,'don try upload gam pornhub don allow rap',no
+4.3016769589649818E17,'don try upload gam pornhub don allow rap',no
+4.3016821275676262E17,'don try upload gam pornhub don allow rap',no
+4.301688336228352E17,'don try upload gam pornhub don allow rap',no
+4.3016951988226458E17,'rp break new entir rost arrest charg rap st degr',yes
+4.301703882412073E17,'don try upload gam pornhub don allow rap',no
+4.3017088254872781E17,'don try upload gam pornhub don allow rap',no
+4.3017100191402394E17,'don try upload gam pornhub don allow rap',no
+4.3017399365653709E17,'delh manip wom assault beat men arrest _url_',no
+4.3017465201966694E17,'don try upload gam pornhub don allow rap',no
+4.301788145895465E17,'don try upload gam pornhub don allow rap',no
+4.3018078729655501E17,'go ahead admit faggot shit tight but rap',no
+4.3018205750795878E17,'don try upload gam pornhub don allow rap no chil',no
+4.3018391604182221E17,'blog just lik say jwinston didn rap girl wasn charg',yes
+4.3018471985081958E17,'rap dumb rap innoc person hoe fuck fre',no
+4.3018533468964045E17,'lat fault gang rap say ind polit ash mirs _url_ rapecult rap waronwom',yes
+4.3020103555077734E17,'girl left baby dol lying middl yard noodl get dress drag along toss car favorit guy',no
+4.3020264800900301E17,'mean gon get beat fucc trynn defend fem weird nigg',no
+4.3021788257294746E17,'slavery afric ghan domesticviol abus _url_ not gang rap illeg _url_',yes
+4.3024515312388096E17,'don try upload gam pornhub don allow rap',no
+4.3025494621136077E17,'liv day son attempt rap moth jes com back soon',yes
+4.3029190101591654E17,'don try upload gam pornhub don allow rap',no
+4.3030368052118733E17,'rt prison rap includ rap stat men rap wom unit stat',yes
+4.3031951233268122E17,'rap rap friend xd jajaj que mon por dio',no
+4.3033259638849536E17,'bakit ba pinagpipilit nitong deniec na na rap sya push mo yang minut rap sayo pwe',no
+4.3034336321759232E17,'girl said way rap justin pict ummmmm can not rap jb thx',no
+4.3034484910431846E17,'myth viol wom ris sup bowl',yes
+4.3036239244770918E17,'rt wom hum right org rap cas reg islamabad last fiv year not on convict _url_',yes
+4.3037379483467776E17,'left lyr blur lin right rap victim quot rap said htt',yes
+4.3037887059303219E17,'rap jok not jok wom hat jok not jok guy tel _url_',yes
+4.3038089224298086E17,'calm everyon wasn legitim rap',no
+4.3038140533259878E17,'report sex assault ros across largest campus around boston _url_',yes
+4.3038264873362637E17,'on fact overlook us rap weapon syr',yes
+4.3038300587021107E17,'may kinakatakut kas tyak tinakot yan ni cedr na panindig ang rap kuno na pangyayar napasubo na sil tycctv',no
+4.3038840369657037E17,'rt ben chang destiny thwarted rap instig murd foresight blak curs thriller rom _url_',yes
+4.3038921864527053E17,'hat wast rap friend',no
+4.3039752538505216E17,'rap _url_',no
+4.3040139895899341E17,'rt horr import shar fact viol wom afgh endvaw http',yes
+4.3040467326719181E17,'don try upload gam pornhub don allow rap',no
+4.3040657254030541E17,'nowplay am lab rat relig rap tun _url_',no
+4.3042096742558925E17,'municip la campagn virtuel rap bast scotch le direct de off hlm _url_',no
+4.3042245151676416E17,'got explain dud cop night want tel viol wom spec',yes
+4.3044941721724518E17,'not rap high meth',no
+4.3045217472885555E17,'cut grass no pun rap hold rap pol account keny can set exampl world justiceforl',yes
+4.30455377558528E17,'rt se hag tatuas se rap med cabez se pong pierc se hag lo que se hag siempr ser carlo',no
+4.3046338191335834E17,'manchest city going rap chelse',yes
+4.3046777128225997E17,'don try upload gam pornhub don allow rap',no
+4.3047071690378854E17,'teamdyl woody al liv testa way socy fail surv sex assault abus _url_',yes
+4.3047262366415667E17,'wom alleg abduc sex assault lapd video sid video _url_ via',yes
+4.3047790674615091E17,'rt estim cost viol perpet wom dis wil reach mil doll j',yes
+4.3048631811246899E17,'rt big tim bollywood act direct accus child rap us elit backward brown ppl',yes
+4.3049436722550374E17,'beyond on bil ris rest just approach sex assault _url_',yes
+4.3050494171140915E17,'on three wom may suff abus viol lifetim real sad real man job protect',yes
+4.3050637504769229E17,'mt lib vs conserv ant rap act on _url_ _url_',yes
+4.305095400614871E17,'re unaw going keep keep busy sunday nfl fan anyth els want rap twit yesterday',no
+4.3051742092342067E17,'pop frant nam form argentin junt insid prim mov child traffick _url_ via',yes
+4.3052037955190784E17,'rt eun la man arrest charg forc rap year old _url_ _url_',yes
+4.305263385719808E17,'min blu tea angel wbu _url_ blu four loko island grey peps rap',no
+4.305303872493609E17,'thank mult country study shown incid fals report rap',yes
+4.3053389764272128E17,'avoid dang situ rain rap abus incest nat network _url_',yes
+4.3054220383304909E17,'rap _url_',no
+4.3055114266620723E17,'gay won rap sick ppl wtf m sorry first thought cam mind mucho gayo',no
+4.3055300756703642E17,'rap gonn rap',no
+4.3056078248583168E17,'man accus rap kidnap oak cliff park _url_',yes
+4.3057476786364826E17,'city sandiego track sex assault victim _url_',yes
+4.3058043506920243E17,'dear cop belieb wont hurt ok belieb rap taxidermy could say swag',no
+4.3059360746125722E17,'ind army troop involv worst crim tort rap kashmir indiaquitkashmir nojust',yes
+4.3059596742794445E17,'whoev amazon wish list gift ass wel say wann rap fac cle _url_',no
+4.3061110998146253E17,'rt rt sign stop child traffick us estim childr forc prostitut every year http',yes
+4.3061350786046362E17,'heh smh avoid rap _url_',yes
+4.3062456068237312E17,'quest day law protect rap victim wil god',yes
+4.3064013729103872E17,'pleaseand help build hom victim child traffick _url_',yes
+4.306577176034345E17,'rt ath thesepeoplearefuckingcrazy _url_',no
+4.3066045072513434E17,'rap sodom lect tak dark turn',yes
+4.3069234414566605E17,'can imagin report rap domest viol gard kevin corby shud think unfit job _url_',yes
+4.3070439313115546E17,'rap en ingl es violac',no
+4.3071004516130406E17,'rap noth ste',no
+4.30712045474816E17,'rt want real fath teach son not rap teach daught avoid get rap sta',yes
+4.3071689980287795E17,'btw rap hindu wom fem infanticid smhw missd period ind hist wn hindu wmn oppressd us',yes
+4.3071878281929114E17,'alask highest rap rat s cnn investig _url_ changethel _url_',yes
+4.3072269561380045E17,'sex assault tri aberdeen pol off collaps tri pol off accus sex _url_',yes
+4.307230855120896E17,'belgrad new escap rap suspect stil lam _url_ bdcnews',yes
+4.3073464352913818E17,'no problem triv sex assault',yes
+4.3073512165462835E17,'think lizbe benacquisto exploit past rap choos rev campaign ad _url_',yes
+4.307522691441705E17,'gre see childr sav sex traffick enditmov',yes
+4.3075429508490035E17,'rap fac',no
+4.3075756954445824E17,'est sol work end viol wom year hear say mov _url_',yes
+4.3076659452106752E17,'lock broth everyon chels wil prob rap',no
+4.3077986896013722E17,'aap now rap cas aap detery quick ev ic melt sahar _url_ via',yes
+4.3078221823595725E17,'dai remind lik anim mean fet rap',no
+4.3078647795852083E17,'us teen young rescu sup bowl sex traffick abc new new york dai newsteen youn _url_',yes
+4.3078861268349338E17,'men lik struck lightn fals accus rap wom chant rap th',yes
+4.307891105473577E17,'sd near top rap victim approxim nat wom sex assault unacceiv http',yes
+4.3079403177876275E17,'rt inspir let tweet aspect rap cult consid palpabledouchery ll go first coddl',yes
+4.3079759817870131E17,'think thing howev thing rap sex rac etc discuss mov beyond point',yes
+4.3080097747449856E17,'cal review rap complain tre wom dea _url_',yes
+4.3080206715469005E17,'rt almost post rap jok got scar someon might tak invit rap hard express urself day',no
+4.3080206769992499E17,'rt many wom end sex work econom last resort can cho not rap quest',yes
+4.308118311336919E17,'girl bathroom ask want burn lik bet burn shit',no
+4.3081260747877581E17,'wouldn gre hear muslim say wrong rap hold sleep yr old wiv hypocrisy larg',yes
+4.3085841339687322E17,'justin bieb got arrest rap video _url_',no
+4.3085881146188595E17,'rap next door fantast report cnn stat highest rat report rap _url_',yes
+4.3086074005699379E17,'utah stat attorney argu childr risk gay marry _url_',no
+4.3086342161812685E17,'traffick victim not und sex work',yes
+4.308810407068631E17,'can rap wif kind agree upon marry sex part deal espec god marry no',yes
+4.3089424363763712E17,'beat girl school',yes
+4.3090338533254349E17,'rt tradit marry best plac rear childr ap say _url_ via',no
+4.3090599643397734E17,'l_zaay quicc anoth girl beat girlfriend publ im turn ass box instru',no
+4.3091540910604288E17,'nye worldview dre depress hopeless bit on feel read rap murd genocid bibl',yes
+4.3091729545691955E17,'arrest sex traffick ring ny post superbowl _url_',yes
+4.3093147665841766E17,'ev hap girl attack kil mess photo bomb',yes
+4.3093368459496243E17,'modifiedmummytob instead explain don lik rap jok explain _url_',no
+4.3093387796455014E17,'caus rap _url_ via unslut noh',yes
+4.3094450780727706E17,'don want us stalk gott look thru ur girl favorit see che low',no
+4.3094698360426906E17,'way help end rap alask _url_',yes
+4.3094868893277798E17,'rt th feb pregn wom beat ey conspir carry atroc on mdp want',yes
+4.3096794249562522E17,'girl fir good let burn',no
+4.3097192601027789E17,'nin year old battl lif brut rap new delh yet anoth seem unend display _url_',yes
+4.3097326393874432E17,'rt dat rap mean gam weak man dud',no
+4.3099278357143552E17,'rt form nfl star fac rap charg pol say _url_ _url_',yes
+4.3099706988548915E17,'docu report viol wom ind support lend us voic end vaw dt chang',yes
+4.3100774494282138E17,'rt rap rap friend npvalentines',no
+4.3101332812767642E17,'un accus vat adopt policy allow priest rap childr',yes
+4.310260627270656E17,'dmdeevent bring aw chang ppl preconceiv sex viol conflict london summit timetoact _url_',yes
+4.3102611265606042E17,'rt un denount vat system allow priest rap thousand childr _url_',yes
+4.3102908124143206E17,'wom seen soft target abud trol wom viol twit ind _url_ vaw abus',yes
+4.3104989715316736E17,'rt un denount vat system allow priest rap thousand childr _url_',yes
+4.3105585481766502E17,'rt first girl attack movy jaw screaming real pain har brok hip drag thro',no
+4.3107886979416474E17,'ind girl murd broth law attempt rap get thrown jail hmmm miss someth',yes
+4.3108812636346368E17,'new afgh law sil victim viol wom _url_',yes
+4.3109118503448576E17,'nev end traum drc rap surv pun rap _url_ sex viol',yes
+4.3109186267840512E17,'leav cal today whaaa best luck pretty girl burn tre _url_',no
+4.3109250111859917E17,'islam cler suggest baby wear burqa prev rap via atla shrugs beyond deprav _url_',yes
+4.3111075115646566E17,'thank gre convers stop camp sex viol look forward continu work tog',yes
+4.3111621863722598E17,'report today show assad troop abus childr rap tort _url_',yes
+4.3112440330561126E17,'old artic stil relev canad sex assault law viol rap victim _url_',yes
+4.3115026738055987E17,'rt brandon middlebrook man pol say shot ut long crimin record includ assault ag rap _url_',yes
+4.3115110893828506E17,'best peopl wom prophet mohammad islam also allow men rap war victim _url_',yes
+4.3115497051234714E17,'esurancesav look sketchy ad mix girl fir bet not twerk burn mil _url_',no
+4.3115638921848422E17,'also pleas stop say sex traffick sup bowl myth _url_',yes
+4.3116946027657216E17,'watch helpless commun rap grow scourg land rep attitud entrench corrupt',yes
+4.311750745114665E17,'say capit requir govern lik say lov requir rap offend',no
+4.3118768881824563E17,'rt real wil no mak canad happy giroux dea st lou rap famy neal',no
+4.3118808086781952E17,'tampon pad feminin hygy produc man mad inv intend inadvert rap wom period',no
+4.3119215929158042E17,'men rap hoe just throwing pussy round lik nothin',no
+4.311967866243031E17,'rap parody sick',no
+4.3119724402996019E17,'sex assault think whatev hap just random grab girl kiss',yes
+4.3119825199209267E17,'sex assault damn forest tim victim bit guy badass',yes
+4.3120752522534912E17,'not surpr emoj put lmfao rap fac can funny sometim re qt guess',no
+4.3122849848560026E17,'denv pol look kidnap sex assault suspect denv law enforc look k _url_ auror',yes
+4.3122878188251136E17,'rt cathol secret child rap docu self admit rap hid church fin expos la _url_',yes
+4.3123077660963635E17,'rt cathol secret child rap docu self admit rap hid church fin expos la _url_',yes
+4.3123880090416742E17,'rt car try kil rap min ll shoot don re good easy cri',yes
+4.3124132283470234E17,'ev read artic post on just retweet on best ve read break rap cult',yes
+4.312413230230528E17,'pow artic lack at paid sex assault colleg campus sagrad sach _url_',yes
+4.3124184935788134E17,'rap cult _url_ via',yes
+4.3126642027895194E17,'nn nm ja know juss tryn mak dis rap gam',no
+4.3126957015932928E17,'rap cult look cult fact behind viol _url_',yes
+4.3128941435947827E17,'rememb young lik ew sex now re lik omfg giv sex rap someon',no
+4.3129589850180403E17,'rt xoxo want rap band memb no stop',no
+4.3129684902295552E17,'fm aust annount new support png comb famy sex viol nd largest city lae _url_',yes
+4.3129881251967795E17,'scen homicid rap addit sadtoy',yes
+4.3130635156680294E17,'on tim curv girl real bad verg stalk',no
+4.3135317706646733E17,'rap crim hum marchagainstrap',yes
+4.3135498331411251E17,'ain rap wear watch knew tim _url_',no
+4.3137818848135987E17,'new vat policy allow priest rap childr say damn un report _url_ new',yes
+4.3138107881357312E17,'med sil grac hom cas sil rap chruch hat nev trust med work',yes
+4.313840394557481E17,'rt pol lebanon refus respond cal wom beat dea husband say famy affair _url_',yes
+4.3138843249423155E17,'coron street william roach found not guil preston crown court two count rap four count indec',yes
+4.3138885119482266E17,'coron street william roach found not guil preston crown court two count rap four count indec',yes
+4.3139036593836851E17,'viol wom ign voic patron cal victim refus right enforc ur mor',yes
+4.3139808950550528E17,'amand knox justin bieb get med at sex assault gitmo rac deathpenal _url_',no
+4.3141003785745203E17,'now speak situ london cal day wom london domest viol _url_',yes
+4.3141279460989338E17,'four court rap _url_',yes
+4.3141935288655053E17,'just wit conjoin duck gang rap kid not',no
+4.3142010167886643E17,'wom drag coron blok thru court now get away scot fre not right',no
+4.3142172523522458E17,'uk folk wil understand coron street william roach found not guil two count rap four count',yes
+4.3143987423609651E17,'rap whistl peopl won quit talk',yes
+4.3143990438435226E17,'burn lik noooooo room disappear wom gav samsun galaxy sooo weird',no
+4.3145861360624026E17,'rt pregn period breast cant walk rap harass abus fem go lot wom strong',yes
+4.3149716685128909E17,'thank talk rapecult let increas cult recognit rap sexualviol traum crim',yes
+4.3150117544449638E17,'mil keep look lik gonn rap',no
+4.3151010198874112E17,'femin want educ peopl rap mayb get educ act rap stat _url_',yes
+4.3151287475465011E17,'k heal min shabir khan also cong mla rajour lik fac arrest cas sex assault _url_',yes
+4.3152401969565696E17,'wom wouldn cry rap just men stil get away hard prov get wom get maul',yes
+4.3152866282794598E17,'forc marry now crimin off scotland _url_',no
+4.3153069907484672E17,'maf mak money drug wom traffick _url_',yes
+4.3153681746089574E17,'rt tus break interview fox entir claim affluenz way excus rap am middl class',yes
+4.3153810366137549E17,'now writ slash fic cdi link break school rap schoolhouse son but',no
+4.3155311202192998E17,'southafric correct rap rap gay men lesb cur sex ory _url_',yes
+4.3156090073920307E17,'rap mean m sorry bbcqt',no
+4.3156227978023731E17,'self right bastard think complex rap mak sick no mean no simpl',no
+4.3157547771141734E17,'lov rap',no
+4.3159935566179123E17,'know ye see guy smok wil stick damn blunt an girl wil burn damn uter blunt',no
+4.3162122490125517E17,'rap not victim fault wil peopl understand',yes
+4.3162615820427264E17,'priest rap young boy',yes
+4.3162621444529766E17,'hingham wom attack bed rabid raccoon hingham wom attack wednesday morn rabid',no
+4.3163007173317427E17,'rt grow want son first daught son beat boy mak littl girl cry',no
+4.3163832010842931E17,'dtn world new rap alleg two mackay cop disappoint brisb tim sky new australi _url_',yes
+4.3166596520267776E17,'new queensland pol charg rap fac court _url_',yes
+4.3168004267481498E17,'aust tycoon rap tirad chines firm _url_',yes
+4.3168006089906995E17,'rt biky drink pub charg vlad no bail pol charg count rap get bail qld just _url_',yes
+4.3168382880215859E17,'_url_ vat accus un distort fact rap report glob mail',yes
+4.3168471289393562E17,'aust tycoon rap tirad chines firm outspok resourc tycoon cliv palm condemn _url_',yes
+4.3169306856404582E17,rap,no
+4.317103077662679E17,'photoset escapedosmil projectunbreak nin photograph portray quot said sex assault _url_',no
+4.3179067997121331E17,'balangaraw daniel padill com condo rap pois feel',no
+4.3179546444316262E17,'footbal got convict rap vic last year ban footbal',yes
+4.3182288252490138E17,'rap cult _url_',yes
+4.3182649966750106E17,'lov rap',no
+4.3183175697590272E17,'can tel colleg doesn know off sex assault policy _url_',yes
+4.3183345089551155E17,'rap apolog not good look celebr espec fac fact re publ court find',yes
+4.3183964282909082E17,'combat rap milit duty lik _url_',yes
+4.3185376918203597E17,'rt cramp worst pain girl can feel rap',no
+4.3186040322080358E17,'ion trust thirsty ass nigga ov thirsty nigga mk think wil rap pussy can ev commun',no
+4.3186746346754458E17,'rt first girl attack movy jaw screaming real pain har brok hip drag thr',no
+4.3187000218330317E17,'la frant qui rap est pas cel qu nou mont du doigt _url_ dieudon rt _url_',no
+4.3188309080251597E17,'rap cult _url_',yes
+4.3188758296880742E17,'stud ris get camp ris toolkit join mov revamp sex assault policy campus _url_',yes
+4.3188845872272998E17,'fun fact libtard gun cotrol asshol effect ant rap kit _url_',yes
+4.3190482558517658E17,'rt black hist gwendolyn smi rap resist _url_ can pleas read',yes
+4.3190943939469722E17,'hel non whit monst brut rap murd year old whit niec dai storm brut _url_',yes
+4.3190978314307174E17,'rac us black fac tim us homophob slur mak rap jok say load sex shit no',no
+4.3192700980392346E17,'landmark agr curb sex viol afr country sign un afr un week detail _url_',yes
+4.3193359576296653E17,'person believ cult virt imposs wom sex harass man',yes
+4.3193622275241574E17,'dartmou annount cre new cent prev sex assault viol dartmou _url_',yes
+4.3194131761961779E17,'florid girl attack wear hijab school _url_ islam antimuslim islamophob loonviol',yes
+4.3194272736294912E17,'wish sf good conf slaught innoc rap _url_ won go away sfaf _url_',yes
+4.3194720945873306E17,'us dant cre mov end viol wom op ed kimberl william crenshaw _url_',yes
+4.3194919664905011E17,'post coury man arrest grop wom indian man charg assault battery wo _url_',yes
+4.3196972333794099E17,'ll rap doubl doubl anim styl fri _url_',no
+4.3197849566144102E17,'don understand robin thick sing rap can turn video cal porn art mus video smh',no
+4.3197964259846554E17,'prev rap _url_',yes
+4.3199701317806899E17,'tool gay porn perform charg statut rap year old charg _url_',yes
+4.3200193459443712E17,'alright fin wil got point harass almost every girl follow',no
+4.3201435688094925E17,'leg dat rap drug',no
+4.3202000277525299E17,'coach child withstand relentless deposit cross examin expect rap victim intimid',yes
+4.3204181410397798E17,'rt every wom girl viol attack reduc hum nelsonmandel livingtheleg endgenderviol',yes
+4.3204263057938432E17,'fash show protest viol wom _url_ via',yes
+4.3207657545494118E17,'protest outsid vas vih pol stat delh rap min girl _url_',yes
+4.3207771575658086E17,'rt every wom girl viol attack reduc hum nelsonmandel livingtheleg endgenderviol',yes
+4.3208615127744922E17,'high school teach accus sex assault colorado springs teach arrest accus sex _url_',yes
+4.3208812385902592E17,'increas rap cas report unreport gut wrench',yes
+4.3209657404321792E17,'delh scuffl pol protest min girl rap vas vih pol stat _url_',yes
+4.3209956069382963E17,'rt tim now cal protest rap manipur girl high dram sery wrong',yes
+4.3210013952456704E17,'gma reg pol arrest fugit ex may traffick child abus _url_',yes
+4.3213880801729331E17,'rap anfield wtf hap ars today',no
+4.3213935542851994E17,'loooooool daylight rap giv',no
+4.3214357102238106E17,'rt act pleas don rap',no
+4.3214358558122803E17,'lmao absolv rap rap clear',no
+4.3215337686096282E17,'can help ye want report cas rap liv lfcvafc dead',yes
+4.321564926499881E17,'gan fawehinmin wil ars lawy liverpool shud charg rap',no
+4.3216349695732122E17,'wif govern min wom affair pass gend bas viol jkfeedbacks',yes
+4.3218866784384205E17,'tri upload ars gam pornhub told dnt acceiv rap video',no
+4.3219531288386765E17,'act peopl tak end viol wom girl check photo essay _url_',yes
+4.3219948684548506E17,'rt right lint smal chines man try rap last night',yes
+4.3220624383110349E17,'loc act gun viol reduc stat assembl wom sal lieberm may tony spitaler gunsens gunsaf',no
+4.3221604255612928E17,'rap hard mak mistak',yes
+4.3221778864447898E17,'intrud attack know bet way stop rap occur also right not nee know diff',yes
+4.3222244716184781E17,'mi herman se pas dos semana cantando lo de rap mun ahor se pon en plan nooo no pued ser tat',no
+4.3222716665563546E17,'support educ childr cambod help end poverty sex traffick _url_',yes
+4.3224604919372595E17,'ioc ok lgbt kick chok threatened sex viol _url_ _url_ celebratewithabit',yes
+4.3224672322258944E17,'stud kick texa high school publ lewd report rap _url_ saturdaysch',yes
+4.3226208485678694E17,rap,no
+4.322626217700352E17,'bibl rap law _url_',yes
+4.3227319013226496E17,'consid bad luck rap baby wed day yet anoth reason wed gay',no
+4.3227577571557376E17,'rap friend',no
+4.3228091989937766E17,'viol wom wil not end address cor issu many men learn pervert definit',yes
+4.3228291745305805E17,'yeah ayato wil cal pancak raito wil rap kanato wil mak puppet reij wil mak expery shuu',no
+4.3230984308576666E17,'rt emmet til yr old beat shot thrown tallahatchy riv whistl whit wom _url_',yes
+4.3231333345133363E17,'dont rap',no
+4.3235845546338304E17,'rt ioc ok lgbt kick chock threatened sex viol cheerstosoch _url_ ht',yes
+4.3237619412251853E17,'ain rap say surpr',no
+4.323774908838912E17,'imagin meet l tour jc invit back bus blow rap whistl get arrest',no
+4.3238353083262976E17,'hmm yeah hasn hap yet uhh ok mus wil mak wann rap baby racoon booty fuck',no
+4.3239124802945024E17,'rt interest much say rap funny find now aw quiet ge',yes
+4.3239651798784819E17,'ev foreign tour ar spar curs rap ind _url_ banbollywood greaterpak',yes
+4.3239663868694118E17,'child rap blackmail scum stat brit occupy ireland _url_',yes
+4.3239948734497997E17,'definit tint rap shad',no
+4.3242757043743949E17,'wann see rap',no
+4.324445596717056E17,'don sad bab ll rap com back prom',no
+4.3244984877674086E17,'howrah gang rap cas trinamool work alleg led assault arrest _url_',yes
+4.3246635252870349E17,'maj fact behind rap ind bollywood incit feel cross mor limit banbollywood liesfact',yes
+4.325097429429207E17,'disk spac mgmt recyc bin util no plac metro desktop rel rap metro continu',no
+4.3251394272049562E17,'rt rap doesn hap men turn sexy wom anyon can get turn hot wom tak demon',yes
+4.3252464129148518E17,'rt no way rt tim everyon favorit gam show rap not rap _url_',no
+4.325356851246039E17,'rt socy teach don get rap instead don rap',yes
+4.3254935579958886E17,'rap _url_',no
+4.3255801101432422E17,'rt med report say no rap yet innoc bapuj fram kept custody releasebapuj immedy _url_',yes
+4.325742317426647E17,'peopl plan rap person sex traffick slav traffick',yes
+4.3257474967248486E17,'can hop david moy pul fing hol chang someth ars ars rap us wednesday',no
+4.325772108061737E17,'rt lmfao man urin fan lik olympiako wil rap us hom away',no
+4.3258413432702157E17,'girl scar rap feel prid guy risk spend lif jail get rap',yes
+4.3260313385265971E17,'peopl think jok rap funny disgust sick',yes
+4.3260518750594662E17,'rt ev pet rap not mind',no
+4.3260664275285606E17,'rt emmet til yr old beat shot thrown tallahatchy riv whistl whit wom _url_',yes
+4.3261044069133107E17,'world cal shin ind worst plac wom term rap _url_ banbollywood greaterpak',yes
+4.3262272886500557E17,'rt think tweet jok don kid around com rap aid midget parkinson aut obes',yes
+4.3262936695125606E17,'rap scen',no
+4.3265112293992858E17,'stop guy could flip mom rap sist kick dog giv money wil cool',yes
+4.3266563333174067E17,'prev rap _url_',yes
+4.3268124663676928E17,'holy shit fuck damn fil cost rap ass pap fil ftw',no
+4.3269235042748826E17,'girl last year on gay friend rap confess not real gay next day cilak',yes
+4.3270814614278554E17,'rap releasebapuj _url_',yes
+4.3270828100264346E17,'rap releasebapuj _url_',yes
+4.3271044431101542E17,'money don see lawy defend peopl guil rap murd',yes
+4.3272801790368154E17,'r not gun nut kil crimin break hous might rap wif',yes
+4.3272855426709914E17,'john look sherlock feel lik lik rap group sex',no
+4.3274396739478323E17,'rt alask fac rap resid evil _url_ changethel _url_',yes
+4.3280366931922534E17,'re chil ass girl ve kick chil',no
+4.3280548317955686E17,'ck ga spoil kayak gitu oiy gua blom bala dendam tentac rap homo posjag foto om laen kal har spoil ben',no
+4.3282990006442803E17,'snak nav academy sex assault cas back dc court form nav academy footbal play back dc co _url_',yes
+4.3282997045325414E17,'na ldr ka ba long dist rap nas loob ng condo yung lalak nas laba yung baba',no
+4.3283250776809062E17,'justin bieb got arrest rap video _url_',no
+4.3284114109735322E17,'nav academy sex assault cas back dc court fresno bee _url_ washington',yes
+4.3286804875247616E17,'just commit fail stand surv sex viol _url_',yes
+4.3287019965869261E17,'goodgarl bsk hab pkl rap',no
+4.3288805096923546E17,'rt turkey peopl shelt wom escap viol hom germany pop _url_',yes
+4.329024679157719E17,'willnamoansw saheb stalk wom sev month guj stalk saheb guar wom saf',yes
+4.3290478303775539E17,'rt turkey peopl shelt wom escap viol hom germany pop _url_',yes
+4.3290997383286784E17,'prosecut told icc form congoles rebel lead bosco ntagand ord troop kil rap civil',yes
+4.3291012700886221E17,'year old fak rap cas fil year old innoc saint asaram bapuj releasebapuj _url_',yes
+4.3291794068224E17,'rt rap dumbest crim ev rap innoc person many hoe day',no
+4.3295069884699443E17,'attorney advoc rap law reform shaun prewit wil speak tomorrow m _url_',yes
+4.329622542048297E17,'many boy leav high school think rap funny via _url_',yes
+4.3296624813856768E17,'rt help catch person attack year old wom hom totterdown bristol _url_',yes
+4.3296919403732173E17,'fac rap',no
+4.3297874857757491E17,'tak act tel congress nee protect victim milit sex assault sign petit passmj _url_',yes
+4.3301001726488166E17,'hey guy just creepy guy try rap _url_',yes
+4.3301589441592115E17,'dang ign wsj edit intox sex assault victim just guil attack _url_',yes
+4.3301818634758963E17,'rap nev victim fault rft',yes
+4.3304033140450099E17,'start screaming wsj edit intox sex assault victim just guil attack _url_',yes
+4.3304864122669056E17,'rt gen rap de nuevo gracia',no
+4.3305119901773824E17,'first cnn teen work rescu arrest sex traffick ring new york cnn loc fed _url_',yes
+4.3305252099144909E17,'study guid bio kick ass rap exam doesn ev know com',no
+4.3305519875253862E17,'rt ll want bookmark rap cult prim _url_ nic work',yes
+4.3306753852035482E17,'legitim rap fem body way try shut whol thing wil nev not funny',yes
+4.3307221598759322E17,'aint talkin rap tweet dont wan talk ilcallyouback',yes
+4.3307745263068774E17,'detect wit say slain wom attack first _url_ _url_ _url_',yes
+4.3308285267963904E17,'wom sex assault beat unconscy nypd fac year prison result _url_',yes
+4.331021782201385E17,'tak act tel congress nee protect victim milit sex assault sign petit passmj _url_',yes
+4.3310853827815834E17,'list fem detain subject sex assault egyptians_abroad_for_democracy _url_',yes
+4.3312127888341811E17,'three thing find rap sit cum blood tear',yes
+4.3312601864405402E17,'feb th let support ex indig act around viol wom onebillionr not cdn',yes
+4.331292124010496E17,'rt disgust peopl lik rap cult slut sham patriarchy stem appal _url_',yes
+4.3313813949096346E17,'wann rap uuu lik rn',no
+4.3315979167481037E17,'rap not sex control way unc scam not peopl control us',no
+4.331621143674921E17,'support rap cris cap town trust don heart heart _url_ gre initiatv',yes
+4.3318677408999834E17,'ent rap view bar cry hard omfg _url_',no
+4.3319376815065907E17,'lik video _url_ yr old attempt rap murd mom cod',yes
+4.3319757805047398E17,'illeg aly arrest murd child rap trenton new jersey deport timeisnow',yes
+4.3319917818203341E17,'rap cult custom serv look lik _url_ rapecult',yes
+4.3320930256042803E17,'support campaign rais aw mal rap breakthesil _url_',yes
+4.3321897756566323E17,'rt aap mla on recd jaitley cal dec put press withdraw cas rap surv alleg _url_',yes
+4.332227923522601E17,'gawd dont rap soul fuck handsom _url_',no
+4.3324182425871565E17,'rt lit just rap day no wond nev work prop',no
+4.332419913262121E17,'rt no sens support ars support ars year marry no child',yes
+4.3324324570373734E17,'think pap know sex assault isn booz pow control',yes
+4.3325247724978176E17,'nigg gonn rap sleep lmaooo dontgivehimnonduringthesnowstorm',no
+4.332593359430656E17,'ye utd sor los worry rap wil tak plac emir tomorrow',yes
+4.3326233406931354E17,'stil don understand wsj edit spend tim argu sex assault victim real problem _url_',yes
+4.3326590914305229E17,'astatethatwork not stat second nat sex assault young wom',yes
+4.3326653985733837E17,'wsj edit jam taranto say drunk sex assault victim guil attack petit firetarantowss http',yes
+4.3327030777298125E17,'danepocalyps nigh drunk scandinav teen rap pil pragu _url_',yes
+4.3328710341456691E17,'caus rap _url_',yes
+4.3329654675160678E17,'rap fac competit dad _url_',no
+4.3330606642498355E17,'rt noth lik perpetu rap cult brighton won eat _url_',yes
+4.3331566273209139E17,'tak act tel congress nee protect victim milit sex assault sign petit passmj _url_',yes
+4.3331661062419661E17,'rt help catch person attack year old wom hom totterdown bristol _url_',yes
+4.333490182324265E17,'new rap advert inacc',yes
+4.3335322373103616E17,'pol corp anthony onoj ord nasaraw court pay sum m dam rap year old baby',yes
+4.3335386374407373E17,'rt girl lik liv cult rap damn girl mov away sound dang',yes
+4.3339059849070592E17,'start follow ug bitch now mandem don tre twit lik myspac rap pag gyal',no
+4.3340317056840499E17,rap,no
+4.3340456846322074E17,'pass fly near patterson park regard rap fairmount av monday _url_',yes
+4.3341091093875917E17,'anoth creepy girl stalk apont lmao',no
+4.3341570461259366E17,'fun fact don rap won rap o',yes
+4.3345313055534694E17,'ant dat rap straw detect pres drug drink drug straw wil turn whit',yes
+4.3345437944252416E17,'can see ey rap minseok tim ppl throw word rap around lik candy nee jes',no
+4.3345594482388582E17,'dont rap peopl gethyp',no
+4.3345843849700557E17,'seen newspap ind country on highest rat rap sex abus _url_',yes
+4.3346609032936653E17,'pru goward just ref und sex intercours new grab without cal assault real',yes
+4.3351463147932467E17,'pakistan cler stood conduc marry child brid islam cent newcastl say _url_',yes
+4.3353120114476237E17,'see sa highest anyth hiv murd rap now high blood start doubt research',yes
+4.3354387129409126E17,'zero weird nev march rap country',yes
+4.3355408956617114E17,'lik wom lik lik coff light brown hot enough burn tongu',no
+4.3360120655737242E17,'rt let get drunk m allow rap right wsj teapartyvalentin _url_ htt',yes
+4.3360583497142682E17,'help rap surv get just spreading word _url_',yes
+4.336425487461376E17,'remov polit said wom invit rap cloth behavy _url_',yes
+4.3364449369104794E17,'rt best detail info ve ev read post traum stress disord rap surv _url_',yes
+4.3365946460484403E17,'seem lik typ girl burn wat',no
+4.3366553674908467E17,'rt sex assault egypt sec forc us virgin test fem detain _url_',yes
+4.336657827789865E17,'yo stef melbourn guil rap clapham off believ may victim cal _url_',yes
+4.3366616924215706E17,'rt no thing virgin test sex viol cal rap sex assault egypt',yes
+4.3366829320414822E17,'rt dear doct giv amphetamin m yel rap',no
+4.3366949723742618E17,'rt surv sex assault confid voic heard backlog undermin confid',yes
+4.336984466469847E17,'pls check shar kickstart design help surv sex viol drc _url_',yes
+4.3372140691721421E17,'watch us dant tak stand end viol wom girl billionr ris just _url_',yes
+4.3372768359248282E17,'read kil mockingbird man hop nev get accus rap',no
+4.3373693547171021E17,'tonight city memph launch off investig backlog rap kit',yes
+4.3373863192929075E17,'wsj column jam taranto argu inebry wom respons rap out must retract',yes
+4.337390117322752E17,'rt stat o bufferzon fre protest harass wom abort clin _url_',yes
+4.337393777226793E17,'lal try rap shit',no
+4.3373995061847245E17,'blam rap rap obvy offend blam rap sometim also _url_',yes
+4.337411291511808E17,'watch us dant tak stand end viol wom girl billionr ris just _url_',yes
+4.3374639831688397E17,'wom womensuccess rac cult rap us weapon war afric _url_',yes
+4.3374785397942682E17,'wsj edit intox sex assault victim guil attack alternet _url_ wtf right wing',yes
+4.3375795182463386E17,rap,no
+4.3377018892086886E17,'convint girl stalk lif',no
+4.3377131453363405E17,'gon beat girl crutch tough ain shit',no
+4.3378147111170458E17,'rt break man execut rap kil fla boy par sought stronger pred confin law _url_',yes
+4.3378794702517453E17,'attorney submit photo sev beat wom evid hon clear tweet hmu els suppos',yes
+4.3379326575079424E17,'watch us dant tak stand end viol wom girl billionr ris just _url_',yes
+4.3379788536559616E17,'encant pero lo que vos no sab es que voy tracionart as kurt es lo mio par que lo mi cant rap',no
+4.3380177869894451E17,'sens perceiv test going roy rap tomorrow m okay least can say tri',no
+4.338055633117184E17,'rt break man execut rap kil fla boy par sought stronger pred confin law _url_',yes
+4.3381752141080166E17,'rt ant rap campaign explain cons involv ye _url_',yes
+4.3381959140850074E17,'yeah rap lin idk overal strong effort excit rest caus know plan big',no
+4.3382127584978125E17,'sign hear glob mov end viol wom _url_',yes
+4.3383775625964339E17,'plea sex assault victim moth ign church pri you past arrest _url_ sanramon',yes
+4.3385068926181786E17,'speechless wow photoset nin photograph portray quot said sex assault surv pol off _url_',yes
+4.3385261676679578E17,'_url_ pussy want pregn pen fre xxx rap story',no
+4.3388180607337677E17,'on both stalk wom warn ceas desist cal pol now',no
+4.3388539954373427E17,'rt tak control herd powerful mal dolphin ocass rap weak mal',no
+4.3389353058752512E17,'domest viol unfair wom',yes
+4.3389388639032115E17,'uk launch fund help mal victim rap sex abus _url_ via',yes
+4.3389836680875622E17,'uk launch fund help mal victim rap sex abus _url_ via',yes
+4.3391111251428147E17,'sex assault charg asaram read jodhp court _url_',yes
+4.3391725582367949E17,'viol bus stop pal thin girl ey forlorn',yes
+4.339208357753856E17,'shar islam islamophob saudi_enews saud writ urg grop wom mak stay hom _url_',yes
+4.3392409934655488E17,'not underplay sery story don recal rap scen gta',no
+4.339323191547945E17,'rt domest viol expery fem pop survey show _url_',yes
+4.3394606430004429E17,'bob jon un admin cal victim sex assault liar sin _url_ rap bobjonesun',yes
+4.3394607145092301E17,'evil teen kidnap rap murd girl sel soul devil _url_',yes
+4.3397586208688947E17,'two get lif bus rap _url_',yes
+4.339795344391168E17,'highlight fail address sex viol men policy pap focus conflict zon htt',yes
+4.3398313050492109E17,'challeng rap rap langu _url_',no
+4.3398459864595661E17,'anoth man found not guil sex assault excel verdict wil rememb aw ord rest lif',yes
+4.339856737383424E17,'not told requir read think rap cult isn real doesn effect _url_',yes
+4.3400449321927475E17,'rt cult want liv show support rap surv via _url_ http',yes
+4.3400503011157197E17,'indust np psyclon rap world',no
+4.3402905533652992E17,'every girl want nigg can lay beat',no
+4.3403546415754445E17,'turk govern tri equ freedom onlin viol wom _url_',yes
+4.340391464960041E17,'teen charg sydney gang rap _url_',yes
+4.340394965232599E17,'rt join rais aw hum sex traffick rac reg op march st endsextraffick',yes
+4.3404037203848397E17,'prov wast pol tim com said rap cas not cas not guil ve',yes
+4.3405479354042368E17,'rt rap norm hor tru sex viol somal chang _url_ http',yes
+4.3406180986823066E17,'valentin day real help sel dat rap drug',yes
+4.3406778204582298E17,'southampton going rap',no
+4.3406899324756378E17,'ye fals alleg sex assault common not correct just stat victimolog',yes
+4.3407204870116557E17,'lil girl sleep sooooo heavy not good cus fir hous wouldn ev know just burn',no
+4.3407342340107059E17,'ugh shitb rush limbaugh think show sex assault first show second _url_ via',yes
+4.340737272704041E17,'dearest sen dipshit gay marry forc stat straight cit forc marry gay peopl',no
+4.3407377817627853E17,'cert just terr men gang rap moth slaught abeokut tragedy _url_ teamfollowback',yes
+4.3407770047587123E17,'writ book two rap goe wel',no
+4.3408120833129267E17,'un typ rap au micro se fait coup la parol son fr re jumeau prend le rela en pos la quest la longu du mond batpubl',no
+4.3408257543110656E17,'nic yeg may wil tak stand sex viol thank ittakestwo',yes
+4.3408345765301453E17,'pt must read interview surv sex assault get voic heard dc _url_ fem dc',yes
+4.3408606454259712E17,'teen alleg rap neighbo year old sent child welf commit observ _url_ childwelf tool',yes
+4.3409829263323955E17,'peopl claim sex assault form rust colleg profess act new uncov new alleg _url_',yes
+4.3411295397387469E17,'vagin monlog playwright ev ensl hyst sex viol vagin _url_',yes
+4.341183867639808E17,'educ domest viol emot ment sex abus can _url_',yes
+4.3411845363756646E17,'hap country min fight back tear alleg rap year old il _url_',yes
+4.3412297579771085E17,'on teach frank hefn statut rap freshmanfuck',yes
+4.3412445074989466E17,'re keep count sex assault victim humphrey re already peopl act real sad',yes
+4.341332709815337E17,'help rais aw mal rap en victim get support deserv let breakthesil _url_',yes
+4.3416062232312218E17,'stupid tl right not rap nev ev ev girl fault drunk sob blam nev',yes
+4.3417979050592256E17,'weight ref rap texa prophylact bicyc class fbulbm',no
+4.3419458432784384E17,'gonn rap bae sint don want sex tomorrow',no
+4.3419757526543565E17,'spongebob mak an rap jok _url_',no
+4.3420323179988992E17,'class first level sex assault know',yes
+4.3421257156736205E17,'twilight zon amaz show episod brain rap',no
+4.3422419270409421E17,'can rap',no
+4.3422529479140966E17,'word search rap _url_',yes
+4.3424370083981312E17,'every singl crimin sent stol loaf bread ev act found guil rap etc',no
+4.3424627038828544E17,'wom rap abus lifetim ris stop viol billionr _url_',yes
+4.3424627752240333E17,'mcitp wait admin rap config zxzpy',no
+4.3424669134502298E17,'wom wil rap abus lifetim demand end viol billionr _url_',yes
+4.3425011877085594E17,'wom rap abus lifetim ris stop viol billionr _url_',yes
+4.342563122521088E17,'wom rap abus lifetim ris stop viol billionr _url_',yes
+4.3425926493728358E17,'girl im beat da pussy holl dat enough',no
+4.3426201162340352E17,'wom rap abus lifetim ris stop viol billionr _url_',yes
+4.3426659229868442E17,'pol footbal loic remy fac no act rap claim _url_ nufc qprfc _url_',yes
+4.3427616838125158E17,'on bil ris end viol wom glob day act dant liv cov guard _url_',yes
+4.3427825373847962E17,'striker rap investig drop _url_',yes
+4.3428064277209088E17,'stat rap victim am city us depart just',yes
+4.3428842552167629E17,'striker rap investig drop frant surrend',yes
+4.342912341488681E17,'wom rap abus lifetim ris stop viol billionr _url_',yes
+4.3429294076123136E17,'liv fee onebillionr around world end viol wom ris just today _url_',yes
+4.3430019574491955E17,'wom rap abus lifetim ris stop viol billionr _url_',yes
+4.3431048232201421E17,'rap cult look dam _url_ via',yes
+4.3431169302424371E17,'wom wil rap abus lifetim demand end viol billionr _url_',yes
+4.343140965411881E17,'st post sham rap surv bul _url_ obr',yes
+4.3432333351427277E17,'feel sorry kid got beat shov wal giv girl ros lik wtf peopl',yes
+4.3433912590769766E17,'see awesom tak misogyny rap threats light boombix geny _url_',yes
+4.3434622244319642E17,'rt m join rap deb wil say beyond disgust marit rap wasn illeg uk un',yes
+4.3434924834032845E17,'wom wil rap abus lifetim demand end viol billionr _url_',yes
+4.3436188735533466E17,'wom wil rap abus lifetim demand end viol billionr _url_',yes
+4.3436462416804659E17,'spongebob mak an rap jok _url_',no
+4.343864596266025E17,'bso dar sharp may rap wom stat dat rap drug _url_ via',yes
+4.3438652077535232E17,'rap wal now com the',no
+4.3439354633102541E17,'rt caught count rap keep see peopl tweet dar sharp exact',yes
+4.3439443342631322E17,'rt wom on bil wom around world wil expery viol lifetim _url_',yes
+4.344082716893143E17,'bhagodakejr log shiel ke raj rap hua wo zimmed kejr ke raj hua delh pol cheatercongbjp not aap',yes
+4.3440993119925043E17,'rap period abus abort pregn harass breast cant walk che fem go throu',yes
+4.3441786494296883E17,'rt myth wom wil get bulky lift weight wil not burn cal exerc fatloss weightloss heal flatb',no
+4.3442311135035802E17,'can everyon go report girl ig _url_ bitch bash mex burn hel',no
+4.3442375556611277E17,'headlin ex nfl play sharp charg rap cal lawy dar sharp say form nfl saf _url_',yes
+4.3442695194453197E17,'rohingy rap hum traffick burmes democr _url_',yes
+4.3442908817903616E17,'ear today dar sharp charg rap nfl star alleg drug multipl wom _url_',yes
+4.3443206089199206E17,'rt myth wom wil get bulky lift weight wil not burn cal exerc fatloss weightloss heal flatb',no
+4.3444035518268621E17,'might rap sint suggest',no
+4.3444395816152269E17,'ye enough enough stop kil tort rap work togeth ppl want peac recont',yes
+4.3445281525229568E17,'fuck guy rap fet che',yes
+4.3447318301904077E17,'rt ir wom year old daught disfig acid attack husband fath _url_',yes
+4.3448977703162266E17,'pol docu alleg assault forc marry girl quebec jew sect _url_',yes
+4.3451412418239283E17,'naw mormon gott chil masturb self rap tf church gott chil',no
+4.3452276542550835E17,'d on mad girl kick',no
+4.3452742458044416E17,'video gingerhobbit tealov chloerayne trig warn scot ant rap psa direct _url_',yes
+4.3453870784499712E17,'new post m glad accid rap year old rap victim _url_',yes
+4.3454003641594675E17,'cal someon doesnt rap',no
+4.3454451520321946E17,'ear dar sharp charg rap nfl star alleg drug multipl wom _url_',yes
+4.3462490437873664E17,'rvp rejoin ars ll rap cow upload video favourit',no
+4.3463208924206285E17,'icejjf finn get reebok deal real see dat red light know go lyr rap ll drop',no
+4.346546164713513E17,'rt delh hc pen lakh viol filthy lang threat murd molest wom _url_',yes
+4.3467190308978278E17,'ear zet rap defens cours letsgooooo',no
+4.3469741112324915E17,'rap cult look dam _url_ via',yes
+4.3472373771248026E17,'rt stop cal pathway rap trail univers tel stud _url_',yes
+4.3472599465448243E17,'un uncov tort rap slavery nor kore _url_ via',yes
+4.347476792778711E17,'bastard thank girl beat cabdr check tl',yes
+4.3474826949992038E17,'pur lov rap cult valentin _url_ homeschool par',yes
+4.3475334947772826E17,'can help us shar post tak step toward tel med confus sex rap isn ok _url_',yes
+4.3475555317346714E17,'neck stil determin wheth sex assault',yes
+4.3475808813530317E17,'sex assault report nor end _url_',yes
+4.3477371366253773E17,'rap top alway interest view just leav quest lif',yes
+4.3477770778918912E17,'just tri submit shootout highlight pornhub won acceiv rap',no
+4.3477863707498086E17,'know men favo rap cas wom believ not coz lot wom scream fal',yes
+4.3478003205815091E17,'peopl nee grow suicid not jok rap not victim fault shit get petty re',yes
+4.3478066992409395E17,'real bug peopl say cus girl dress certain way provok rap attack',yes
+4.34785052808192E17,'rt not everyday rap sometim just grab thigh say pls',no
+4.3478700407812096E17,'not rap lik',no
+4.3480202591039078E17,'fuck rap gam rap gam mudvayn',no
+4.3482242107430502E17,'not rap don resist think might get rap',yes
+4.3482774329373491E17,'pking sue doll tre mik ik sex assault miltownmov comedy funny loop oldvin _url_',yes
+4.3483660945682022E17,'playskool first rap kit',yes
