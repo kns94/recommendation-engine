@@ -1,0 +1,15 @@
+The following code will extract entity and entity types for a given set of keywords
+
+Important Instructions:
+
+	It is important to keep all the files in the current folder, else the API would not be called
+
+	To run the code enter into terminal "python Pipeline.py input_file output_file"	
+
+	If the API limit is exceeded, you would be asked to enter the new key. Please do so!
+
+Process:
+
+	Input File (clean.py) ---> Preprocessed File (Knowledge_Extraction.py) ---> Output File
+
+
